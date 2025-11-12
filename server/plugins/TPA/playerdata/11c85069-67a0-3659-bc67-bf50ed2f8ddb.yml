@@ -1,0 +1,17 @@
+player_name: HeLLo
+language: en_US
+setlang: false
+last_location:
+  world: um
+  x: -202.3240110551788
+  y: 64.0
+  z: 241.0979043196554
+  pitch: 7.650013
+  yaw: -55.050137
+logout_location:
+  world: um
+  x: -173.48963223999198
+  y: 66.0
+  z: 252.4724177939786
+  pitch: 20.70001
+  yaw: -127.35009

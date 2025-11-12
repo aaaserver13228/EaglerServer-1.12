@@ -164,7 +164,7 @@ WorldSettings:
   # All worlds listed here will not have the plugin usable
   # FilteredWorlds: ["creative_world"]
   # FilteredWorlds: ["creative_world1", "creative_world2"]
-  FilteredWorlds: []
+  FilteredWorlds: ["life"]
   # Defines how the Blacklist will be enforced
   # Options:
   #   Message           = The player will see a message that the usage of the backpack is not allowed in this world.

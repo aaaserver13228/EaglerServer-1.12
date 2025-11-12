@@ -1,0 +1,17 @@
+player_name: hdolf_aitler
+language: en_US
+setlang: false
+last_location:
+  world: um
+  x: -927.2660647819162
+  y: 63.0
+  z: 815.8552101733393
+  pitch: 5.4000006
+  yaw: 278.55002
+logout_location:
+  world: um
+  x: -927.2817994772552
+  y: 63.0
+  z: 820.2375000119209
+  pitch: 50.249996
+  yaw: 3.5999937

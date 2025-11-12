@@ -1,0 +1,17 @@
+player_name: Vlad
+language: en_US
+setlang: false
+last_location:
+  world: new
+  x: -0.007623397045404157
+  y: 85.0
+  z: 0.32016937326529793
+  pitch: 48.749973
+  yaw: 113.100006
+logout_location:
+  world: new
+  x: 0.36813193009221545
+  y: 84.0
+  z: 2.7137650420885797
+  pitch: 25.949982
+  yaw: -57.299995

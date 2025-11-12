@@ -42,7 +42,7 @@ new_kit_default_values:
       item_flags:
         - HIDE_ATTRIBUTES
 player_data_save_time: 300
-update_notify: true
+update_notify: false
 mysql_database:
   enabled: false
   host: localhost

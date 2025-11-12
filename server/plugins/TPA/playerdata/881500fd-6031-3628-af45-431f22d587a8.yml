@@ -1,0 +1,17 @@
+player_name: omni
+language: en_US
+setlang: false
+last_location:
+  world: um
+  x: 122.0695045406973
+  y: 145.0
+  z: -20.744483108594473
+  pitch: 28.050035
+  yaw: 353.8484
+logout_location:
+  world: um
+  x: 120.67314852983264
+  y: 136.0
+  z: 39.982242429766686
+  pitch: 48.900017
+  yaw: 153.29729

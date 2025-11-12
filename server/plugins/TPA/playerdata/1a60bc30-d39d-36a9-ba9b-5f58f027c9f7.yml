@@ -1,0 +1,35 @@
+player_name: That1UchihaYT
+language: en_US
+setlang: false
+last_location:
+  world: um
+  x: 147.32870000925615
+  y: 27.0
+  z: -99.96418032628696
+  pitch: 1.9499851
+  yaw: -298.79797
+logout_location:
+  world: um
+  x: 143.4761167052078
+  y: 28.875
+  z: -97.13956829182956
+  pitch: 34.349957
+  yaw: 119.54834
+default_home: home
+homes:
+  home:
+    world: um
+    x: 141.30459428881295
+    y: 28.0
+    z: -100.61037983764393
+    pitch: 45.75011
+    yaw: -89.54975
+  base:
+    world: um
+    x: 121.0
+    y: 145.0
+    z: -80.0
+    pitch: 7.0499997
+    yaw: -1.4999999
+deny_list:
+- dad2c3d9-143b-36ce-9102-87e5b000be97

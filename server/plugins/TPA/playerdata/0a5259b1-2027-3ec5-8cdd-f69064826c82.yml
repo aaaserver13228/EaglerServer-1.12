@@ -1,0 +1,20 @@
+player_name: kingrobby102
+language: en_US
+setlang: false
+last_location:
+  world: um
+  x: -182.95678585955093
+  y: 64.0
+  z: 252.1431279674129
+  pitch: 6.75
+  yaw: -0.45004356
+logout_location:
+  world: um
+  x: -204.11541099561578
+  y: 62.0
+  z: 250.7564041656818
+  pitch: -29.099989
+  yaw: -126.15004
+deny_list:
+- f120e45a-eb13-3e72-ada9-c45d4ab4f99c
+- a09d9599-c777-3d52-b647-797cdc1dc256

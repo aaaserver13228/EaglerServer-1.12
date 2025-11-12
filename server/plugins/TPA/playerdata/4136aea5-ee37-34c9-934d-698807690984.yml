@@ -1,0 +1,20 @@
+player_name: cris00
+language: en_US
+setlang: false
+last_location:
+  world: um
+  x: 134.59887012645876
+  y: 144.90199999809266
+  z: -49.83981805441783
+  pitch: 35.10014
+  yaw: -28.65139
+logout_location:
+  world: um
+  x: 118.43028147086117
+  y: 136.0
+  z: 37.09122158340274
+  pitch: 15.299949
+  yaw: -132.45068
+deny_list:
+- dad2c3d9-143b-36ce-9102-87e5b000be97
+- f120e45a-eb13-3e72-ada9-c45d4ab4f99c

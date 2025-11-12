@@ -20,19 +20,19 @@ DisabledWorlds:
 
 Tools:
   Pickaxe:
-    MaxVeinSize: 24
+    MaxVeinSize: 42
     UsesDurability: true
   Axe:
-    MaxVeinSize: 64
+    MaxVeinSize: 28
     UsesDurability: true
   Shovel:
-    MaxVeinSize: 64
+    MaxVeinSize: 8
     UsesDurability: true
   Hoe:
     MaxVeinSize: 64
     UsesDurability: true
   Shears:
-    MaxVeinSize: 64
+    MaxVeinSize: 18
     UsesDurability: true
 
 BlockList:

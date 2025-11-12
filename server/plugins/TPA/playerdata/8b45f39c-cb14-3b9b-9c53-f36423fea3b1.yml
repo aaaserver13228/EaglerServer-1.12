@@ -1,0 +1,17 @@
+player_name: jellybean21
+language: en_US
+setlang: false
+last_location:
+  world: um
+  x: -1061.9797578210803
+  y: 67.60100002384186
+  z: -381.86826760374356
+  pitch: 61.349983
+  yaw: 225.21118
+logout_location:
+  world: um
+  x: -1516.181554521552
+  y: 68.0
+  z: -1017.3901098831238
+  pitch: 7.6499825
+  yaw: -135.3905

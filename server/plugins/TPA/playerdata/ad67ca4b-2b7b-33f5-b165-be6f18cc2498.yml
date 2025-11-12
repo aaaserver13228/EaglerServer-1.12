@@ -1,0 +1,26 @@
+player_name: froggy
+language: en_US
+setlang: false
+last_location:
+  world: um
+  x: 193.30000001192093
+  y: 5.9375
+  z: 320.22905086544444
+  pitch: 61.049904
+  yaw: 16.803223
+logout_location:
+  world: um
+  x: 189.0089210400391
+  y: 6.0
+  z: 317.5205096455516
+  pitch: 90.0
+  yaw: -17.246777
+default_home: home
+homes:
+  home:
+    world: um
+    x: 189.5320959735113
+    y: 6.0
+    z: 319.2342883269392
+    pitch: 23.999765
+    yaw: 190.65298

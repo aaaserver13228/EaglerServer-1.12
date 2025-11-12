@@ -1,0 +1,17 @@
+player_name: voohees
+language: en_US
+setlang: false
+last_location:
+  world: um
+  x: -504.1495580038679
+  y: 69.0
+  z: 382.0147526515923
+  pitch: 23.399988
+  yaw: 191.70007
+logout_location:
+  world: um
+  x: -189.30000001192093
+  y: 44.0
+  z: 266.30000001192093
+  pitch: 1.0500056
+  yaw: 324.88867

@@ -1,0 +1,10 @@
+name: cris00
+kits:
+  iron:
+    cooldown: 1762653326347
+    one_time: true
+    bought: false
+  food:
+    cooldown: 1762522927348
+    one_time: false
+    bought: false

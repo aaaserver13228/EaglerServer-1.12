@@ -11,7 +11,7 @@ header-footer:
     default:
       header:
         - "<#FFFFFF>&m                                                </#FFFF00>"
-        - "&3&lServer name"
+        - "&3&lMuichiros LifeSteal SMP!"
         - "&r&7&l>> %animation:Welcome%&3 &l%player%&7&l! &7&l<<"
         - "&r&7Online players: &f%online%"
         - "&6Online staff: &e%staffonline%"

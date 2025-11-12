@@ -365,7 +365,7 @@ auto-removal:
   experience-orb: true
   painting: false
   projectile: false
-  item: true
+  item: false
   itemframe: false
   minecart: false
   primed-tnt: true

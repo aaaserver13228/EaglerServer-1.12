@@ -1,0 +1,17 @@
+player_name: Im_Gabe
+language: en_US
+setlang: false
+last_location:
+  world: um
+  x: 258.0775312387185
+  y: 70.0
+  z: 117.72828527239822
+  pitch: 81.14999
+  yaw: -85.65158
+logout_location:
+  world: um
+  x: -204.11541099561578
+  y: 62.0
+  z: 250.7564041656818
+  pitch: -90.0
+  yaw: -97.50012

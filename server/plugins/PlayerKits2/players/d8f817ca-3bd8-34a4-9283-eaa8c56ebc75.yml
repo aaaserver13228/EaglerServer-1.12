@@ -1,0 +1,10 @@
+name: thebesttoucher
+kits:
+  food:
+    cooldown: 1762836967920
+    one_time: false
+    bought: false
+  iron:
+    cooldown: 1762664184433
+    one_time: true
+    bought: false

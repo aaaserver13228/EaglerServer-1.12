@@ -1229,10 +1229,10 @@ respawn-listener-priority: high
 # See 'respawn-listener-priority' above for possible values.
 # Note: Changing this may impact or break 'spawn-on-join' functionality below.
 # Note: Changes will not apply until after the server is restarted.
-spawn-join-listener-priority: high
+spawn-join-listener-priority: highest
 
 # When players die, should they respawn at their first home or bed instead of the spawnpoint?
-respawn-at-home: false
+respawn-at-home: true
 
 # When players die, should they respawn at their bed instead of their first home or the spawnpoint?
 # The 'respawn-at-home' setting above must also be true for this to take effect.

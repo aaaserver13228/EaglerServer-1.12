@@ -8,10 +8,10 @@ spawns:
     yaw: 0.0
     pitch: 0.0
   default:
-    world: 7243ac88-b92b-4d6a-bc8a-eeac6a9eaa5f
-    world-name: new
-    x: 0.0
-    y: 85.0
-    z: 0.0
-    yaw: 0.0
-    pitch: 0.0
+    world: 24b57c21-75f5-48ad-842d-96eb09ea949e
+    world-name: um
+    x: -204.11541099561578
+    y: 62.0
+    z: 250.7564041656818
+    yaw: 0.29996076226234436
+    pitch: 1.800009846687317

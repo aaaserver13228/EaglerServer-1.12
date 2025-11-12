@@ -1,0 +1,26 @@
+player_name: MASTERDICTATOR36
+language: en_US
+setlang: false
+last_location:
+  world: um
+  x: -927.6652853903706
+  y: 63.0
+  z: 819.289585049273
+  pitch: 34.649994
+  yaw: 58.50061
+logout_location:
+  world: um
+  x: -928.2616010135606
+  y: 63.0
+  z: 819.2581393913163
+  pitch: 5.8500085
+  yaw: 170.40088
+default_home: default
+homes:
+  default:
+    world: um
+    x: -928.2253862912642
+    y: 63.0
+    z: 819.7320718641884
+    pitch: 24.149994
+    yaw: 179.10052

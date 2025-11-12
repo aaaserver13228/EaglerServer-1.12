@@ -1,0 +1,10 @@
+name: offical_dream
+kits:
+  iron:
+    cooldown: 1762324793057
+    one_time: false
+    bought: false
+  food:
+    cooldown: 1762798462315
+    one_time: false
+    bought: false

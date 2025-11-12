@@ -1,0 +1,19 @@
+player_name: offical_dream
+language: en_US
+setlang: false
+last_location:
+  world: um
+  x: -187.26903526496127
+  y: 66.0
+  z: 279.77798425756947
+  pitch: 31.500072
+  yaw: 324.2992
+logout_location:
+  world: um
+  x: -188.97313483538022
+  y: 66.0
+  z: 277.8587944440043
+  pitch: 22.350067
+  yaw: 315.14917
+deny_list:
+- dad2c3d9-143b-36ce-9102-87e5b000be97

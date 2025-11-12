@@ -1,0 +1,28 @@
+player_name: thebesttoucher
+language: en_US
+setlang: false
+last_location:
+  world: um
+  x: 120.30000001192093
+  y: 136.0
+  z: 38.07601019776269
+  pitch: 29.549402
+  yaw: -110.10309
+logout_location:
+  world: um
+  x: 120.30000001192093
+  y: 136.0
+  z: 38.07601019776269
+  pitch: 29.549402
+  yaw: -110.10309
+deny_list:
+- dad2c3d9-143b-36ce-9102-87e5b000be97
+default_home: default
+homes:
+  default:
+    world: um
+    x: -450.5498774099846
+    y: 15.0
+    z: 2162.378338995839
+    pitch: 59.10006
+    yaw: 185.55406

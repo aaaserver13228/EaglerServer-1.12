@@ -1,0 +1,17 @@
+player_name: Nari
+language: en_US
+setlang: false
+last_location:
+  world: um
+  x: -200.7089890228025
+  y: 64.7531999805212
+  z: 240.57187997685807
+  pitch: 16.800041
+  yaw: 190.79959
+logout_location:
+  world: um
+  x: -186.0163919677185
+  y: 68.0
+  z: 181.50199250014933
+  pitch: 25.800043
+  yaw: 8.849575

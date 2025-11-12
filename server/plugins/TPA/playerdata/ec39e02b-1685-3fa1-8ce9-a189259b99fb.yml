@@ -1,0 +1,19 @@
+player_name: King_Xander
+language: en_GB
+setlang: false
+last_location:
+  world: um
+  x: -1218.2471836095076
+  y: 81.0
+  z: 441.5873627530496
+  pitch: 9.450006
+  yaw: -110.84992
+logout_location:
+  world: um
+  x: -1736.932384208658
+  y: 73.0
+  z: 653.445525788863
+  pitch: 19.949924
+  yaw: 49.39618
+deny_list:
+- e4115e2e-d929-3d45-9e9e-223aba5ca7b1

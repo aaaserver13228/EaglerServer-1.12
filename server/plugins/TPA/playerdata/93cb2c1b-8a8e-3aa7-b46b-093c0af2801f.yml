@@ -1,0 +1,26 @@
+player_name: Frankie300s
+language: en_US
+setlang: false
+last_location:
+  world: um
+  x: 122.43133996916428
+  y: 130.0
+  z: 43.30000001192093
+  pitch: 46.650078
+  yaw: 4.647413
+logout_location:
+  world: um
+  x: 122.43133996916428
+  y: 130.0
+  z: 43.30000001192093
+  pitch: 69.750084
+  yaw: 4.7974124
+default_home: default
+homes:
+  default:
+    world: um
+    x: -450.181953885669
+    y: 15.0
+    z: 2161.3822457197552
+    pitch: 67.20023
+    yaw: -356.24603

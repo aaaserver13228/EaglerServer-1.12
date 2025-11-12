@@ -1,0 +1,17 @@
+player_name: Rich_guy
+language: en_US
+setlang: false
+last_location:
+  world: um
+  x: -1737.3068767434788
+  y: 70.90199999809265
+  z: 636.3212259402162
+  pitch: 20.099968
+  yaw: -298.003
+logout_location:
+  world: um
+  x: -1737.3068767434788
+  y: 71.0
+  z: 636.3212259402162
+  pitch: 21.749964
+  yaw: -296.053

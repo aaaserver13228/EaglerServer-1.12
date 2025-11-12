@@ -1,0 +1,17 @@
+player_name: Yareth_dude
+language: af_ZA
+setlang: false
+last_location:
+  world: um
+  x: -187.87872464496866
+  y: 52.0
+  z: 305.69999998807907
+  pitch: 17.249973
+  yaw: -273.90042
+logout_location:
+  world: um
+  x: -259.64145282060156
+  y: 67.0
+  z: 238.15603377582872
+  pitch: 25.65
+  yaw: 49.19989

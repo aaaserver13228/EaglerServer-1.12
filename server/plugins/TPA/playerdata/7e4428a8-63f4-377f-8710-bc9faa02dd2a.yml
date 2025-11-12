@@ -1,0 +1,17 @@
+player_name: the_milk_man
+language: en_US
+setlang: false
+last_location:
+  world: um
+  x: -107.69999998807907
+  y: 46.0
+  z: 142.69999998807907
+  pitch: 40.499996
+  yaw: -164.25098
+logout_location:
+  world: um
+  x: -120.74582029433006
+  y: 24.0
+  z: 68.270284619516
+  pitch: 39.149994
+  yaw: -48.901367

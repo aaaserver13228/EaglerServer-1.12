@@ -1,0 +1,17 @@
+player_name: hadeel
+language: en_US
+setlang: false
+last_location:
+  world: um
+  x: -236.98759245996024
+  y: 74.0
+  z: 183.73985468261324
+  pitch: 17.250021
+  yaw: 217.34862
+logout_location:
+  world: um
+  x: -236.98759245996024
+  y: 74.0
+  z: 183.73985468261324
+  pitch: -60.14998
+  yaw: 216.29861

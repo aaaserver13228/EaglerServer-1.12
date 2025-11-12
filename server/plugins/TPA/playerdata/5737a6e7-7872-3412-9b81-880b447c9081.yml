@@ -1,0 +1,17 @@
+player_name: Mapicc
+language: en_GB
+setlang: false
+last_location:
+  world: um
+  x: -1749.5
+  y: 72.0999984741211
+  z: 664.5
+  pitch: 57.900013
+  yaw: -73.60664
+logout_location:
+  world: um
+  x: -1749.4848715331482
+  y: 72.5625
+  z: 662.9885755615351
+  pitch: 36.300034
+  yaw: 178.54327

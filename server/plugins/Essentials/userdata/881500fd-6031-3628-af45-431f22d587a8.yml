@@ -1,0 +1,39 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 127.0.0.1
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 1762801342075
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1762801402250
+  login: 1762801311321
+money: '11351.75'
+last-account-name: omni
+logoutlocation:
+  world: 24b57c21-75f5-48ad-842d-96eb09ea949e
+  world-name: um
+  x: 120.67314852983264
+  y: 136.0
+  z: 39.982242429766686
+  yaw: 153.2972869873047
+  pitch: 48.90001678466797
+lastlocation:
+  world: 24b57c21-75f5-48ad-842d-96eb09ea949e
+  world-name: um
+  x: 122.0695045406973
+  y: 145.0
+  z: -20.744483108594473
+  yaw: 353.848388671875
+  pitch: 28.05003547668457
+nickname: omni

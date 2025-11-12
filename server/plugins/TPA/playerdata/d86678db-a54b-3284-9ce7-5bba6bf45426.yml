@@ -1,0 +1,17 @@
+player_name: Isiss
+language: en_US
+setlang: false
+last_location:
+  world: um
+  x: -210.373727034989
+  y: 70.0
+  z: 306.9933898074738
+  pitch: 9.212494E-5
+  yaw: -42.000168
+logout_location:
+  world: um
+  x: -210.373727034989
+  y: 70.0
+  z: 306.9933898074738
+  pitch: 1.2000921
+  yaw: -41.700165

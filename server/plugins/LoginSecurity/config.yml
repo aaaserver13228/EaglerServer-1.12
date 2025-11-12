@@ -22,7 +22,7 @@ join:
   location: DEFAULT
   # Safely hides the player's inventory until the player is logged in
   # This required ProtocolLib to be installed
-  hide-inventory-safe: false
+  hide-inventory-safe: true
 username:
   # Remove special characters like @ and # from the username.
   # Disabling this can be a security risk!
@@ -39,7 +39,7 @@ updater:
   # The type of builds you are checking. RELEASE, BETA, ALPHA
   channel: BETA
 # Session timeout in seconds, set to -1 to disable.
-session-timeout: 60
+session-timeout: -1
 # Login timeout in seconds, set to -1 to disable.
 login-timeout: 120
 # Login/register message delay in seconds.

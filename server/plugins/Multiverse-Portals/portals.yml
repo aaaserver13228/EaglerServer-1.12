@@ -10,3 +10,25 @@ portals:
     location: 209.0,74.0,176.0:212.0,74.0,179.0
     world: world
     destination: new
+  nether:
+    entryfee:
+      currency: -1
+      amount: 0.0
+    safeteleport: true
+    teleportnonplayers: false
+    handlerscript: ''
+    owner: Adam89893333
+    location: 120.0,63.0,788.0:123.0,67.0,788.0
+    world: life
+    destination: life_nether
+  netherbk:
+    entryfee:
+      currency: -1
+      amount: 0.0
+    safeteleport: true
+    teleportnonplayers: false
+    handlerscript: ''
+    owner: Adam89893333
+    location: 4.0,61.0,-12.0:7.0,65.0,-12.0
+    world: life_nether
+    destination: life

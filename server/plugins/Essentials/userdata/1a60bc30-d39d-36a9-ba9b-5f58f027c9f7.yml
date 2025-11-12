@@ -1,0 +1,38 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 127.0.0.1
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 0
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1762899540110
+  login: 1762899273151
+money: '6.54999999999974'
+last-account-name: That1UchihaYT
+lastlocation:
+  world: 24b57c21-75f5-48ad-842d-96eb09ea949e
+  world-name: um
+  x: 139.69999998807907
+  y: 27.0
+  z: -100.22129639154356
+  yaw: 106.35041809082031
+  pitch: 57.6001091003418
+logoutlocation:
+  world: 24b57c21-75f5-48ad-842d-96eb09ea949e
+  world-name: um
+  x: 143.4761167052078
+  y: 28.875
+  z: -97.13956829182956
+  yaw: 119.54833984375
+  pitch: 34.34995651245117

@@ -1,0 +1,26 @@
+player_name: Wemmbu
+language: en_US
+setlang: false
+last_location:
+  world: um
+  x: 9285.19518200535
+  y: 66.0
+  z: -7365.016108619086
+  pitch: 32.999935
+  yaw: -288.50427
+logout_location:
+  world: um
+  x: 9288.058082411932
+  y: 69.0
+  z: -7373.452062352513
+  pitch: 51.149975
+  yaw: 77.49658
+default_home: ham
+homes:
+  ham:
+    world: um
+    x: 9357.107625162216
+    y: 64.0
+    z: -7334.0830784103855
+    pitch: 1.3500179
+    yaw: -270.65576

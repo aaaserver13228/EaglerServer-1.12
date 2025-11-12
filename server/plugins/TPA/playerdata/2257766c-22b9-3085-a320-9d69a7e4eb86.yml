@@ -1,0 +1,17 @@
+player_name: kamden
+language: en_US
+setlang: false
+last_location:
+  world: new
+  x: -0.6548405686880922
+  y: 84.0
+  z: 8.25874133827411
+  pitch: 46.049988
+  yaw: 8.550003
+logout_location:
+  world: um
+  x: -204.0413114758819
+  y: 62.0
+  z: 249.8676845885242
+  pitch: 3.9000425
+  yaw: 359.99957

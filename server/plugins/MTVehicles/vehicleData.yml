@@ -243,6 +243,27 @@ vehicle:
     rotateSpeed: 4
     maxSpeedBackwards: 0.0
     owner: 522b1a65-cdd5-348f-bfe3-1448aaffcf22
+  LJ-MU-EP:
+    name: Apache Blue
+    vehicleType: HELICOPTER
+    skinDamage: 1124
+    skinItem: DIAMOND_HOE
+    isOpen: false
+    isGlow: false
+    benzineEnabled: true
+    benzine: 85.50999999999259
+    benzineVerbruik: 0.01
+    hornEnabled: false
+    health: 400.0
+    kofferbak: true
+    kofferbakRows: 1
+    acceleratieSpeed: 0.01
+    maxSpeed: 0.7
+    brakingSpeed: 0.03
+    aftrekkenSpeed: 0.02
+    rotateSpeed: 10
+    maxSpeedBackwards: 0.35
+    owner: 522b1a65-cdd5-348f-bfe3-1448aaffcf22
   OG-OJ-GU:
     name: Sedan Sportief Diamond
     vehicleType: CAR
