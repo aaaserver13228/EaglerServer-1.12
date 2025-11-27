@@ -1,7 +1,0 @@
-warnings:
-  ccf6c616-e136-485d-b91b-5f96e76d7713:
-    timestamp: '2025-11-18 00:07:52'
-    reporter_uuid: b8e46504-274d-3847-ac77-ed94dbe8064b
-    reason: stop
-    accused_uuid: 155f3f57-a945-3584-815b-8098efb04320
-    type: WARNING

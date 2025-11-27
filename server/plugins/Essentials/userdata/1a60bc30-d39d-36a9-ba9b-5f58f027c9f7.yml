@@ -16,9 +16,9 @@ timestamps:
   mute: 0
   jail: 0
   onlinejail: 0
-  logout: 1764007627261
-  login: 1764006938270
-money: '28522.479999999999691'
+  logout: 1764177098766
+  login: 1764176927948
+money: '28138.479999999999691'
 last-account-name: That1UchihaYT
 lastlocation:
   world: 24b57c21-75f5-48ad-842d-96eb09ea949e
@@ -31,8 +31,8 @@ lastlocation:
 logoutlocation:
   world: 24b57c21-75f5-48ad-842d-96eb09ea949e
   world-name: um
-  x: -450.22225888772545
-  y: 15.0
-  z: 2161.3444659645384
-  yaw: 30.004547119140625
-  pitch: 24.29994773864746
+  x: -198.76340741026388
+  y: 66.0
+  z: 195.69999998807907
+  yaw: 339.4459533691406
+  pitch: -12.750011444091797

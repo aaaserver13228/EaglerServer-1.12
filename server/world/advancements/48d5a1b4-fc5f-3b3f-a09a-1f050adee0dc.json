@@ -1591,6 +1591,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/diamond": {
+    "criteria": {
+      "has_diamond_block": "2025-11-27 01:56:57 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/bone_meal_from_block": {
     "criteria": {
       "has_the_recipe": "2025-11-11 20:34:58 +0000"

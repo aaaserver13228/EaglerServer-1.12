@@ -59,6 +59,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/wheat": {
+    "criteria": {
+      "has_the_recipe": "2025-11-26 17:07:13 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/snow": {
     "criteria": {
       "has_snowball": "2025-11-21 15:47:57 +0000"
@@ -245,6 +251,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/combat/diamond_sword": {
+    "criteria": {
+      "has_diamond": "2025-11-27 00:45:48 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/blue_stained_glass": {
     "criteria": {
       "has_glass": "2025-11-16 21:05:30 +0000"
@@ -287,9 +299,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/jukebox": {
+    "criteria": {
+      "has_diamond": "2025-11-27 00:45:48 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/flint_and_steel": {
     "criteria": {
       "has_flint": "2025-11-17 23:45:19 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/red_dye_from_beetroot": {
+    "criteria": {
+      "has_beetroot": "2025-11-26 17:07:33 +0000"
     },
     "done": true
   },
@@ -356,7 +380,9 @@
       "bread": "2025-11-21 15:26:47 +0000",
       "golden_apple": "2025-11-21 15:23:11 +0000",
       "rotten_flesh": "2025-11-16 21:21:06 +0000",
-      "cooked_chicken": "2025-11-16 19:45:53 +0000"
+      "beetroot": "2025-11-27 01:41:36 +0000",
+      "cooked_chicken": "2025-11-16 19:45:53 +0000",
+      "carrot": "2025-11-27 03:30:16 +0000"
     },
     "done": false
   },
@@ -459,6 +485,12 @@
   "minecraft:recipes/misc/lime_dye": {
     "criteria": {
       "has_bonemeal": "2025-11-16 19:52:28 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/hay_block": {
+    "criteria": {
+      "has_at_least_9_wheat": "2025-11-26 17:07:13 +0000"
     },
     "done": true
   },
@@ -579,6 +611,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/combat/diamond_chestplate": {
+    "criteria": {
+      "has_diamond": "2025-11-27 00:45:48 +0000"
+    },
+    "done": true
+  },
   "minecraft:story/mine_stone": {
     "criteria": {
       "get_stone": "2025-11-16 21:16:19 +0000"
@@ -597,6 +635,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/beetroot_soup": {
+    "criteria": {
+      "has_beetroot": "2025-11-26 17:07:33 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/brewing/cauldron": {
     "criteria": {
       "has_water_bucket": "2025-11-20 14:17:56 +0000"
@@ -612,6 +656,12 @@
   "minecraft:recipes/decorations/armor_stand": {
     "criteria": {
       "has_stone_slab": "2025-11-21 15:17:55 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/diamond_leggings": {
+    "criteria": {
+      "has_diamond": "2025-11-27 00:45:48 +0000"
     },
     "done": true
   },
@@ -807,6 +857,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/tools/diamond_pickaxe": {
+    "criteria": {
+      "has_diamond": "2025-11-27 00:45:48 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/diamond_hoe": {
+    "criteria": {
+      "has_diamond": "2025-11-27 00:45:48 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/transportation/activator_rail": {
     "criteria": {
       "has_rail": "2025-11-21 14:37:14 +0000"
@@ -841,6 +903,12 @@
   "minecraft:recipes/building_blocks/dark_oak_stairs": {
     "criteria": {
       "has_planks": "2025-11-16 19:58:18 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/diamond_shovel": {
+    "criteria": {
+      "has_diamond": "2025-11-27 00:45:48 +0000"
     },
     "done": true
   },
@@ -922,9 +990,21 @@
     },
     "done": true
   },
+  "minecraft:story/mine_diamond": {
+    "criteria": {
+      "diamond": "2025-11-27 00:45:48 +0000"
+    },
+    "done": true
+  },
   "minecraft:story/upgrade_tools": {
     "criteria": {
       "stone_pickaxe": "2025-11-11 19:27:45 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/diamond_helmet": {
+    "criteria": {
+      "has_diamond": "2025-11-27 00:45:48 +0000"
     },
     "done": true
   },
@@ -973,6 +1053,12 @@
   "minecraft:recipes/combat/golden_boots": {
     "criteria": {
       "has_gold_ingot": "2025-11-17 23:45:31 +0000"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/tame_an_animal": {
+    "criteria": {
+      "tamed_animal": "2025-11-26 17:13:02 +0000"
     },
     "done": true
   },
@@ -1033,6 +1119,12 @@
   "minecraft:recipes/building_blocks/yellow_stained_hardened_clay": {
     "criteria": {
       "has_hardened_clay": "2025-11-24 15:23:45 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/diamond_axe": {
+    "criteria": {
+      "has_diamond": "2025-11-27 00:45:48 +0000"
     },
     "done": true
   },
@@ -1288,6 +1380,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/tools/lead": {
+    "criteria": {
+      "has_slime_ball": "2025-11-27 00:42:22 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/red_banner": {
     "criteria": {
       "has_red_wool": "2025-11-20 15:15:48 +0000"
@@ -1351,6 +1449,12 @@
   "minecraft:recipes/redstone/stone_button": {
     "criteria": {
       "has_stone": "2025-11-16 21:21:25 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/slime_ball": {
+    "criteria": {
+      "has_the_recipe": "2025-11-27 00:42:22 +0000"
     },
     "done": true
   },
@@ -1450,6 +1554,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/sticky_piston": {
+    "criteria": {
+      "has_slime_ball": "2025-11-27 00:42:22 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/polished_andesite": {
     "criteria": {
       "has_stone": "2025-11-17 17:59:43 +0000"
@@ -1477,6 +1587,7 @@
       "savanna": "2025-11-16 19:39:13 +0000",
       "plains": "2025-11-16 19:38:14 +0000",
       "jungle_edge": "2025-11-21 15:12:42 +0000",
+      "jungle_hills": "2025-11-27 01:14:25 +0000",
       "mesa_clear_rock": "2025-11-21 14:14:37 +0000",
       "savanna_rock": "2025-11-16 20:12:07 +0000",
       "taiga": "2025-11-20 15:37:30 +0000",
@@ -1487,6 +1598,7 @@
       "roofed_forest": "2025-11-20 14:10:32 +0000",
       "cold_beach": "2025-11-20 15:34:14 +0000",
       "river": "2025-11-14 18:15:41 +0000",
+      "jungle": "2025-11-26 17:12:35 +0000",
       "desert": "2025-11-17 14:42:48 +0000",
       "stone_beach": "2025-11-20 14:24:32 +0000"
     },
@@ -1624,6 +1736,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/diamond_block": {
+    "criteria": {
+      "has_at_least_9_diamond": "2025-11-27 03:02:58 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/transportation/dark_oak_boat": {
     "criteria": {
       "entered_water": "2025-11-16 03:48:36 +0000"
@@ -1714,6 +1832,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/cookie": {
+    "criteria": {
+      "has_cocoa": "2025-11-26 17:13:31 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/diamond": {
     "criteria": {
       "has_diamond_block": "2025-11-16 19:54:27 +0000"
@@ -1729,6 +1853,12 @@
   "minecraft:recipes/misc/bone_meal_from_block": {
     "criteria": {
       "has_the_recipe": "2025-11-20 14:08:33 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/diamond_boots": {
+    "criteria": {
+      "has_diamond": "2025-11-27 00:45:48 +0000"
     },
     "done": true
   },
@@ -1807,6 +1937,12 @@
   "minecraft:recipes/decorations/light_gray_bed_from_white_bed": {
     "criteria": {
       "has_bed": "2025-11-18 00:00:28 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/slime": {
+    "criteria": {
+      "has_at_least_9_slime_ball": "2025-11-27 00:42:22 +0000"
     },
     "done": true
   },
