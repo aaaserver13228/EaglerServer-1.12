@@ -3,11 +3,7 @@ GriefDefender {
     accessors=[]
     attributes=[]
     builder-groups=[]
-    builders=[
-        "155f3f57-a945-3584-815b-8098efb04320",
-        "005eb8e2-b75d-3c89-87a6-307798f33246",
-        "48d5a1b4-fc5f-3b3f-a09a-1f050adee0dc"
-    ]
+    builders=[]
     claim-expiration=true
     claim-greeting="WELCOME TO SPAWN CHOOSE YOUR NATION TO JOIN 4 AVALIBLE"
     claim-name=SPAWN

@@ -68,6 +68,9 @@ world-settings:
       disable-extreme-hills-emeralds: false
       disable-extreme-hills-monster-eggs: false
       disable-mesa-additional-gold: false
+    remove-corrupt-tile-entities: false
+    use-chunk-inhabited-timer: true
+    queue-light-updates: false
     prevent-moving-into-unloaded-chunks: false
     use-vanilla-world-scoreboard-name-coloring: false
     optimize-explosions: false
@@ -167,14 +170,14 @@ world-settings:
       - planks
     experience-merge-max-value: -1
     armor-stands-do-collision-entity-lookups: true
-    skip-entity-ticking-in-chunks-scheduled-for-unload: true
     disable-thunder: false
     skeleton-horse-thunder-spawn-chance: 0.01
     disable-ice-and-snow: false
+    skip-entity-ticking-in-chunks-scheduled-for-unload: true
     fire-physics-event-for-redstone: false
     spawner-nerfed-mobs-should-jump: false
-    baby-zombie-movement-speed: 0.5
     allow-leashing-undead-horse: false
+    baby-zombie-movement-speed: 0.5
     mob-spawner-tick-rate: 1
     all-chunks-are-slime-chunks: false
     squid-spawn-height:
@@ -183,9 +186,6 @@ world-settings:
     disable-teleportation-suffocation-check: false
     enable-treasure-maps: true
     treasure-maps-return-already-discovered: false
-    remove-corrupt-tile-entities: false
-    use-chunk-inhabited-timer: true
-    queue-light-updates: false
     enable-old-tnt-cannon-behaviors: false
     verbose: true
     allow-block-location-tab-completion: true

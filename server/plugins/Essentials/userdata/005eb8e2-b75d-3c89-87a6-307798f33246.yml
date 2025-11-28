@@ -16,9 +16,9 @@ timestamps:
   mute: 0
   jail: 0
   onlinejail: 0
-  logout: 1764215430595
-  login: 1764215034605
-money: '143.360000000000010'
+  logout: 1764292954689
+  login: 1764292603449
+money: '254.770000000000012'
 last-account-name: icetofight
 lastlocation:
   world: 24b57c21-75f5-48ad-842d-96eb09ea949e
@@ -31,8 +31,8 @@ lastlocation:
 logoutlocation:
   world: 24b57c21-75f5-48ad-842d-96eb09ea949e
   world-name: um
-  x: 3948.871448128569
+  x: 3952.059098893066
   y: 7.0
-  z: 9395.89614213806
-  yaw: 307.499267578125
-  pitch: 21.899999618530273
+  z: 9380.090057939571
+  yaw: -23.845306396484375
+  pitch: 14.549881935119629

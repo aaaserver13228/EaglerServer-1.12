@@ -35,7 +35,7 @@ stealCooldown:
   enabled: true
   
   # Cooldown time in seconds.
-  cooldown: 260
+  cooldown: 1000
 
 # Specify in which worlds each system should be disabled or where it will not have any impact.
 disabledWorlds:

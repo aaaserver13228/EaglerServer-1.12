@@ -16,8 +16,8 @@ timestamps:
   mute: 0
   jail: 0
   onlinejail: 0
-  logout: 1764181905081
-  login: 1764179813547
+  logout: 1764221481749
+  login: 1764220723038
 money: '767.4800000000000012'
 last-account-name: Pedro
 lastlocation:
@@ -31,8 +31,8 @@ lastlocation:
 logoutlocation:
   world: 24b57c21-75f5-48ad-842d-96eb09ea949e
   world-name: um
-  x: -179.64101655546105
-  y: 59.0
-  z: 241.41717939283316
-  yaw: 278.099365234375
-  pitch: 8.39999771118164
+  x: -183.30878216222789
+  y: 64.0625
+  z: 252.23282196676286
+  yaw: 288.8865966796875
+  pitch: 33.5999755859375
