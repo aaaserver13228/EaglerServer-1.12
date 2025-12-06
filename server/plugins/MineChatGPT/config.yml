@@ -7,7 +7,7 @@
 language: en
 api:
   keys:
-  - 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
+  - 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
   selection_method: round_robin
   base_url: https://api.openai.com/v1
 models:

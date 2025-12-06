@@ -46,7 +46,7 @@ GriefDefender {
     manager-groups=[]
     managers=[]
     owner-uuid="19b68718-bb49-3cdf-b365-ea79e4458e74"
-    parent=f740fa69-7eaf-485b-8d77-60094c28d510
+    parent="643d8e62-0ad6-4879-a7c2-9a73b0c34804"
     requires-claim-blocks=true
     resident-groups=[]
     residents=[]

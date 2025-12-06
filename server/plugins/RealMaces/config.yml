@@ -1,16 +1,16 @@
 # RealMaces configuration (1.12.2)
 wind:
   launch_vertical: 3.5      # vertical velocity applied on boost
-  launch_forward: 0.6       # forward speed when throwing (projectile velocity multiplier)
+  launch_forward: 1.1       # forward speed when throwing (projectile velocity multiplier)
   radius: 5.5               # radius of effect on landing
   give_amount: 64           # amount per stack when giving wind burst
   prevent_drop: true        # prevent dropping wind burst items
 mace:
-  base_damage: 11.5
-  fall_ignore: 3.0          # ignore small falls under this Y distance
-  tnt_radius: 5.5           # visual blast radius for Wind Charge / TNT-like effect
-  elytra_assist_radius: 7.0 # assist radius for hitting gliders
-  thorns_launch: 0.0        # upward push when thorns triggers
+  base_damage: 8.0
+  fall_ignore: 4.0          # ignore small falls under this Y distance
+  tnt_radius: 8.0           # visual blast radius for Wind Charge / TNT-like effect
+  elytra_assist_radius: 7.5 # assist radius for hitting gliders
+  thorns_launch: 1.0        # upward push when thorns triggers
 effects:
   particles: true
   tnt_visual: true

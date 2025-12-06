@@ -1,0 +1,17 @@
+player_name: Angel
+language: en_US
+setlang: false
+last_location:
+  world: portal
+  x: 625.9970870884348
+  y: 10.0
+  z: -1122.2427010830988
+  pitch: 18.63534
+  yaw: -120.79692
+logout_location:
+  world: portal
+  x: 605.0
+  y: 4.0
+  z: -1057.0
+  pitch: 0.0
+  yaw: -120.79692

@@ -47,9 +47,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/pillar_quartz_block": {
+    "criteria": {
+      "has_quartz_block": "2025-12-04 15:27:39 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/iron_sword": {
     "criteria": {
       "has_iron_ingot": "2025-10-24 16:48:57 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/observer": {
+    "criteria": {
+      "has_quartz": "2025-12-02 14:52:40 +0000"
     },
     "done": true
   },
@@ -95,6 +107,12 @@
     },
     "done": true
   },
+  "minecraft:nether/root": {
+    "criteria": {
+      "entered_nether": "2025-12-02 14:51:34 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/yellow_concrete_powder": {
     "criteria": {
       "has_gravel": "2025-10-27 16:57:53 +0000"
@@ -110,6 +128,12 @@
   "minecraft:recipes/combat/leather_helmet": {
     "criteria": {
       "has_leather": "2025-10-28 12:48:34 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dark_prismarine": {
+    "criteria": {
+      "has_prismarine_shard": "2025-12-02 14:44:21 +0000"
     },
     "done": true
   },
@@ -326,6 +350,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/diorite": {
+    "criteria": {
+      "has_quartz": "2025-12-02 14:52:40 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/flint_and_steel": {
     "criteria": {
       "has_obsidian": "2025-11-07 14:07:04 +0000"
@@ -393,6 +423,7 @@
       "cooked_beef": "2025-10-30 19:34:29 +0000",
       "chorus_fruit": "2025-11-07 16:17:33 +0000",
       "apple": "2025-11-06 12:52:19 +0000",
+      "potato": "2025-12-03 15:22:04 +0000",
       "rabbit": "2025-11-18 14:37:05 +0000",
       "melon": "2025-11-24 13:00:31 +0000",
       "bread": "2025-11-07 16:16:57 +0000",
@@ -582,6 +613,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/granite": {
+    "criteria": {
+      "has_quartz": "2025-12-02 14:52:40 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/purple_concrete_powder": {
     "criteria": {
       "has_gravel": "2025-10-27 16:57:53 +0000"
@@ -642,6 +679,12 @@
   "minecraft:recipes/combat/diamond_chestplate": {
     "criteria": {
       "has_diamond": "2025-10-27 18:06:31 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/comparator": {
+    "criteria": {
+      "has_quartz": "2025-12-02 14:52:40 +0000"
     },
     "done": true
   },
@@ -771,6 +814,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/quartz_stairs": {
+    "criteria": {
+      "has_quartz_block": "2025-12-04 15:27:39 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/green_concrete_powder": {
     "criteria": {
       "has_gravel": "2025-10-27 16:57:53 +0000"
@@ -897,6 +946,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/combat/spectral_arrow": {
+    "criteria": {
+      "has_glowstone_dust": "2025-12-02 14:52:59 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/white_stained_glass_pane": {
     "criteria": {
       "has_glass": "2025-10-28 17:44:05 +0000"
@@ -912,11 +967,17 @@
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
       "zombie_pigman": "2025-11-13 01:13:26 +0000",
+      "stray": "2025-12-02 14:47:23 +0000",
+      "shulker": "2025-12-02 14:46:26 +0000",
       "zombie_villager": "2025-10-28 11:50:27 +0000",
       "slime": "2025-12-01 13:10:05 +0000",
+      "vindicator": "2025-12-02 14:47:17 +0000",
       "skeleton": "2025-10-28 11:55:44 +0000",
       "husk": "2025-11-06 18:29:35 +0000",
+      "blaze": "2025-12-02 14:44:45 +0000",
       "zombie": "2025-10-28 11:50:09 +0000",
+      "silverfish": "2025-12-02 14:45:50 +0000",
+      "witch": "2025-12-02 14:47:28 +0000",
       "spider": "2025-10-28 12:13:54 +0000",
       "creeper": "2025-10-30 19:31:26 +0000",
       "enderman": "2025-10-29 16:20:59 +0000"
@@ -932,6 +993,12 @@
   "minecraft:recipes/decorations/end_crystal": {
     "criteria": {
       "has_ender_eye": "2025-11-12 15:06:38 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/enter_the_nether": {
+    "criteria": {
+      "entered_nether": "2025-12-02 14:51:34 +0000"
     },
     "done": true
   },
@@ -1022,6 +1089,12 @@
   "minecraft:recipes/building_blocks/gray_stained_hardened_clay": {
     "criteria": {
       "has_hardened_clay": "2025-11-24 14:15:50 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/gold_ingot_from_nuggets": {
+    "criteria": {
+      "has_at_least_9_gold_nugget": "2025-12-05 17:52:08 +0000"
     },
     "done": true
   },
@@ -1139,6 +1212,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/brewing/blaze_powder": {
+    "criteria": {
+      "has_blaze_rod": "2025-12-02 14:44:46 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/paper": {
     "criteria": {
       "has_reeds": "2025-10-29 17:06:54 +0000"
@@ -1238,6 +1317,12 @@
   "minecraft:recipes/decorations/painting": {
     "criteria": {
       "has_wool": "2025-10-28 11:37:52 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/quartz_slab": {
+    "criteria": {
+      "has_quartz_block": "2025-12-04 15:27:39 +0000"
     },
     "done": true
   },
@@ -1409,6 +1494,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/glowstone": {
+    "criteria": {
+      "has_glowstone_dust": "2025-12-02 14:52:59 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/sea_lantern": {
+    "criteria": {
+      "has_prismarine_crystals": "2025-12-02 14:44:19 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/golden_helmet": {
     "criteria": {
       "has_gold_ingot": "2025-10-24 16:49:04 +0000"
@@ -1448,6 +1545,12 @@
   "minecraft:recipes/building_blocks/blue_stained_hardened_clay": {
     "criteria": {
       "has_hardened_clay": "2025-11-24 14:15:50 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/chiseled_quartz_block": {
+    "criteria": {
+      "has_quartz_block": "2025-12-04 15:27:39 +0000"
     },
     "done": true
   },
@@ -1535,9 +1638,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/prismarine_bricks": {
+    "criteria": {
+      "has_prismarine_shard": "2025-12-02 14:44:21 +0000"
+    },
+    "done": true
+  },
   "minecraft:story/form_obsidian": {
     "criteria": {
       "obsidian": "2025-11-07 14:07:04 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/brewing/brewing_stand": {
+    "criteria": {
+      "has_blaze_rod": "2025-12-02 14:44:46 +0000"
     },
     "done": true
   },
@@ -1601,9 +1716,21 @@
     },
     "done": true
   },
+  "minecraft:nether/obtain_blaze_rod": {
+    "criteria": {
+      "blaze_rod": "2025-12-02 14:44:46 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/polished_andesite": {
     "criteria": {
       "has_stone": "2025-10-27 16:57:31 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/quartz_block": {
+    "criteria": {
+      "has_quartz": "2025-12-02 14:52:40 +0000"
     },
     "done": true
   },
@@ -1814,6 +1941,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/daylight_detector": {
+    "criteria": {
+      "has_quartz": "2025-12-02 14:52:40 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/pink_wool": {
     "criteria": {
       "has_white_wool": "2025-10-28 11:37:52 +0000"
@@ -1889,6 +2022,12 @@
   "minecraft:recipes/building_blocks/light_gray_stained_hardened_clay": {
     "criteria": {
       "has_hardened_clay": "2025-11-24 14:15:50 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/prismarine": {
+    "criteria": {
+      "has_prismarine_shard": "2025-12-02 14:44:21 +0000"
     },
     "done": true
   },

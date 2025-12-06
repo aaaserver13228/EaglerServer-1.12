@@ -1,0 +1,17 @@
+player_name: ClownPierce
+language: en_US
+setlang: false
+last_location:
+  world: um
+  x: 478.5
+  y: 63.90199999809265
+  z: 9216.5
+  pitch: 35.849976
+  yaw: -158.85217
+logout_location:
+  world: um
+  x: 470.24941730040126
+  y: 68.56277452733156
+  z: 9212.042586699807
+  pitch: 53.099968
+  yaw: -301.35223

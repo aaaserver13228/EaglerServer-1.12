@@ -1,0 +1,5 @@
+bounceback: true
+worlds:
+  um:
+    portalgoesto:
+      NETHER: um_nether

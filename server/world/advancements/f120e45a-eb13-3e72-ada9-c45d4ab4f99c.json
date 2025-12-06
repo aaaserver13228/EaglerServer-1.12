@@ -95,6 +95,12 @@
     },
     "done": true
   },
+  "minecraft:nether/root": {
+    "criteria": {
+      "entered_nether": "2025-12-03 18:50:06 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/yellow_concrete_powder": {
     "criteria": {
       "has_sand": "2025-10-31 14:07:16 +0000"
@@ -366,13 +372,20 @@
       "cooked_beef": "2025-10-30 16:33:13 +0000",
       "bread": "2025-11-05 12:45:43 +0000",
       "golden_apple": "2025-11-05 14:20:45 +0000",
-      "cooked_chicken": "2025-11-05 12:29:27 +0000"
+      "cooked_chicken": "2025-11-05 12:29:27 +0000",
+      "enchanted_golden_apple": "2025-12-04 15:26:08 +0000"
     },
     "done": false
   },
   "minecraft:recipes/tools/wooden_hoe": {
     "criteria": {
       "has_stick": "2025-10-29 13:40:21 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/brewing/golden_carrot": {
+    "criteria": {
+      "has_gold_nugget": "2025-12-03 21:28:09 +0000"
     },
     "done": true
   },
@@ -800,9 +813,11 @@
   },
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
+      "zombie_pigman": "2025-12-03 19:02:27 +0000",
       "zombie_villager": "2025-11-21 14:35:49 +0000",
       "skeleton": "2025-11-05 03:24:31 +0000",
       "husk": "2025-11-06 16:38:27 +0000",
+      "blaze": "2025-12-03 18:59:40 +0000",
       "cave_spider": "2025-10-30 16:26:11 +0000",
       "zombie": "2025-11-05 03:45:20 +0000",
       "witch": "2025-10-31 14:03:48 +0000",
@@ -815,6 +830,12 @@
   "minecraft:recipes/decorations/end_crystal": {
     "criteria": {
       "has_ender_eye": "2025-11-13 17:33:23 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/enter_the_nether": {
+    "criteria": {
+      "entered_nether": "2025-12-03 18:50:06 +0000"
     },
     "done": true
   },
@@ -956,6 +977,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/brewing/blaze_powder": {
+    "criteria": {
+      "has_blaze_rod": "2025-12-03 19:00:35 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/paper": {
     "criteria": {
       "has_reeds": "2025-11-07 17:27:45 +0000"
@@ -1025,6 +1052,12 @@
   "minecraft:recipes/decorations/light_blue_stained_glass_pane": {
     "criteria": {
       "has_glass": "2025-11-24 15:10:22 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/find_fortress": {
+    "criteria": {
+      "fortress": "2025-12-03 19:00:30 +0000"
     },
     "done": true
   },
@@ -1310,6 +1343,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/brewing/brewing_stand": {
+    "criteria": {
+      "has_blaze_rod": "2025-12-03 19:00:35 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/noteblock": {
     "criteria": {
       "has_redstone": "2025-10-29 13:33:08 +0000"
@@ -1355,6 +1394,12 @@
   "minecraft:recipes/tools/golden_pickaxe": {
     "criteria": {
       "has_gold_ingot": "2025-11-03 16:23:26 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/obtain_blaze_rod": {
+    "criteria": {
+      "blaze_rod": "2025-12-03 19:00:35 +0000"
     },
     "done": true
   },

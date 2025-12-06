@@ -1,6 +1,6 @@
 teleportenabled: true
 teleportauto: false
-godmode: false
+godmode: true
 muted: false
 jailed: false
 ip-address: 127.0.0.1
@@ -16,23 +16,23 @@ timestamps:
   mute: 0
   jail: 0
   onlinejail: 0
-  logout: 1763485861746
-  login: 1763485841829
+  logout: 1764775581526
+  login: 1764775329257
 money: '0'
 last-account-name: Isiss
 logoutlocation:
   world: 24b57c21-75f5-48ad-842d-96eb09ea949e
   world-name: um
-  x: -234.14550738519637
-  y: 70.0
-  z: 358.30502815278544
-  yaw: 278.99737548828125
-  pitch: -0.6000032424926758
+  x: 9352.040342563478
+  y: 64.0625
+  z: -7334.308743275607
+  yaw: -134.15533447265625
+  pitch: 3.1500136852264404
 lastlocation:
   world: 24b57c21-75f5-48ad-842d-96eb09ea949e
   world-name: um
-  x: -204.11541099561578
-  y: 62.0
-  z: 250.7564041656818
-  yaw: -60.3000373840332
-  pitch: 3.3000099658966064
+  x: -207.02040887919216
+  y: 69.0
+  z: 356.63864932211584
+  yaw: 241.04763793945312
+  pitch: -1.350054383277893

@@ -1,0 +1,6 @@
+name: SpokeIsHere
+kits:
+  food:
+    cooldown: 1764947904028
+    one_time: false
+    bought: false

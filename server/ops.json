@@ -30,6 +30,12 @@
     "bypassesPlayerLimit": false
   },
   {
+    "uuid": "0ca41977-44f3-3674-ac5f-9a40345a4808",
+    "name": "flamefrags",
+    "level": 4,
+    "bypassesPlayerLimit": false
+  },
+  {
     "uuid": "7c83b9f8-5655-37d1-bb1b-7b175feda7bc",
     "name": "_omniilight",
     "level": 4,

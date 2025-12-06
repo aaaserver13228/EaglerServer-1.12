@@ -101,6 +101,12 @@
     },
     "done": true
   },
+  "minecraft:nether/root": {
+    "criteria": {
+      "entered_nether": "2025-12-02 14:51:34 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/yellow_concrete_powder": {
     "criteria": {
       "has_gravel": "2025-11-06 12:54:42 +0000"
@@ -347,6 +353,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/cake": {
+    "criteria": {
+      "has_egg": "2025-12-02 15:23:05 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/gold_nugget": {
     "criteria": {
       "has_gold_ingot": "2025-11-03 16:14:43 +0000"
@@ -368,7 +380,10 @@
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
       "cooked_porkchop": "2025-11-07 14:06:05 +0000",
+      "chicken": "2025-12-02 15:19:38 +0000",
+      "cooked_mutton": "2025-12-05 12:47:02 +0000",
       "cooked_beef": "2025-10-31 17:21:06 +0000",
+      "chorus_fruit": "2025-12-05 12:59:07 +0000",
       "beef": "2025-10-31 16:59:11 +0000",
       "porkchop": "2025-11-07 15:37:55 +0000",
       "apple": "2025-11-10 12:48:15 +0000",
@@ -379,6 +394,7 @@
       "cookie": "2025-11-24 18:05:28 +0000",
       "beetroot": "2025-11-07 14:51:37 +0000",
       "cooked_chicken": "2025-11-10 13:48:10 +0000",
+      "enchanted_golden_apple": "2025-12-04 15:30:59 +0000",
       "carrot": "2025-11-06 13:19:46 +0000"
     },
     "done": false
@@ -884,6 +900,12 @@
     },
     "done": true
   },
+  "minecraft:story/enter_the_nether": {
+    "criteria": {
+      "entered_nether": "2025-12-02 14:51:34 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/green_bed_from_white_bed": {
     "criteria": {
       "has_bed": "2025-11-18 14:59:42 +0000"
@@ -923,6 +945,12 @@
   "minecraft:recipes/decorations/pink_stained_glass_pane": {
     "criteria": {
       "has_glass": "2025-11-17 13:51:14 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/light_gray_dye_from_azure_bluet": {
+    "criteria": {
+      "has_red_flower": "2025-12-04 16:37:21 +0000"
     },
     "done": true
   },

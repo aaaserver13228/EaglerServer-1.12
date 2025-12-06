@@ -17,7 +17,7 @@ GriefDefender {
     containers=[]
     cuboid=false
     date-created="2025-11-18T16:45:54.279726069Z"
-    date-last-active="2025-11-24T13:00:35.622339591Z"
+    date-last-active="2025-12-05T13:46:25.442897844Z"
     deny-messages=true
     economyData {
         bankTransactionLog=[]
@@ -45,7 +45,7 @@ GriefDefender {
     manager-groups=[]
     managers=[]
     owner-uuid="0a5259b1-2027-3ec5-8cdd-f69064826c82"
-    parent=f740fa69-7eaf-485b-8d77-60094c28d510
+    parent="643d8e62-0ad6-4879-a7c2-9a73b0c34804"
     requires-claim-blocks=true
     resident-groups=[]
     residents=[]

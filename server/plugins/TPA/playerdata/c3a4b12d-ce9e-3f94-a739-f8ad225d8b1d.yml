@@ -1,0 +1,17 @@
+player_name: Larisa
+language: en_US
+setlang: false
+last_location:
+  world: um
+  x: -199.97638144074068
+  y: 68.0
+  z: 186.9678953584697
+  pitch: 8.09999
+  yaw: -44.10005
+logout_location:
+  world: um
+  x: -61.29162029190974
+  y: 67.0
+  z: -26.451963314666585
+  pitch: 28.199957
+  yaw: 199.35062

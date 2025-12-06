@@ -247,6 +247,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/dispenser": {
+    "criteria": {
+      "has_bow": "2025-12-05 18:25:48 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/blue_concrete_powder": {
     "criteria": {
       "has_sand": "2025-11-10 18:14:08 +0000"
@@ -285,7 +291,8 @@
   },
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
-      "cooked_mutton": "2025-11-10 18:42:11 +0000"
+      "cooked_mutton": "2025-11-10 18:42:11 +0000",
+      "cooked_beef": "2025-12-05 18:27:03 +0000"
     },
     "done": false
   },
@@ -506,6 +513,7 @@
       "savanna": "2025-11-10 18:13:09 +0000",
       "plains": "2025-11-10 18:11:55 +0000",
       "savanna_rock": "2025-11-10 18:15:20 +0000",
+      "taiga": "2025-12-05 18:26:40 +0000",
       "birch_forest_hills": "2025-11-10 18:09:47 +0000",
       "desert": "2025-11-10 18:29:12 +0000"
     },
@@ -700,6 +708,7 @@
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
       "skeleton": "2025-11-10 18:28:07 +0000",
+      "zombie": "2025-12-05 18:24:12 +0000",
       "spider": "2025-11-10 18:42:43 +0000"
     },
     "done": false

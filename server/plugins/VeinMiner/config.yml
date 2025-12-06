@@ -23,7 +23,7 @@ Tools:
     MaxVeinSize: 42
     UsesDurability: true
   Axe:
-    MaxVeinSize: 28
+    MaxVeinSize: 38
     UsesDurability: true
   Shovel:
     MaxVeinSize: 8

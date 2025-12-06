@@ -1,152 +1,73 @@
-[00:00:27] [Netty epoll Worker #0/INFO] [eaglerxvelocity]: [/[0:0:0:0:0:0:0:1]:49500]: Connected via websocket
-[00:00:27] [Netty epoll Worker #0/INFO] [eaglerxvelocity]: [/[0:0:0:0:0:0:0:1]:49500]: Origin header is null
-[00:00:27] [Netty epoll Worker #0/INFO] [eaglerxvelocity]: [connected player] rw4 (/[0:0:0:0:0:0:0:1]:49500) has connected
-[00:00:27] [Netty epoll Worker #0/INFO] [com.velocitypowered.proxy.connection.MinecraftConnection]: [server connection] rw4 -> lobby has connected
-[00:00:30] [Netty epoll Worker #1/INFO] [eaglerxvelocity]: [/[0:0:0:0:0:0:0:1]:49502]: Connected via websocket
-[00:00:30] [Netty epoll Worker #1/INFO] [eaglerxvelocity]: [/[0:0:0:0:0:0:0:1]:49502]: Origin header is null
-[00:00:37] [Netty epoll Worker #3/INFO] [eaglerxvelocity]: [/[0:0:0:0:0:0:0:1]:39428]: Connected via websocket
-[00:00:37] [Netty epoll Worker #3/INFO] [eaglerxvelocity]: [/[0:0:0:0:0:0:0:1]:39428]: Origin header is null
-[00:00:37] [Netty epoll Worker #3/INFO] [eaglerxvelocity]: [connected player] Wemmbu (/[0:0:0:0:0:0:0:1]:39428) has connected
-[00:00:37] [Netty epoll Worker #3/INFO] [com.velocitypowered.proxy.connection.MinecraftConnection]: [server connection] Wemmbu -> lobby has connected
-[00:02:34] [Netty epoll Worker #1/INFO] [eaglerxvelocity]: [/[0:0:0:0:0:0:0:1]:49896]: Connected via websocket
-[00:02:34] [Netty epoll Worker #1/INFO] [eaglerxvelocity]: [/[0:0:0:0:0:0:0:1]:49896]: Origin header is null
-[00:02:35] [Netty epoll Worker #1/INFO] [eaglerxvelocity]: [connected player] Mapicc_ (/[0:0:0:0:0:0:0:1]:49896) has connected
-[00:02:35] [Netty epoll Worker #1/INFO] [com.velocitypowered.proxy.connection.MinecraftConnection]: [server connection] Mapicc_ -> lobby has connected
-[00:06:59] [Netty epoll Worker #0/INFO] [com.velocitypowered.proxy.connection.MinecraftConnection]: [connected player] rw4 (/[0:0:0:0:0:0:0:1]:49500) has disconnected
-[00:06:59] [Netty epoll Worker #0/INFO] [com.velocitypowered.proxy.connection.MinecraftConnection]: [server connection] rw4 -> lobby has disconnected
-[00:07:13] [Netty epoll Worker #0/INFO] [eaglerxvelocity]: [/[0:0:0:0:0:0:0:1]:48804]: Connected via websocket
-[00:07:13] [Netty epoll Worker #0/INFO] [eaglerxvelocity]: [/[0:0:0:0:0:0:0:1]:48804]: Origin header is null
-[00:07:13] [Netty epoll Worker #0/INFO] [eaglerxvelocity]: [connected player] rw4 (/[0:0:0:0:0:0:0:1]:48804) has connected
-[00:07:13] [Netty epoll Worker #0/INFO] [com.velocitypowered.proxy.connection.MinecraftConnection]: [server connection] rw4 -> lobby has connected
-[00:07:30] [Netty epoll Worker #0/INFO] [com.velocitypowered.proxy.connection.MinecraftConnection]: [connected player] rw4 (/[0:0:0:0:0:0:0:1]:48804) has disconnected
-[00:07:30] [Netty epoll Worker #0/INFO] [com.velocitypowered.proxy.connection.MinecraftConnection]: [server connection] rw4 -> lobby has disconnected
-[00:07:52] [Netty epoll Worker #3/INFO] [eaglerxvelocity]: [/[0:0:0:0:0:0:0:1]:46862]: Connected via websocket
-[00:07:52] [Netty epoll Worker #3/INFO] [eaglerxvelocity]: [/[0:0:0:0:0:0:0:1]:46862]: Origin header is null
-[00:07:52] [Netty epoll Worker #3/INFO] [eaglerxvelocity]: [connected player] rw4 (/[0:0:0:0:0:0:0:1]:46862) has connected
-[00:07:52] [Netty epoll Worker #3/INFO] [com.velocitypowered.proxy.connection.MinecraftConnection]: [server connection] rw4 -> lobby has connected
-[00:10:10] [Netty epoll Worker #3/INFO] [com.velocitypowered.proxy.connection.MinecraftConnection]: [connected player] rw4 (/[0:0:0:0:0:0:0:1]:46862) has disconnected
-[00:10:10] [Netty epoll Worker #3/INFO] [com.velocitypowered.proxy.connection.MinecraftConnection]: [server connection] rw4 -> lobby has disconnected
-[00:13:09] [Netty epoll Worker #3/INFO] [eaglerxvelocity]: [/[0:0:0:0:0:0:0:1]:39122]: Connected via websocket
-[00:13:09] [Netty epoll Worker #3/INFO] [eaglerxvelocity]: [/[0:0:0:0:0:0:0:1]:39122]: Origin header is null
-[00:13:09] [Netty epoll Worker #3/INFO] [eaglerxvelocity]: [connected player] rw4 (/[0:0:0:0:0:0:0:1]:39122) has connected
-[00:13:09] [Netty epoll Worker #3/INFO] [com.velocitypowered.proxy.connection.MinecraftConnection]: [server connection] rw4 -> lobby has connected
-[00:15:07] [Netty epoll Worker #3/INFO] [com.velocitypowered.proxy.connection.MinecraftConnection]: [connected player] rw4 (/[0:0:0:0:0:0:0:1]:39122) has disconnected
-[00:15:07] [Netty epoll Worker #3/INFO] [com.velocitypowered.proxy.connection.MinecraftConnection]: [server connection] rw4 -> lobby has disconnected
-[00:15:54] [Netty epoll Worker #3/INFO] [com.velocitypowered.proxy.connection.MinecraftConnection]: [connected player] Wemmbu (/[0:0:0:0:0:0:0:1]:39428) has disconnected
-[00:15:54] [Netty epoll Worker #3/INFO] [com.velocitypowered.proxy.connection.MinecraftConnection]: [server connection] Wemmbu -> lobby has disconnected
-[00:17:22] [Netty epoll Worker #1/INFO] [com.velocitypowered.proxy.connection.MinecraftConnection]: [connected player] Mapicc_ (/[0:0:0:0:0:0:0:1]:49896) has disconnected
-[00:17:22] [Netty epoll Worker #1/INFO] [com.velocitypowered.proxy.connection.MinecraftConnection]: [server connection] Mapicc_ -> lobby has disconnected
-[00:17:27] [Netty epoll Worker #2/INFO] [com.velocitypowered.proxy.connection.MinecraftConnection]: [connected player] hadeel (/[0:0:0:0:0:0:0:1]:45090) has disconnected
-[00:17:27] [Netty epoll Worker #2/INFO] [com.velocitypowered.proxy.connection.MinecraftConnection]: [server connection] hadeel -> lobby has disconnected
-[00:17:28] [Netty epoll Worker #3/INFO] [eaglerxvelocity]: [/[0:0:0:0:0:0:0:1]:37474]: Connected via websocket
-[00:17:28] [Netty epoll Worker #3/INFO] [eaglerxvelocity]: [/[0:0:0:0:0:0:0:1]:37474]: Origin header is null
-[00:17:28] [Netty epoll Worker #3/INFO] [eaglerxvelocity]: [connected player] Mapicc_ (/[0:0:0:0:0:0:0:1]:37474) has connected
-[00:17:28] [Netty epoll Worker #3/INFO] [com.velocitypowered.proxy.connection.MinecraftConnection]: [server connection] Mapicc_ -> lobby has connected
-[00:17:43] [Netty epoll Worker #3/INFO] [com.velocitypowered.proxy.connection.MinecraftConnection]: [connected player] Mapicc_ (/[0:0:0:0:0:0:0:1]:37474) has disconnected
-[00:17:43] [Netty epoll Worker #3/INFO] [com.velocitypowered.proxy.connection.MinecraftConnection]: [server connection] Mapicc_ -> lobby has disconnected
-[00:19:19] [Netty epoll Worker #3/INFO] [eaglerxvelocity]: [/[0:0:0:0:0:0:0:1]:51510]: Connected via websocket
-[00:19:19] [Netty epoll Worker #3/INFO] [eaglerxvelocity]: [/[0:0:0:0:0:0:0:1]:51510]: Origin header is null
-[00:19:19] [Netty epoll Worker #3/INFO] [eaglerxvelocity]: [connected player] Manepear (/[0:0:0:0:0:0:0:1]:51510) has connected
-[00:19:19] [Netty epoll Worker #3/INFO] [com.velocitypowered.proxy.connection.MinecraftConnection]: [server connection] Manepear -> lobby has connected
-[00:23:21] [Netty epoll Worker #3/INFO] [eaglerxvelocity]: [/[0:0:0:0:0:0:0:1]:42596]: Connected via websocket
-[00:23:21] [Netty epoll Worker #3/INFO] [eaglerxvelocity]: [/[0:0:0:0:0:0:0:1]:42596]: Origin header is null
-[00:23:21] [Netty epoll Worker #3/INFO] [eaglerxvelocity]: [connected player] rw4 (/[0:0:0:0:0:0:0:1]:42596) has connected
-[00:23:21] [Netty epoll Worker #3/INFO] [com.velocitypowered.proxy.connection.MinecraftConnection]: [server connection] rw4 -> lobby has connected
-[00:24:30] [Netty epoll Worker #3/INFO] [com.velocitypowered.proxy.connection.MinecraftConnection]: [connected player] rw4 (/[0:0:0:0:0:0:0:1]:42596) has disconnected
-[00:24:30] [Netty epoll Worker #3/INFO] [com.velocitypowered.proxy.connection.MinecraftConnection]: [server connection] rw4 -> lobby has disconnected
-[00:24:46] [Netty epoll Worker #2/INFO] [eaglerxvelocity]: [/[0:0:0:0:0:0:0:1]:49524]: Connected via websocket
-[00:24:46] [Netty epoll Worker #2/INFO] [eaglerxvelocity]: [/[0:0:0:0:0:0:0:1]:49524]: Origin header is null
-[00:24:46] [Netty epoll Worker #2/INFO] [eaglerxvelocity]: [connected player] rw4 (/[0:0:0:0:0:0:0:1]:49524) has connected
-[00:24:46] [Netty epoll Worker #2/INFO] [com.velocitypowered.proxy.connection.MinecraftConnection]: [server connection] rw4 -> lobby has connected
-[00:27:46] [Netty epoll Worker #2/INFO] [com.velocitypowered.proxy.connection.MinecraftConnection]: [connected player] rw4 (/[0:0:0:0:0:0:0:1]:49524) has disconnected
-[00:27:46] [Netty epoll Worker #2/INFO] [com.velocitypowered.proxy.connection.MinecraftConnection]: [server connection] rw4 -> lobby has disconnected
-[00:27:57] [Netty epoll Worker #1/INFO] [eaglerxvelocity]: [/[0:0:0:0:0:0:0:1]:37754]: Connected via websocket
-[00:27:57] [Netty epoll Worker #1/INFO] [eaglerxvelocity]: [/[0:0:0:0:0:0:0:1]:37754]: Origin header is null
-[00:27:58] [Netty epoll Worker #1/INFO] [eaglerxvelocity]: [connected player] rw4 (/[0:0:0:0:0:0:0:1]:37754) has connected
-[00:27:58] [Netty epoll Worker #1/INFO] [com.velocitypowered.proxy.connection.MinecraftConnection]: [server connection] rw4 -> lobby has connected
-[00:29:41] [Netty epoll Worker #1/INFO] [com.velocitypowered.proxy.connection.MinecraftConnection]: [connected player] rw4 (/[0:0:0:0:0:0:0:1]:37754) has disconnected
-[00:29:41] [Netty epoll Worker #1/INFO] [com.velocitypowered.proxy.connection.MinecraftConnection]: [server connection] rw4 -> lobby has disconnected
-[00:29:53] [Netty epoll Worker #0/INFO] [eaglerxvelocity]: [/[0:0:0:0:0:0:0:1]:35152]: Connected via websocket
-[00:29:53] [Netty epoll Worker #0/INFO] [eaglerxvelocity]: [/[0:0:0:0:0:0:0:1]:35152]: Origin header is null
-[00:29:53] [Netty epoll Worker #0/INFO] [eaglerxvelocity]: [connected player] rw4 (/[0:0:0:0:0:0:0:1]:35152) has connected
-[00:29:53] [Netty epoll Worker #0/INFO] [com.velocitypowered.proxy.connection.MinecraftConnection]: [server connection] rw4 -> lobby has connected
-[00:30:45] [Netty epoll Worker #2/INFO] [eaglerxvelocity]: [/[0:0:0:0:0:0:0:1]:53424]: Connected via websocket
-[00:30:45] [Netty epoll Worker #2/INFO] [eaglerxvelocity]: [/[0:0:0:0:0:0:0:1]:53424]: Origin header is null
-[00:30:45] [Netty epoll Worker #2/INFO] [eaglerxvelocity]: [connected player] Mapicc_ (/[0:0:0:0:0:0:0:1]:53424) has connected
-[00:30:45] [Netty epoll Worker #2/INFO] [com.velocitypowered.proxy.connection.MinecraftConnection]: [server connection] Mapicc_ -> lobby has connected
-[00:31:35] [Netty epoll Worker #3/INFO] [com.velocitypowered.proxy.connection.MinecraftConnection]: [connected player] Manepear (/[0:0:0:0:0:0:0:1]:51510) has disconnected
-[00:31:35] [Netty epoll Worker #3/INFO] [com.velocitypowered.proxy.connection.MinecraftConnection]: [server connection] Manepear -> lobby has disconnected
-[00:31:42] [Netty epoll Worker #0/INFO] [com.velocitypowered.proxy.connection.MinecraftConnection]: [connected player] rw4 (/[0:0:0:0:0:0:0:1]:35152) has disconnected
-[00:31:42] [Netty epoll Worker #0/INFO] [com.velocitypowered.proxy.connection.MinecraftConnection]: [server connection] rw4 -> lobby has disconnected
-[00:32:01] [Netty epoll Worker #0/INFO] [eaglerxvelocity]: [/[0:0:0:0:0:0:0:1]:35896]: Connected via websocket
-[00:32:01] [Netty epoll Worker #0/INFO] [eaglerxvelocity]: [/[0:0:0:0:0:0:0:1]:35896]: Origin header is null
-[00:32:01] [Netty epoll Worker #0/INFO] [eaglerxvelocity]: [connected player] Manepear (/[0:0:0:0:0:0:0:1]:35896) has connected
-[00:32:01] [Netty epoll Worker #0/INFO] [com.velocitypowered.proxy.connection.MinecraftConnection]: [server connection] Manepear -> lobby has connected
-[00:33:50] [Netty epoll Worker #2/INFO] [eaglerxvelocity]: [/[0:0:0:0:0:0:0:1]:47996]: Connected via websocket
-[00:33:50] [Netty epoll Worker #2/INFO] [eaglerxvelocity]: [/[0:0:0:0:0:0:0:1]:47996]: Origin header is null
-[00:33:50] [Netty epoll Worker #2/INFO] [eaglerxvelocity]: [connected player] rw4 (/[0:0:0:0:0:0:0:1]:47996) has connected
-[00:33:50] [Netty epoll Worker #2/INFO] [com.velocitypowered.proxy.connection.MinecraftConnection]: [server connection] rw4 -> lobby has connected
-[00:33:58] [Netty epoll Worker #2/INFO] [com.velocitypowered.proxy.connection.MinecraftConnection]: [connected player] Mapicc_ (/[0:0:0:0:0:0:0:1]:53424) has disconnected
-[00:33:58] [Netty epoll Worker #2/INFO] [com.velocitypowered.proxy.connection.MinecraftConnection]: [server connection] Mapicc_ -> lobby has disconnected
-[00:36:31] [Netty epoll Worker #2/INFO] [com.velocitypowered.proxy.connection.MinecraftConnection]: [connected player] rw4 (/[0:0:0:0:0:0:0:1]:47996) has disconnected
-[00:36:31] [Netty epoll Worker #2/INFO] [com.velocitypowered.proxy.connection.MinecraftConnection]: [server connection] rw4 -> lobby has disconnected
-[00:37:38] [Netty epoll Worker #1/INFO] [eaglerxvelocity]: [/[0:0:0:0:0:0:0:1]:43654]: Connected via websocket
-[00:37:38] [Netty epoll Worker #1/INFO] [eaglerxvelocity]: [/[0:0:0:0:0:0:0:1]:43654]: Origin header is null
-[00:37:38] [Netty epoll Worker #1/INFO] [eaglerxvelocity]: [connected player] Mapicc_ (/[0:0:0:0:0:0:0:1]:43654) has connected
-[00:37:38] [Netty epoll Worker #1/INFO] [com.velocitypowered.proxy.connection.MinecraftConnection]: [server connection] Mapicc_ -> lobby has connected
-[00:37:40] [Netty epoll Worker #2/INFO] [eaglerxvelocity]: [/[0:0:0:0:0:0:0:1]:43658]: Connected via websocket
-[00:37:40] [Netty epoll Worker #2/INFO] [eaglerxvelocity]: [/[0:0:0:0:0:0:0:1]:43658]: Origin header is null
-[00:37:56] [Netty epoll Worker #1/INFO] [eaglerxvelocity]: [/[0:0:0:0:0:0:0:1]:33202]: Connected via websocket
-[00:37:56] [Netty epoll Worker #1/INFO] [eaglerxvelocity]: [/[0:0:0:0:0:0:0:1]:33202]: Origin header is null
-[00:37:56] [Netty epoll Worker #1/INFO] [eaglerxvelocity]: [connected player] rw4 (/[0:0:0:0:0:0:0:1]:33202) has connected
-[00:37:56] [Netty epoll Worker #1/INFO] [com.velocitypowered.proxy.connection.MinecraftConnection]: [server connection] rw4 -> lobby has connected
-[00:39:28] [Netty epoll Worker #1/INFO] [com.velocitypowered.proxy.connection.MinecraftConnection]: [connected player] Mapicc_ (/[0:0:0:0:0:0:0:1]:43654) has disconnected
-[00:39:28] [Netty epoll Worker #1/INFO] [com.velocitypowered.proxy.connection.MinecraftConnection]: [server connection] Mapicc_ -> lobby has disconnected
-[00:39:29] [Netty epoll Worker #1/INFO] [com.velocitypowered.proxy.connection.MinecraftConnection]: [connected player] rw4 (/[0:0:0:0:0:0:0:1]:33202) has disconnected
-[00:39:29] [Netty epoll Worker #1/INFO] [com.velocitypowered.proxy.connection.MinecraftConnection]: [server connection] rw4 -> lobby has disconnected
-[00:39:30] [Netty epoll Worker #0/INFO] [com.velocitypowered.proxy.connection.MinecraftConnection]: [connected player] Manepear (/[0:0:0:0:0:0:0:1]:35896) has disconnected
-[00:39:30] [Netty epoll Worker #0/INFO] [com.velocitypowered.proxy.connection.MinecraftConnection]: [server connection] Manepear -> lobby has disconnected
-[00:40:21] [Netty epoll Worker #0/INFO] [eaglerxvelocity]: [/[0:0:0:0:0:0:0:1]:37876]: Connected via websocket
-[00:40:21] [Netty epoll Worker #0/INFO] [eaglerxvelocity]: [/[0:0:0:0:0:0:0:1]:37876]: Origin header is null
-[00:40:21] [Netty epoll Worker #0/INFO] [eaglerxvelocity]: [connected player] rw4 (/[0:0:0:0:0:0:0:1]:37876) has connected
-[00:40:21] [Netty epoll Worker #0/INFO] [com.velocitypowered.proxy.connection.MinecraftConnection]: [server connection] rw4 -> lobby has connected
-[00:40:22] [Netty epoll Worker #1/INFO] [eaglerxvelocity]: [/[0:0:0:0:0:0:0:1]:55168]: Connected via websocket
-[00:40:22] [Netty epoll Worker #1/INFO] [eaglerxvelocity]: [/[0:0:0:0:0:0:0:1]:55168]: Origin header is null
-[00:40:26] [Netty epoll Worker #3/INFO] [eaglerxvelocity]: [/[0:0:0:0:0:0:0:1]:55178]: Connected via websocket
-[00:40:26] [Netty epoll Worker #3/INFO] [eaglerxvelocity]: [/[0:0:0:0:0:0:0:1]:55178]: Origin header is null
-[00:40:26] [Netty epoll Worker #3/INFO] [eaglerxvelocity]: [connected player] Manepear (/[0:0:0:0:0:0:0:1]:55178) has connected
-[00:40:26] [Netty epoll Worker #3/INFO] [com.velocitypowered.proxy.connection.MinecraftConnection]: [server connection] Manepear -> lobby has connected
-[00:40:42] [Netty epoll Worker #0/INFO] [com.velocitypowered.proxy.connection.MinecraftConnection]: [connected player] rw4 (/[0:0:0:0:0:0:0:1]:37876) has disconnected
-[00:40:42] [Netty epoll Worker #0/INFO] [com.velocitypowered.proxy.connection.MinecraftConnection]: [server connection] rw4 -> lobby has disconnected
-[00:40:48] [Netty epoll Worker #0/INFO] [eaglerxvelocity]: [/[0:0:0:0:0:0:0:1]:54452]: Connected via websocket
-[00:40:48] [Netty epoll Worker #0/INFO] [eaglerxvelocity]: [/[0:0:0:0:0:0:0:1]:54452]: Origin header is null
-[00:40:48] [Netty epoll Worker #0/INFO] [eaglerxvelocity]: [connected player] Mapicc_ (/[0:0:0:0:0:0:0:1]:54452) has connected
-[00:40:48] [Netty epoll Worker #0/INFO] [com.velocitypowered.proxy.connection.MinecraftConnection]: [server connection] Mapicc_ -> lobby has connected
-[00:41:41] [Netty epoll Worker #2/INFO] [eaglerxvelocity]: [/[0:0:0:0:0:0:0:1]:36242]: Connected via websocket
-[00:41:41] [Netty epoll Worker #2/INFO] [eaglerxvelocity]: [/[0:0:0:0:0:0:0:1]:36242]: Origin header is null
-[00:41:42] [Netty epoll Worker #2/INFO] [eaglerxvelocity]: [connected player] rw4 (/[0:0:0:0:0:0:0:1]:36242) has connected
-[00:41:42] [Netty epoll Worker #2/INFO] [com.velocitypowered.proxy.connection.MinecraftConnection]: [server connection] rw4 -> lobby has connected
-[00:45:31] [Netty epoll Worker #3/INFO] [com.velocitypowered.proxy.connection.MinecraftConnection]: [connected player] Manepear (/[0:0:0:0:0:0:0:1]:55178) has disconnected
-[00:45:31] [Netty epoll Worker #3/INFO] [com.velocitypowered.proxy.connection.MinecraftConnection]: [server connection] Manepear -> lobby has disconnected
-[00:46:42] [Netty epoll Worker #0/INFO] [com.velocitypowered.proxy.connection.MinecraftConnection]: [connected player] Mapicc_ (/[0:0:0:0:0:0:0:1]:54452) has disconnected
-[00:46:42] [Netty epoll Worker #0/INFO] [com.velocitypowered.proxy.connection.MinecraftConnection]: [server connection] Mapicc_ -> lobby has disconnected
-[00:47:18] [Netty epoll Worker #1/INFO] [eaglerxvelocity]: [/[0:0:0:0:0:0:0:1]:38934]: Connected via websocket
-[00:47:18] [Netty epoll Worker #1/INFO] [eaglerxvelocity]: [/[0:0:0:0:0:0:0:1]:38934]: Origin header is null
-[00:47:18] [Netty epoll Worker #1/INFO] [eaglerxvelocity]: [connected player] Mapicc_ (/[0:0:0:0:0:0:0:1]:38934) has connected
-[00:47:18] [Netty epoll Worker #1/INFO] [com.velocitypowered.proxy.connection.MinecraftConnection]: [server connection] Mapicc_ -> lobby has connected
-[00:51:58] [Netty epoll Worker #2/INFO] [com.velocitypowered.proxy.connection.MinecraftConnection]: [connected player] rw4 (/[0:0:0:0:0:0:0:1]:36242) has disconnected
-[00:51:58] [Netty epoll Worker #2/INFO] [com.velocitypowered.proxy.connection.MinecraftConnection]: [server connection] rw4 -> lobby has disconnected
-[00:52:11] [Netty epoll Worker #2/INFO] [eaglerxvelocity]: [/[0:0:0:0:0:0:0:1]:49594]: Connected via websocket
-[00:52:11] [Netty epoll Worker #2/INFO] [eaglerxvelocity]: [/[0:0:0:0:0:0:0:1]:49594]: Origin header is null
-[00:52:11] [Netty epoll Worker #2/INFO] [eaglerxvelocity]: [connected player] Manepear (/[0:0:0:0:0:0:0:1]:49594) has connected
-[00:52:11] [Netty epoll Worker #2/INFO] [com.velocitypowered.proxy.connection.MinecraftConnection]: [server connection] Manepear -> lobby has connected
-[00:52:59] [Netty epoll Worker #0/INFO] [eaglerxvelocity]: [/[0:0:0:0:0:0:0:1]:59506]: Connected via websocket
-[00:52:59] [Netty epoll Worker #0/INFO] [eaglerxvelocity]: [/[0:0:0:0:0:0:0:1]:59506]: Origin header is null
-[00:52:59] [Netty epoll Worker #0/INFO] [eaglerxvelocity]: [connected player] rw4 (/[0:0:0:0:0:0:0:1]:59506) has connected
-[00:52:59] [Netty epoll Worker #0/INFO] [com.velocitypowered.proxy.connection.MinecraftConnection]: [server connection] rw4 -> lobby has connected
-[00:54:03] [Netty epoll Worker #1/INFO] [com.velocitypowered.proxy.connection.MinecraftConnection]: [connected player] Mapicc_ (/[0:0:0:0:0:0:0:1]:38934) has disconnected
-[00:54:03] [Netty epoll Worker #1/INFO] [com.velocitypowered.proxy.connection.MinecraftConnection]: [server connection] Mapicc_ -> lobby has disconnected
-[00:56:36] [Netty epoll Worker #3/INFO] [eaglerxvelocity]: [/[0:0:0:0:0:0:0:1]:41670]: Connected via websocket
-[00:56:36] [Netty epoll Worker #3/INFO] [eaglerxvelocity]: [/[0:0:0:0:0:0:0:1]:41670]: Origin header is null
-[00:56:36] [Netty epoll Worker #3/INFO] [eaglerxvelocity]: [connected player] icetofight (/[0:0:0:0:0:0:0:1]:41670) has connected
-[00:56:36] [Netty epoll Worker #3/INFO] [com.velocitypowered.proxy.connection.MinecraftConnection]: [server connection] icetofight -> lobby has connected
+[02:12:46] [main/INFO] [com.velocitypowered.proxy.VelocityServer]: Booting up Velocity 3.4.0-SNAPSHOT (git-965db127-b454)...
+[02:12:46] [main/INFO] [com.velocitypowered.proxy.VelocityServer]: Loading localizations...
+[02:12:46] [main/INFO] [com.velocitypowered.proxy.network.ConnectionManager]: Connections will use epoll channels, libdeflate (Linux x86_64) compression, OpenSSL 3.x.x (Linux x86_64) ciphers
+[02:12:46] [main/WARN] [com.velocitypowered.proxy.config.VelocityConfiguration]: The proxy is running in offline mode! This is a security risk and you will NOT receive any support!
+[02:12:46] [main/WARN] [com.velocitypowered.proxy.config.VelocityConfiguration]: Player info forwarding is disabled! All players will appear to be connecting from the proxy and will have offline-mode UUIDs.
+[02:12:47] [main/INFO] [com.velocitypowered.proxy.VelocityServer]: Loading plugins...
+[02:12:48] [main/ERROR] [com.velocitypowered.proxy.console.VelocityConsole]: :>:>:>:>:>:>:>:>:>:>:>:>:>:>:>:>:>:>:>:>:>:>:>
+[02:12:48] [main/ERROR] [com.velocitypowered.proxy.console.VelocityConsole]: :>  
+[02:12:48] [main/ERROR] [com.velocitypowered.proxy.console.VelocityConsole]: :>      EAGLERCRAFTXVELOCITY WARNING:
+[02:12:48] [main/ERROR] [com.velocitypowered.proxy.console.VelocityConsole]: :>  
+[02:12:48] [main/ERROR] [com.velocitypowered.proxy.console.VelocityConsole]: :>  This plugin wasn't tested to be 'working'
+[02:12:48] [main/ERROR] [com.velocitypowered.proxy.console.VelocityConsole]: :>  with ANY version of Velocity (and forks)
+[02:12:48] [main/ERROR] [com.velocitypowered.proxy.console.VelocityConsole]: :>  apart from the versions listed below:
+[02:12:48] [main/ERROR] [com.velocitypowered.proxy.console.VelocityConsole]: :>  
+[02:12:48] [main/ERROR] [com.velocitypowered.proxy.console.VelocityConsole]: :>  - Velocity: 3.4.0-SNAPSHOT:a33f2d1a:b452
+[02:12:48] [main/ERROR] [com.velocitypowered.proxy.console.VelocityConsole]: :>  
+[02:12:48] [main/ERROR] [com.velocitypowered.proxy.console.VelocityConsole]: :>  This is not a Bukkit/Spigot plugin!
+[02:12:48] [main/ERROR] [com.velocitypowered.proxy.console.VelocityConsole]: :>  
+[02:12:48] [main/ERROR] [com.velocitypowered.proxy.console.VelocityConsole]: :>  Use "-Deaglerxvelocity.stfu=true" to hide
+[02:12:48] [main/ERROR] [com.velocitypowered.proxy.console.VelocityConsole]: :>  
+[02:12:48] [main/ERROR] [com.velocitypowered.proxy.console.VelocityConsole]: :>:>:>:>:>:>:>:>:>:>:>:>:>:>:>:>:>:>:>:>:>:>:>
+[02:12:48] [main/INFO] [com.velocitypowered.proxy.plugin.VelocityPluginManager]: Loaded plugin eaglerxvelocity 1.1.5 by lax1dude, ayunami2000
+[02:12:48] [main/INFO] [com.velocitypowered.proxy.VelocityServer]: Loaded 2 plugins
+[02:12:48] [EaglercraftXVelocity - Task Executor #0/WARN] [eaglerxvelocity]: This plugin is still in development, certain features may not be functional!
+[02:12:48] [EaglercraftXVelocity - Task Executor #0/WARN] [eaglerxvelocity]: Not recommended for public servers yet, please check for updates
+[02:12:48] [EaglercraftXVelocity - Task Executor #0/INFO] [eaglerxvelocity]: Loading vanilla profile: lax1dude
+[02:12:49] [Netty epoll Worker #1/INFO] [eaglerxvelocity]: Loaded vanilla profile: lax1dude
+[02:12:49] [EaglercraftXVelocity - Task Executor #0/ERROR] [eaglerxvelocity]: Online mode is set to false! Authentication system has been disabled
+[02:12:49] [Netty epoll Boss #0/INFO] [eaglerxvelocity]: Eaglercraft is listening on: /0.0.0.0:8081
+[02:12:50] [EaglercraftXVelocity - Task Executor #0/INFO] [eaglerxvelocity]: Connected to database: jdbc:sqlite:eaglercraft_skins_cache.db
+[02:12:50] [EaglercraftXVelocity - Task Executor #0/INFO] [eaglerxvelocity]: Voice chat disabled, add "allow_voice: true" to your listeners to enable
+[02:12:50] [EaglerXVelocity: Update Service Tasks/INFO] [eaglerxvelocity]: Loaded certificate: /workspaces/EaglerServer-1.12/bungee/plugins/eaglerxvelocity/eagcert/$dl.34268c6e7b2a2336a2821b0171d290d6dd455cba.cert
+[02:12:50] [Netty epoll Boss #1/INFO] [com.velocitypowered.proxy.network.ConnectionManager]: Listening on /[0:0:0:0:0:0:0:0]:25577
+[02:12:50] [main/INFO] [com.velocitypowered.proxy.Velocity]: Done (4.8s)!
+[02:13:59] [Netty epoll Worker #1/INFO] [eaglerxvelocity]: [/[0:0:0:0:0:0:0:1]:42670]: Connected via websocket
+[02:13:59] [Netty epoll Worker #1/INFO] [eaglerxvelocity]: [/[0:0:0:0:0:0:0:1]:42670]: Origin header is null
+[02:13:59] [Netty epoll Worker #1/INFO] [eaglerxvelocity]: [connected player] Wemmbu (/[0:0:0:0:0:0:0:1]:42670) has connected
+[02:13:59] [Netty epoll Worker #1/INFO] [com.velocitypowered.proxy.connection.MinecraftConnection]: [server connection] Wemmbu -> lobby has connected
+[02:17:29] [Netty epoll Worker #1/INFO] [com.velocitypowered.proxy.connection.MinecraftConnection]: [connected player] Wemmbu (/[0:0:0:0:0:0:0:1]:42670) has disconnected
+[02:17:29] [Netty epoll Worker #1/INFO] [com.velocitypowered.proxy.connection.MinecraftConnection]: [server connection] Wemmbu -> lobby has disconnected
+[02:17:36] [Netty epoll Worker #2/INFO] [eaglerxvelocity]: [/[0:0:0:0:0:0:0:1]:53256]: Connected via websocket
+[02:17:36] [Netty epoll Worker #2/INFO] [eaglerxvelocity]: [/[0:0:0:0:0:0:0:1]:53256]: Origin header is null
+[02:17:36] [Netty epoll Worker #2/INFO] [eaglerxvelocity]: [connected player] Wemmbu (/[0:0:0:0:0:0:0:1]:53256) has connected
+[02:17:36] [Netty epoll Worker #2/INFO] [com.velocitypowered.proxy.connection.MinecraftConnection]: [server connection] Wemmbu -> lobby has connected
+[02:21:30] [Netty epoll Worker #0/INFO] [eaglerxvelocity]: [/[0:0:0:0:0:0:0:1]:38820]: Connected via websocket
+[02:21:30] [Netty epoll Worker #0/INFO] [eaglerxvelocity]: [/[0:0:0:0:0:0:0:1]:38820]: Origin header is null
+[02:21:30] [Netty epoll Worker #0/INFO] [eaglerxvelocity]: [connected player] jose (/[0:0:0:0:0:0:0:1]:38820) has connected
+[02:21:30] [Netty epoll Worker #0/INFO] [com.velocitypowered.proxy.connection.MinecraftConnection]: [server connection] jose -> lobby has connected
+[02:21:32] [Netty epoll Worker #1/INFO] [eaglerxvelocity]: [/[0:0:0:0:0:0:0:1]:38830]: Connected via websocket
+[02:21:32] [Netty epoll Worker #1/INFO] [eaglerxvelocity]: [/[0:0:0:0:0:0:0:1]:38830]: Origin header is null
+[02:21:39] [Netty epoll Worker #2/INFO] [eaglerxvelocity]: [/[0:0:0:0:0:0:0:1]:47448]: Connected via websocket
+[02:21:39] [Netty epoll Worker #2/INFO] [eaglerxvelocity]: [/[0:0:0:0:0:0:0:1]:47448]: Origin header is null
+[02:21:40] [Netty epoll Worker #2/INFO] [eaglerxvelocity]: [connected player] Creeper180 (/[0:0:0:0:0:0:0:1]:47448) has connected
+[02:21:40] [Netty epoll Worker #2/INFO] [com.velocitypowered.proxy.connection.MinecraftConnection]: [server connection] Creeper180 -> lobby has connected
+[02:22:08] [Netty epoll Worker #2/INFO] [com.velocitypowered.proxy.connection.client.ConnectedPlayer]: [connected player] Wemmbu (/[0:0:0:0:0:0:0:1]:53256): kicked from server lobby: Timed out
+[02:22:08] [Netty epoll Worker #2/INFO] [com.velocitypowered.proxy.connection.MinecraftConnection]: [server connection] Wemmbu -> lobby has disconnected
+[02:22:08] [Netty epoll Worker #2/INFO] [com.velocitypowered.proxy.connection.client.ConnectedPlayer]: [connected player] Wemmbu (/[0:0:0:0:0:0:0:1]:53256) has disconnected: You were kicked from lobby: Timed out
+[02:26:27] [Netty epoll Worker #0/INFO] [com.velocitypowered.proxy.connection.MinecraftConnection]: [connected player] jose (/[0:0:0:0:0:0:0:1]:38820) has disconnected
+[02:26:27] [Netty epoll Worker #0/INFO] [com.velocitypowered.proxy.connection.MinecraftConnection]: [server connection] jose -> lobby has disconnected
+[02:26:28] [Netty epoll Worker #2/INFO] [com.velocitypowered.proxy.connection.MinecraftConnection]: [connected player] Creeper180 (/[0:0:0:0:0:0:0:1]:47448) has disconnected
+[02:26:28] [Netty epoll Worker #2/INFO] [com.velocitypowered.proxy.connection.MinecraftConnection]: [server connection] Creeper180 -> lobby has disconnected
+[02:26:33] [Netty epoll Worker #3/INFO] [eaglerxvelocity]: [/[0:0:0:0:0:0:0:1]:43508]: Connected via websocket
+[02:26:33] [Netty epoll Worker #3/INFO] [eaglerxvelocity]: [/[0:0:0:0:0:0:0:1]:43508]: Origin header is null
+[02:26:33] [Netty epoll Worker #3/INFO] [eaglerxvelocity]: [connected player] Creeper180 (/[0:0:0:0:0:0:0:1]:43508) has connected
+[02:26:33] [Netty epoll Worker #3/INFO] [com.velocitypowered.proxy.connection.MinecraftConnection]: [server connection] Creeper180 -> lobby has connected
+[02:32:56] [Netty epoll Worker #0/INFO] [eaglerxvelocity]: [/[0:0:0:0:0:0:0:1]:38362]: Connected via websocket
+[02:32:56] [Netty epoll Worker #0/INFO] [eaglerxvelocity]: [/[0:0:0:0:0:0:0:1]:38362]: Origin header is null
+[02:32:57] [Netty epoll Worker #0/INFO] [eaglerxvelocity]: [connected player] Wemmbu (/[0:0:0:0:0:0:0:1]:38362) has connected
+[02:32:57] [Netty epoll Worker #0/INFO] [com.velocitypowered.proxy.connection.MinecraftConnection]: [server connection] Wemmbu -> lobby has connected
+[02:43:55] [Netty epoll Worker #3/INFO] [com.velocitypowered.proxy.connection.MinecraftConnection]: [connected player] Creeper180 (/[0:0:0:0:0:0:0:1]:43508) has disconnected
+[02:43:55] [Netty epoll Worker #3/INFO] [com.velocitypowered.proxy.connection.MinecraftConnection]: [server connection] Creeper180 -> lobby has disconnected
+[02:57:36] [Netty epoll Worker #0/INFO] [com.velocitypowered.proxy.connection.MinecraftConnection]: [connected player] Wemmbu (/[0:0:0:0:0:0:0:1]:38362) has disconnected
+[02:57:36] [Netty epoll Worker #0/INFO] [com.velocitypowered.proxy.connection.MinecraftConnection]: [server connection] Wemmbu -> lobby has disconnected

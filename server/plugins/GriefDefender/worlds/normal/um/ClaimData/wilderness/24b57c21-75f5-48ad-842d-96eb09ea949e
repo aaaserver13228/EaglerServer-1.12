@@ -3,7 +3,9 @@ GriefDefender {
     accessors=[]
     attributes=[]
     builder-groups=[]
-    builders=[]
+    builders=[
+        "3e54b472-4830-3bba-86eb-59acffcbc28d"
+    ]
     claim-expiration=false
     claim-type=wilderness
     clanData {

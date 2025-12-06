@@ -1,0 +1,38 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 127.0.0.1
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 0
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1764952423024
+  login: 1764952204826
+money: '109.44'
+last-account-name: Angel
+lastlocation:
+  world: 24b57c21-75f5-48ad-842d-96eb09ea949e
+  world-name: um
+  x: -194.1866869619501
+  y: 64.0625
+  z: 251.95993269814971
+  yaw: -267.33941650390625
+  pitch: 14.855045318603516
+logoutlocation:
+  world: c0cbdfbc-cedc-4e57-ae98-3bdbbbdaf64f
+  world-name: portal
+  x: 605.0
+  y: 4.0
+  z: -1057.0
+  yaw: -120.79692077636719
+  pitch: 0.0

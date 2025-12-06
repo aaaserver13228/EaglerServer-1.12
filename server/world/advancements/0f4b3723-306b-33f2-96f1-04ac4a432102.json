@@ -23,6 +23,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/red_stained_hardened_clay": {
+    "criteria": {
+      "has_hardened_clay": "2025-12-05 13:17:58 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/lever": {
     "criteria": {
       "has_cobblestone": "2025-10-27 13:20:56 +0000"
@@ -62,6 +68,12 @@
   "minecraft:recipes/redstone/spruce_door": {
     "criteria": {
       "has_planks": "2025-10-31 12:03:59 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/wheat": {
+    "criteria": {
+      "has_the_recipe": "2025-12-04 13:33:06 +0000"
     },
     "done": true
   },
@@ -149,6 +161,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/bread": {
+    "criteria": {
+      "has_wheat": "2025-12-04 13:30:41 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/trapdoor": {
     "criteria": {
       "has_planks": "2025-10-27 13:54:16 +0000"
@@ -179,6 +197,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/black_stained_hardened_clay": {
+    "criteria": {
+      "has_hardened_clay": "2025-12-05 13:17:58 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/iron_nugget": {
     "criteria": {
       "has_iron_ingot": "2025-10-28 16:26:37 +0000"
@@ -200,6 +224,12 @@
   "minecraft:recipes/combat/golden_sword": {
     "criteria": {
       "has_gold_ingot": "2025-11-05 16:18:25 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/white_stained_hardened_clay": {
+    "criteria": {
+      "has_hardened_clay": "2025-12-05 13:17:58 +0000"
     },
     "done": true
   },
@@ -260,6 +290,12 @@
   "minecraft:recipes/tools/shears": {
     "criteria": {
       "has_iron_ingot": "2025-10-28 16:26:37 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/lime_stained_hardened_clay": {
+    "criteria": {
+      "has_hardened_clay": "2025-12-05 13:17:58 +0000"
     },
     "done": true
   },
@@ -352,6 +388,7 @@
       "rabbit": "2025-11-20 13:09:48 +0000",
       "melon": "2025-10-31 12:14:47 +0000",
       "mutton": "2025-10-28 13:58:04 +0000",
+      "bread": "2025-12-04 13:31:33 +0000",
       "rotten_flesh": "2025-10-31 11:57:57 +0000",
       "cooked_chicken": "2025-11-07 15:03:27 +0000"
     },
@@ -456,6 +493,12 @@
   "minecraft:recipes/misc/lime_dye": {
     "criteria": {
       "has_bonemeal": "2025-11-18 16:38:21 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/hay_block": {
+    "criteria": {
+      "has_at_least_9_wheat": "2025-12-04 13:33:06 +0000"
     },
     "done": true
   },
@@ -822,7 +865,9 @@
       "skeleton": "2025-10-27 13:23:03 +0000",
       "husk": "2025-11-20 13:10:42 +0000",
       "zombie": "2025-10-31 12:19:26 +0000",
+      "witch": "2025-12-04 14:36:49 +0000",
       "spider": "2025-10-27 13:23:14 +0000",
+      "creeper": "2025-12-05 13:45:17 +0000",
       "enderman": "2025-11-06 15:29:18 +0000"
     },
     "done": false
@@ -836,6 +881,12 @@
   "minecraft:story/enter_the_nether": {
     "criteria": {
       "entered_nether": "2025-11-07 13:50:34 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/end_crystal": {
+    "criteria": {
+      "has_ender_eye": "2025-12-05 13:41:03 +0000"
     },
     "done": true
   },
@@ -869,6 +920,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/ender_chest": {
+    "criteria": {
+      "has_ender_eye": "2025-12-05 13:41:03 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/pink_stained_glass_pane": {
     "criteria": {
       "has_glass": "2025-11-06 15:26:50 +0000"
@@ -893,9 +950,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/green_stained_hardened_clay": {
+    "criteria": {
+      "has_hardened_clay": "2025-12-05 13:17:58 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/glass_pane": {
     "criteria": {
       "has_glass": "2025-11-06 15:26:50 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/gray_stained_hardened_clay": {
+    "criteria": {
+      "has_hardened_clay": "2025-12-05 13:17:58 +0000"
     },
     "done": true
   },
@@ -932,6 +1001,12 @@
   "minecraft:recipes/combat/diamond_helmet": {
     "criteria": {
       "has_diamond": "2025-11-05 16:18:25 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/anvil": {
+    "criteria": {
+      "has_iron_block": "2025-12-05 13:02:45 +0000"
     },
     "done": true
   },
@@ -1037,6 +1112,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/yellow_stained_hardened_clay": {
+    "criteria": {
+      "has_hardened_clay": "2025-12-05 13:17:58 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/diamond_axe": {
     "criteria": {
       "has_diamond": "2025-11-05 16:18:25 +0000"
@@ -1139,6 +1220,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/yellow_dye_from_dandelion": {
+    "criteria": {
+      "has_yellow_flower": "2025-12-04 15:11:56 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/green_stained_glass": {
     "criteria": {
       "has_glass": "2025-11-06 15:26:50 +0000"
@@ -1223,6 +1310,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/light_blue_stained_hardened_clay": {
+    "criteria": {
+      "has_hardened_clay": "2025-12-05 13:17:58 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/fence": {
     "criteria": {
       "has_planks": "2025-10-29 15:32:53 +0000"
@@ -1238,6 +1331,12 @@
   "minecraft:recipes/tools/iron_axe": {
     "criteria": {
       "has_iron_ingot": "2025-10-28 16:26:37 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cyan_stained_hardened_clay": {
+    "criteria": {
+      "has_hardened_clay": "2025-12-05 13:17:58 +0000"
     },
     "done": true
   },
@@ -1292,6 +1391,12 @@
   "minecraft:recipes/building_blocks/jungle_wooden_slab": {
     "criteria": {
       "has_planks": "2025-11-14 14:40:57 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/blue_stained_hardened_clay": {
+    "criteria": {
+      "has_hardened_clay": "2025-12-05 13:17:58 +0000"
     },
     "done": true
   },
@@ -1442,6 +1547,7 @@
   "minecraft:adventure/adventuring_time": {
     "criteria": {
       "forest": "2025-10-31 12:15:34 +0000",
+      "mesa_rock": "2025-12-05 13:14:03 +0000",
       "birch_forest": "2025-10-27 13:22:53 +0000",
       "swampland": "2025-11-20 13:15:24 +0000",
       "beaches": "2025-10-29 14:45:48 +0000",
@@ -1451,10 +1557,14 @@
       "forest_hills": "2025-11-20 13:19:02 +0000",
       "plains": "2025-10-27 13:25:13 +0000",
       "savanna": "2025-10-28 16:27:12 +0000",
+      "jungle_edge": "2025-12-05 13:22:40 +0000",
+      "mesa_clear_rock": "2025-12-05 13:16:13 +0000",
       "savanna_rock": "2025-10-29 13:49:39 +0000",
       "birch_forest_hills": "2025-10-27 13:14:29 +0000",
       "extreme_hills": "2025-10-31 11:58:07 +0000",
+      "roofed_forest": "2025-12-05 13:49:46 +0000",
       "river": "2025-10-27 13:33:40 +0000",
+      "jungle": "2025-12-05 13:22:54 +0000",
       "desert": "2025-10-28 13:55:37 +0000",
       "stone_beach": "2025-10-31 11:56:32 +0000"
     },
@@ -1481,6 +1591,12 @@
   "minecraft:recipes/decorations/purple_bed_from_white_bed": {
     "criteria": {
       "has_bed": "2025-10-31 12:20:43 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/pink_stained_hardened_clay": {
+    "criteria": {
+      "has_hardened_clay": "2025-12-05 13:17:58 +0000"
     },
     "done": true
   },
@@ -1526,6 +1642,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/orange_stained_hardened_clay": {
+    "criteria": {
+      "has_hardened_clay": "2025-12-05 13:17:58 +0000"
+    },
+    "done": true
+  },
   "minecraft:husbandry/plant_seed": {
     "criteria": {
       "wheat": "2025-10-29 15:31:48 +0000"
@@ -1565,6 +1687,18 @@
   "minecraft:recipes/transportation/jungle_boat": {
     "criteria": {
       "entered_water": "2025-10-27 14:00:25 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/magenta_stained_hardened_clay": {
+    "criteria": {
+      "has_hardened_clay": "2025-12-05 13:17:58 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/brown_stained_hardened_clay": {
+    "criteria": {
+      "has_hardened_clay": "2025-12-05 13:17:58 +0000"
     },
     "done": true
   },
@@ -1628,6 +1762,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/purple_shulker_box": {
+    "criteria": {
+      "has_shulker_shell": "2025-12-05 12:57:15 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/lapis_block": {
     "criteria": {
       "has_at_least_9_lapis": "2025-11-14 13:50:30 +0000"
@@ -1688,6 +1828,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/light_gray_stained_hardened_clay": {
+    "criteria": {
+      "has_hardened_clay": "2025-12-05 13:17:58 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/diamond": {
     "criteria": {
       "has_the_recipe": "2025-11-14 13:53:33 +0000"
@@ -1721,6 +1867,12 @@
   "minecraft:recipes/decorations/red_bed_from_white_bed": {
     "criteria": {
       "has_bed": "2025-10-31 12:20:43 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/purple_stained_hardened_clay": {
+    "criteria": {
+      "has_hardened_clay": "2025-12-05 13:17:58 +0000"
     },
     "done": true
   },

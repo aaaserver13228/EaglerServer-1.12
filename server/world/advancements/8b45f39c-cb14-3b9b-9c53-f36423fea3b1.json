@@ -35,6 +35,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/blue_bed": {
+    "criteria": {
+      "has_blue_wool": "2025-12-05 17:05:16 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/iron_sword": {
     "criteria": {
       "has_iron_ingot": "2025-10-27 13:05:06 +0000"
@@ -287,6 +293,12 @@
   "minecraft:recipes/tools/flint_and_steel": {
     "criteria": {
       "has_flint": "2025-10-29 16:45:36 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/blue_carpet": {
+    "criteria": {
+      "has_blue_wool": "2025-12-05 17:05:16 +0000"
     },
     "done": true
   },
@@ -843,6 +855,7 @@
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
       "zombie_pigman": "2025-11-13 17:53:22 +0000",
+      "zombie_villager": "2025-12-02 17:23:06 +0000",
       "slime": "2025-11-12 16:56:22 +0000",
       "skeleton": "2025-10-29 16:47:23 +0000",
       "husk": "2025-11-12 17:24:38 +0000",
@@ -931,6 +944,12 @@
   "minecraft:recipes/building_blocks/gray_stained_hardened_clay": {
     "criteria": {
       "has_hardened_clay": "2025-10-31 13:10:41 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/purple_banner": {
+    "criteria": {
+      "has_purple_wool": "2025-12-05 16:59:45 +0000"
     },
     "done": true
   },
@@ -1045,6 +1064,12 @@
   "minecraft:recipes/building_blocks/black_wool": {
     "criteria": {
       "has_white_wool": "2025-10-29 15:06:07 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/purple_bed": {
+    "criteria": {
+      "has_purple_wool": "2025-12-05 16:59:45 +0000"
     },
     "done": true
   },
@@ -1546,6 +1571,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/purple_carpet": {
+    "criteria": {
+      "has_purple_wool": "2025-12-05 16:59:45 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/stone_pickaxe": {
     "criteria": {
       "has_cobblestone": "2025-10-28 14:36:06 +0000"
@@ -1807,6 +1838,12 @@
   "minecraft:recipes/tools/stone_axe": {
     "criteria": {
       "has_cobblestone": "2025-10-28 14:36:06 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/blue_banner": {
+    "criteria": {
+      "has_blue_wool": "2025-12-05 17:05:16 +0000"
     },
     "done": true
   },

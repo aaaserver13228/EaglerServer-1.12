@@ -1,0 +1,34 @@
+#See https://github.com/xxneox/EpicGuard/wiki/Spigot-Configuration
+allowed-commands: 
+   list: 
+   - /example
+   - /example2
+   enabled: false
+   bypass-permission: true
+op-protection: 
+   list: 
+   - YourName
+   - YourAdmin2
+   enabled: false
+   punish: ban {PLAYER} You are not allowed to have OP!
+blocked-commands: 
+   list: 
+   - /example
+   - /example2
+   enabled: false
+   bypass-permission: false
+disable-vanilla-operator-mechanics: false
+disable-vanilla-operator-mechanics-in-console: false
+deop-all-operators-on-startup: false
+block-namespaced-commands: 
+   enabled: false
+   whitelist: 
+      enabled: false
+      commands: 
+      - /plugin:command1
+      - /plugin:command2
+   bypass-permission: false
+super-admin: 
+   list: 
+   - Owner
+   enabled: false

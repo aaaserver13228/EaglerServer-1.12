@@ -1,20 +1,20 @@
 player_name: ParrotX2
-language: en_GB
+language: en_US
 setlang: false
 last_location:
   world: um
-  x: -181.17793165637283
-  y: 64.0
-  z: 249.353566858599
-  pitch: -10.3499975
-  yaw: -282.74963
+  x: 9538.076008417504
+  y: 79.0
+  z: 944.1861314615021
+  pitch: 70.49994
+  yaw: -86.99994
 logout_location:
   world: um
-  x: -186.04515329856505
-  y: 64.0625
-  z: 248.59344398412236
-  pitch: 19.8
-  yaw: -339.59875
+  x: 9474.187570192533
+  y: 70.0
+  z: 744.8770690725067
+  pitch: 13.799986
+  yaw: 103.64989
 default_home: default
 homes:
   default:

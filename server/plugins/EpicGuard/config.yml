@@ -1,0 +1,127 @@
+# ███████╗██████╗ ██╗ ██████╗ ██████╗ ██╗   ██╗ █████╗ ██████╗ ██████╗
+# ██╔════╝██╔══██╗██║██╔════╝██╔════╝ ██║   ██║██╔══██╗██╔══██╗██╔══██╗
+# █████╗  ██████╔╝██║██║     ██║  ███╗██║   ██║███████║██████╔╝██║  ██║
+# ██╔══╝  ██╔═══╝ ██║██║     ██║   ██║██║   ██║██╔══██║██╔══██╗██║  ██║
+# ███████╗██║     ██║╚██████╗╚██████╔╝╚██████╔╝██║  ██║██║  ██║██████╔╝
+# ╚══════╝╚═╝     ╚═╝ ╚═════╝ ╚═════╝  ╚═════╝ ╚═╝  ╚═╝╚═╝  ╚═╝╚═════╝
+# Created by xNeox (Discord: xNeox#0524)
+# SpigotMC: https://www.spigotmc.org/resources/72369/
+# Support Discord: https://discord.gg/VkfhFCv
+# ╔════════════════════════════════════════════╗
+# ║           Geographical Checks              ║
+# ╚════════════════════════════════════════════╝
+# Country check will filter countries your players can connect from.
+# NEVER (default) - check is disabled.
+# ALWAYS - check will be always performed.
+# ATTACK - check will be performed only during bot-attack.
+# It is reccomended to ENABLE AND SETUP this check!
+country-check-mode: NEVER
+# This will define if country-check should be blacklist or whitelist.
+# BLACKLIST - countries below are blocked
+# WHITELIST - only countries below are allowed
+country-check-type: BLACKLIST
+# List of country codes: https://dev.maxmind.com/geoip/legacy/codes/iso3166/
+country-check-countries: 
+- US
+# If some player's city is listed here, he will be blacklisted.
+city-blacklist: 
+- ExampleCity
+# ╔════════════════════════════════════════════╗
+# ║           Other AntiBot Checks             ║
+# ╚════════════════════════════════════════════╝
+# Proxy check will define if user is connecting from Proxy/VPN.
+# Change this option to save performance or increase accuracy
+# NEVER - check is disabled.
+# ALWAYS (default) - check will be always performed.
+# ATTACK - check will be performed only during bot-attack.
+proxy-check: ALWAYS
+# Recommended option!
+# Register an account here: https://proxycheck.io/dashboard
+# And get your FREE api key.
+# Without key - 100 requests/24h
+# With key - 1000 requests/24h
+# Alternatively, you can set your own service
+# at the botton of this configuration.
+proxy-check-key: "put_your_key_here"
+# This check will limit how many accounts
+# (different nicknames) can be used by one IP address
+# NEVER - check is disabled.
+# ALWAYS (default) - check will be always performed.
+# ATTACK - check will be performed only during bot-attack.
+account-limit-check: ALWAYS
+# Limit of accounts per one IP address.
+max-accounts-per-ip: 3
+# Reconnect check will force users to join the server again.
+# NEVER - check is disabled.
+# ALWAYS - check will be always performed.
+# ATTACK (default) - check will be performed only during bot-attack.
+reconnect-check: ATTACK
+# Server-list check will force users to add your server.
+# to their server list (and pinging it) before joining.
+# NEVER - check is disabled.
+# ALWAYS - check will be always performed.
+# ATTACK (default) - check will be performed only during bot-attack.
+server-list-check: ATTACK
+# Should every user (except if he is whitelisted)
+# be disconnected when there is an bot attack?
+# Enable for better protection, disable to allow NEW players during attack.
+# DEFAULT: true
+attack-deny-join: true
+# Time in seconds the player must be online
+# to be added to the EpicGuard's whitelist.
+# Default: 240 (4 minutes)
+auto-whitelist-time: 240
+# Rate-limit check will force users to wait some seconds.
+# before joining the server again (configurable below).
+# NEVER - check is disabled.
+# ALWAYS - check will perform on every player always.
+# ATTACK (default) - check will perform only during bot attack.
+rate-limit-check: ALWAYS
+# How many seconds users will need to wait
+# between joining the server again? (See check above).
+rate-limit-seconds: 10
+# Nickname-check will block players if their nickname matches
+# the regex expression set in the 'nickname-check-expression'.
+# NEVER - check is disabled.
+# ALWAYS - check will perform on every player always.
+# ATTACK (default) - check will perform only during bot attack.
+nickname-check: ALWAYS
+# Default value will check if the nickname contains 'bot' or 'mcspam'.
+# You can use https://regex101.com/ for making and testing your own expression.
+nickname-check-expression: (?i).*(bot|mcspam).*
+# ╔════════════════════════════════════════════╗
+# ║              Other Settings                ║
+# ╚════════════════════════════════════════════╝
+# How many connections per second must be made,
+# to activate attack mode temporally?
+max-cps: 6
+# Shoud the auto-whitelist feature be enabled?
+# Whitelisted players are exempt from every check.
+auto-whitelist: true
+# If you want to use other proxy/vpn checker
+# than default (proxycheck.io), you can set it here.
+# Available placeholders: %ip%
+custom-proxy-check-url: "disabled"
+# How long in minutes responses from proxy check should be cached?
+proxy-check-cache-duration: 30
+# Change when the console-filter should be active.
+# ALWAYS (default) - always filter console messages
+# ATTACK - only filter console messages when there is an active attack
+# NEVER - completely disable the console-filter feature.
+console-filter-mode: ALWAYS
+# If log message contains one of these words, it will
+# be hidden. This can save a lot of CPU on big attacks.
+console-filter: 
+- GameProfile
+- Disconnected
+- UUID of player
+- logged in
+- lost connection
+- InitialHandler
+# Set to false to disable update checker.
+update-checker: true
+# Time in minutes before auto-saving data.
+autosave-interval: 10
+# Enabling this will log positive bot detections in the console.
+debug: false
+

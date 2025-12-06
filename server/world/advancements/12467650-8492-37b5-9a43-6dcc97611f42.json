@@ -5,15 +5,15 @@
     },
     "done": true
   },
-  "minecraft:recipes/combat/bow": {
-    "criteria": {
-      "has_string": "2025-12-02 00:14:33 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/tools/stone_shovel": {
     "criteria": {
       "has_cobblestone": "2025-12-02 00:08:31 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/bow": {
+    "criteria": {
+      "has_string": "2025-12-02 00:14:33 +0000"
     },
     "done": true
   },
@@ -61,6 +61,7 @@
   },
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
+      "skeleton": "2025-12-02 13:32:46 +0000",
       "zombie": "2025-11-02 00:00:30 +0000",
       "spider": "2025-12-02 00:14:22 +0000",
       "creeper": "2025-12-02 00:15:04 +0000"
@@ -69,6 +70,7 @@
   },
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
+      "beef": "2025-12-02 14:11:09 +0000",
       "rotten_flesh": "2025-11-02 00:15:09 +0000"
     },
     "done": false

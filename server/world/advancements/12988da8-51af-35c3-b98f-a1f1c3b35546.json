@@ -5,6 +5,12 @@
     },
     "done": true
   },
+  "minecraft:adventure/root": {
+    "criteria": {
+      "killed_by_something": "2025-12-04 17:41:15 +0000"
+    },
+    "done": true
+  },
   "minecraft:story/upgrade_tools": {
     "criteria": {
       "stone_pickaxe": "2025-11-12 18:08:43 +0000"
@@ -15,6 +21,7 @@
     "criteria": {
       "forest": "2025-11-12 18:10:01 +0000",
       "plains": "2025-11-12 18:09:07 +0000",
+      "savanna": "2025-12-04 17:41:15 +0000",
       "birch_forest_hills": "2025-11-12 18:08:44 +0000"
     },
     "done": false

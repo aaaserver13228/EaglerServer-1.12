@@ -21,8 +21,28 @@ b8e46504-274d-3847-ac77-ed94dbe8064b:
   highest_score: 0
 48d5a1b4-fc5f-3b3f-a09a-1f050adee0dc:
   playername: Manepear
+  next_level_exp: 354
+  contribution_detective: 101
+  level: 1
+  deaths: 4
+  games_played: 6
+  exp: 60
+  contribution_murderer: 1
+  kills: 2
+  wins: 1
+  highest_score: 810
 1a60bc30-d39d-36a9-ba9b-5f58f027c9f7:
   playername: That1UchihaYT
+  next_level_exp: 0
+  contribution_detective: 0
+  level: 0
+  deaths: 0
+  contribution_murderer: 0
+  games_played: 0
+  kills: 0
+  exp: 0
+  wins: 0
+  highest_score: 0
 132d82d2-2dad-3f9c-8027-9142d7e15262:
   playername: SR8K_
 83fe0204-a635-3fbb-9840-c4ab2d008207:
@@ -72,11 +92,11 @@ b716ba34-656a-3370-99c6-f2522d6b2779:
   playername: Nari
 0f4b3723-306b-33f2-96f1-04ac4a432102:
   playername: Yareth_dude
-  next_level_exp: 354
-  level: 1
-  deaths: 1
-  games_played: 2
-  exp: 20
+  next_level_exp: 0
+  level: 0
+  deaths: 0
+  games_played: 0
+  exp: 0
 5737a6e7-7872-3412-9b81-880b447c9081:
   playername: Mapicc
 93cb2c1b-8a8e-3aa7-b46b-093c0af2801f:
@@ -228,6 +248,11 @@ a51f5c17-02bd-39c4-ade4-e90244d969da:
   playername: kenziel_
 f7aa332c-51a8-3dc9-90b0-2b9d0af82c11:
   playername: Jetergetbucketsw
+  next_level_exp: 354
+  level: 1
+  deaths: 1
+  games_played: 1
+  exp: 10
 71c0402a-02ec-350d-944f-f61b71147aaf:
   playername: Manepear________
 6963900a-71c6-3347-b419-6747b90f3ed1:
@@ -236,6 +261,12 @@ f7aa332c-51a8-3dc9-90b0-2b9d0af82c11:
   playername: monke
 66d266a1-764e-30bf-b2fa-cfe1f67021dd:
   playername: Pedro
+  next_level_exp: 0
+  contribution_detective: 0
+  level: 0
+  deaths: 0
+  games_played: 0
+  exp: 0
 21385c8a-4c0c-3e20-aaa7-eced23530546:
   playername: fag
 3ed6911f-7946-38fd-8a95-93ab8769184e:
@@ -246,6 +277,15 @@ f7aa332c-51a8-3dc9-90b0-2b9d0af82c11:
   playername: DeDeDe
 f313835e-ff7c-3c06-bd96-c5eff65b381a:
   playername: Rakarut_P3D
+  next_level_exp: 354
+  contribution_detective: 217
+  level: 1
+  deaths: 2
+  contribution_murderer: 78
+  games_played: 5
+  kills: 2
+  exp: 50
+  wins: 3
 c8151769-2fe0-3296-832c-50da6390aba0:
   playername: manepear____33
 2257766c-22b9-3085-a320-9d69a7e4eb86:
@@ -260,6 +300,13 @@ c49cc779-1167-3d72-8af5-6a0951ee9b76:
   playername: gooner_boy
 cb829089-1085-3b34-a546-0685d26b38a9:
   playername: Creeper180
+  next_level_exp: 354
+  contribution_detective: 131
+  level: 1
+  contribution_murderer: 280
+  games_played: 1
+  exp: 10
+  wins: 1
 503a0362-fad4-3c66-aa06-4d7eefdb0520:
   playername: Jetergetbucket
 005eb8e2-b75d-3c89-87a6-307798f33246:
@@ -290,3 +337,95 @@ f790e114-dbaa-3e69-83fe-0ee88a941286:
   playername: goku
 12467650-8492-37b5-9a43-6dcc97611f42:
   playername: hadeel
+3aa10d45-6372-352e-b9af-2eba497ed912:
+  playername: ___
+44002f06-ce6b-34e5-9f2f-45c284850caf:
+  playername: nickthebest1
+341ac2c9-168d-32c0-b53f-3f6900771aad:
+  playername: thebesttoucher1
+e73b1aa6-5f3f-3629-910a-d7b139152994:
+  playername: thebesttoucheral
+afb1e364-7cc6-3d42-b31e-18cf9dec01ee:
+  playername: hamzahabitch
+58679c45-6d13-3818-aa8b-fabf3815e93c:
+  playername: adamalt
+23dfe053-4291-3471-b963-cc91a27b870b:
+  playername: kira
+048b6e63-dcdd-3977-a0c8-b464684cbfe8:
+  playername: ParrotX
+7472ae58-4d5e-3394-bba8-2e128775f2f4:
+  playername: rw1
+9cb95c0e-d655-352e-95fb-7d2ed741ef2c:
+  playername: thelocalmoco
+0cd78cb4-9295-3f95-8b83-f9a6f06ae5ea:
+  playername: ZenRl
+ff02dec4-6722-3de8-94bd-955c8a022220:
+  playername: Mapicc__
+15a6ba59-abba-37a2-81e1-d590c072d31a:
+  playername: AbdutheBomber911
+7b4e3289-95bb-3775-8175-6b97026b6b6d:
+  playername: Abdul_sun_123
+789f07ab-7d83-321e-8daa-f36818c2539b:
+  playername: god_i_hate_nigge
+e09c9bda-6691-3b8f-8fff-e81ac281d564:
+  playername: nigg
+37eb9332-a0a7-362a-8697-bc1ee27d0eab:
+  playername: toucher
+4e7aeef2-5284-31f4-aa2a-795aab0a530f:
+  playername: toucher3
+1d3d53bc-fc46-377a-9509-6e1f987d589d:
+  playername: toucher33
+291748c3-bf82-3ec0-83f9-ede4dc45136c:
+  playername: yaya
+2e0e7071-ad04-39bc-bfb4-e6b4edfd9fbf:
+  playername: Chimyman
+4053aef4-6ced-357a-a70b-bad5a19d638f:
+  playername: juicy
+cf8ec124-5e39-3e21-9095-303a5cbd5f6a:
+  playername: That1UchihaYT_
+0ed28c56-14e1-3a07-bf88-0c465613ec7f:
+  playername: Reggie11
+66ecc9ce-4d28-3a2c-ba1a-796d50d1e97e:
+  playername: UM_
+32f42bde-ecb4-3f6a-ada9-16f7665c5a34:
+  playername: ZenRl____
+5ef4d847-7987-3110-a81a-033403900626:
+  playername: Mapicc_v
+d0a47a7b-a7d5-3748-819f-ea87e6e3bd5e:
+  playername: haha1243
+f6a386de-8a46-3f17-bf69-70f861399fdd:
+  playername: NECKHURT_
+14860415-6159-3354-8bb5-d193b9e670b4:
+  playername: Sir_Diddy
+de8454a1-5c38-34d2-8654-e71ceb85289a:
+  playername: Wemmbushouldkhs
+35f8a051-8890-3dc5-8ba0-f75302ae6d39:
+  playername: UnbanThat1Uchiha
+12988da8-51af-35c3-b98f-a1f1c3b35546:
+  playername: That1UchihaYT2
+e32c0400-9b7d-345f-910b-070ceb107546:
+  playername: Creeper1800
+63d0b68f-caad-361d-b682-7c87bb9c16a6:
+  playername: Spoke_ishere
+21912b6d-1c69-31ec-ac33-e3820820c541:
+  playername: SpokeIsHere
+c86e95bc-1ca0-30ec-b497-2ff0db9e2187:
+  playername: ClownPierce
+c3a4b12d-ce9e-3f94-a739-f8ad225d8b1d:
+  playername: Larisa
+e2401a9b-d035-3821-b275-03f8b4339b02:
+  playername: Angel
+  next_level_exp: 354
+  level: 1
+  games_played: 1
+  exp: 10
+4b26e145-1fa9-35ac-81fa-3a5f706fedad:
+  playername: Jellybeans21
+d3dca610-444c-3d1d-b8e8-767c6075feeb:
+  playername: Cream
+2899c94f-fb1b-3b47-94fb-9080c37f3f82:
+  playername: Im_Gabe
+2d7d7ed4-1214-3c6a-81e1-677cfceba470:
+  playername: zeqify_nyc
+f108d27f-9c53-3278-96da-45f3c2af6b7c:
+  playername: wemmbu_
