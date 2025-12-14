@@ -1,0 +1,10 @@
+name: NO_CAP
+kits:
+  iron:
+    cooldown: 1765339540924
+    one_time: true
+    bought: false
+  food:
+    cooldown: 1765209141926
+    one_time: false
+    bought: false

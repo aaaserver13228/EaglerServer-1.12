@@ -1,7 +1,0 @@
-{
-   "name-whitelist": [],
-   "name-blacklist": [],
-   "blacklist": [],
-   "whitelist": ["127.0.0.1"],
-   "account-data": {"127.0.0.1": ["ParrotX2"]}
-}

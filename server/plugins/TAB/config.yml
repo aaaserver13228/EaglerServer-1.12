@@ -217,7 +217,8 @@ assign-groups-by-permissions: false
 primary-group-finding-list:
   - Owner
   - Admin
-  - Mod
+  - OG
+  - 
   - Helper
   - default
 

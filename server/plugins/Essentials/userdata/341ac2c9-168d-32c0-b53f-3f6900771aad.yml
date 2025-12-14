@@ -16,18 +16,18 @@ timestamps:
   mute: 0
   jail: 0
   onlinejail: 0
-  logout: 1764680301432
-  login: 1764680073084
+  logout: 1765217633902
+  login: 1765217564762
 money: '11.229999999999982'
 last-account-name: thebesttoucher1
 logoutlocation:
   world: 24b57c21-75f5-48ad-842d-96eb09ea949e
   world-name: um
-  x: -204.11541099561578
+  x: -204.0059507387882
   y: 65.5
-  z: 250.7564041656818
-  yaw: 0.5999607443809509
-  pitch: 1.6500098705291748
+  z: 250.98702490032906
+  yaw: -49.950042724609375
+  pitch: -90.0
 lastlocation:
   world: 24b57c21-75f5-48ad-842d-96eb09ea949e
   world-name: um

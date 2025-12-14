@@ -1,0 +1,10 @@
+name: Idot
+kits:
+  iron:
+    cooldown: 1765438305215
+    one_time: true
+    bought: false
+  food:
+    cooldown: 1765307906207
+    one_time: false
+    bought: false

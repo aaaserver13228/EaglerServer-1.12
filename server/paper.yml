@@ -54,6 +54,9 @@ timings:
   history-length: 3600
 world-settings:
   default:
+    remove-corrupt-tile-entities: false
+    use-chunk-inhabited-timer: true
+    queue-light-updates: false
     generator-settings:
       canyon: true
       caves: true
@@ -68,13 +71,30 @@ world-settings:
       disable-extreme-hills-emeralds: false
       disable-extreme-hills-monster-eggs: false
       disable-mesa-additional-gold: false
-    remove-corrupt-tile-entities: false
-    use-chunk-inhabited-timer: true
-    queue-light-updates: false
     prevent-moving-into-unloaded-chunks: false
     use-vanilla-world-scoreboard-name-coloring: false
-    optimize-explosions: false
-    portal-search-radius: 128
+    fast-drain:
+      lava: false
+      water: true
+    lava-flow-speed:
+      normal: 30
+      nether: 10
+    lootables:
+      auto-replenish: false
+      restrict-player-reloot: true
+      reset-seed-on-fill: true
+      max-refills: -1
+      refresh-min: 12h
+      refresh-max: 2d
+    filter-nbt-data-from-spawn-eggs-and-related: true
+    max-entity-collisions: 8
+    disable-creeper-lingering-effect: false
+    hopper:
+      cooldown-when-full: true
+      disable-move-event: false
+      push-based: false
+    duplicate-uuid-resolver: saferegen
+    duplicate-uuid-saferegen-delete-range: 32
     delay-chunk-unloads-by: 10s
     max-auto-save-chunks-per-tick: 24
     save-queue-limit-for-auto-save: 50
@@ -103,34 +123,13 @@ world-settings:
     falling-block-height-nerf: 0
     tnt-entity-height-nerf: 0
     water-over-lava-flow-speed: 5
-    fast-drain:
-      lava: false
-      water: true
-    lava-flow-speed:
-      normal: 30
-      nether: 10
-    lootables:
-      auto-replenish: false
-      restrict-player-reloot: true
-      reset-seed-on-fill: true
-      max-refills: -1
-      refresh-min: 12h
-      refresh-max: 2d
-    filter-nbt-data-from-spawn-eggs-and-related: true
-    max-entity-collisions: 8
-    disable-creeper-lingering-effect: false
-    hopper:
-      cooldown-when-full: true
-      disable-move-event: false
-      push-based: false
-    duplicate-uuid-resolver: saferegen
-    duplicate-uuid-saferegen-delete-range: 32
-    all-chunks-are-slime-chunks: false
-    keep-spawn-loaded-range: 4
-    auto-save-interval: -1
+    optimize-explosions: false
+    portal-search-radius: 128
     squid-spawn-height:
       maximum: 63.0
       minimum: 45.0
+    keep-spawn-loaded-range: 4
+    auto-save-interval: -1
     nether-ceiling-void-damage: false
     allow-non-player-entities-on-scoreboards: false
     frosted-ice:
@@ -183,6 +182,7 @@ world-settings:
     baby-zombie-movement-speed: 0.5
     allow-leashing-undead-horse: false
     mob-spawner-tick-rate: 1
+    all-chunks-are-slime-chunks: false
     disable-teleportation-suffocation-check: false
     enable-treasure-maps: true
     treasure-maps-return-already-discovered: false

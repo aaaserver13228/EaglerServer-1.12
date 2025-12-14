@@ -1,6 +1,6 @@
 # DomainExpansionJJK - config
-tickIntervalTicks: 2           # how often the main ticker runs (lower = more responsive, heavier)
-particleSpacingAngle: 0.12     # smaller = more particles along border
+tickIntervalTicks: 4           # how often the main ticker runs (lower = more responsive, heavier)
+particleSpacingAngle: 0.35     # smaller = more particles along border
 particlePerPoint: 1
 maxDomainsActivePerPlayer: 1
 defaultDurationSeconds: 30
@@ -13,10 +13,10 @@ persistence:
 domains:
   gojo_limitless:
     name: "Gojo - Limitless (Infinite Void)"
-    maxRadius: 32.0
-    expandSpeed: 0.7
-    duration: 308
-    adminOnly: false
+    maxRadius: 24.0
+    expandSpeed: 0.9
+    duration: 18
+    adminOnly: true
     special:
       pullCenter: true
       blindOnEntry: true
@@ -32,70 +32,68 @@ domains:
     name: "Gojo - Infinite Void (Soft)"
     maxRadius: 16.0
     expandSpeed: 0.6
-    duration: 300
-    adminOnly: false
+    duration: 12
+    adminOnly: true
     effects:
       owner:
         - ABSORPTION:1:3
       enemies:
-        - BLINDNESS:1:3
+        - BLINDNESS:2:3
         - SLOW:1:3
 
   sukuna_shrine:
     name: "Sukuna - Malevolent Shrine"
     maxRadius: 22.0
-    expandSpeed: 0.8
-    duration: 480
-    adminOnly: false
+    expandSpeed: 0.7
+    duration: 22
+    adminOnly: true
     special:
       boundarySlash: true
     effects:
       owner:
-        - INCREASE_DAMAGE:3:2
+        - INCREASE_DAMAGE:3:6
       enemies:
         - WEAKNESS:1:5
-        - POISON:1:4
+        - POISON:0:4
 
   megumi_garden:
     name: "Megumi - Chimera Shadow Garden"
-    maxRadius: 32.0
-    expandSpeed: 1.4
-    duration: 500
+    maxRadius: 18.0
+    expandSpeed: 0.7
+    duration: 20
     adminOnly: false
     special:
       summonShadows: true
     effects:
       owner:
-        - SPEED:1:1
+        - SPEED:1:4
       enemies:
-        
-        
+        - SLOW:1:5
+        - BLINDNESS:1:3
 
   mahito_transfiguration:
     name: "Mahito - Self-Embodiment of Perfection"
-    maxRadius: 160.0
-    expandSpeed: 1.8
-    duration: 400
+    maxRadius: 16.0
+    expandSpeed: 0.5
+    duration: 20
     adminOnly: false
     effects:
-      owner:
-        - REGENERATION:1:1
       enemies:
         - CONFUSION:2:4
         - WEAKNESS:1:5
 
   itadori_blackflash:
     name: "Itadori - Black Flash"
-    maxRadius: 320.0
-    expandSpeed: 2.8
-    duration: 860
+    maxRadius: 12.0
+    expandSpeed: 1.4
+    duration: 6
     adminOnly: false
     effects:
       owner:
-        - INCREASE_DAMAGE:5:1
-        - SPEED:8:1
+        - INCREASE_DAMAGE:4:2
+        - SPEED:2:2
       enemies:
-        
+        - SLOW:1:2
 
   nanami_ratio:
     name: "Nanami - Ratio Technique"

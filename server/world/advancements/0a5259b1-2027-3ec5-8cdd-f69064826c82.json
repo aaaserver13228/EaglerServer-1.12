@@ -377,6 +377,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/sandstone_stairs": {
+    "criteria": {
+      "has_sandstone": "2025-12-12 18:13:59 +0000"
+    },
+    "done": true
+  },
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
       "cooked_porkchop": "2025-11-07 14:06:05 +0000",
@@ -543,6 +549,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/sandstone_slab": {
+    "criteria": {
+      "has_sandstone": "2025-12-12 18:13:59 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/tnt": {
     "criteria": {
       "has_gunpowder": "2025-11-24 18:00:07 +0000"
@@ -552,6 +564,12 @@
   "minecraft:recipes/decorations/black_stained_glass_pane": {
     "criteria": {
       "has_glass": "2025-11-17 13:51:14 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/smooth_sandstone": {
+    "criteria": {
+      "has_sandstone": "2025-12-12 18:13:59 +0000"
     },
     "done": true
   },
@@ -872,7 +890,8 @@
       "zombie": "2025-10-28 13:40:34 +0000",
       "silverfish": "2025-11-24 16:49:03 +0000",
       "spider": "2025-11-10 12:42:38 +0000",
-      "creeper": "2025-11-10 13:28:59 +0000"
+      "creeper": "2025-11-10 13:28:59 +0000",
+      "enderman": "2025-12-09 13:44:19 +0000"
     },
     "done": false
   },
@@ -960,6 +979,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/birch_door": {
+    "criteria": {
+      "has_the_recipe": "2025-12-11 16:49:36 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/glass_pane": {
     "criteria": {
       "has_glass": "2025-11-17 13:51:14 +0000"
@@ -1017,6 +1042,12 @@
   "minecraft:recipes/decorations/blue_bed_from_white_bed": {
     "criteria": {
       "has_bed": "2025-11-18 14:59:42 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/birch_fence": {
+    "criteria": {
+      "has_planks": "2025-12-11 16:49:38 +0000"
     },
     "done": true
   },
@@ -1362,6 +1393,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/birch_planks": {
+    "criteria": {
+      "has_log": "2025-12-11 16:49:01 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/bone_meal_from_bone": {
     "criteria": {
       "has_bone": "2025-10-27 17:39:25 +0000"
@@ -1377,6 +1414,12 @@
   "minecraft:story/iron_tools": {
     "criteria": {
       "iron_pickaxe": "2025-10-31 17:12:24 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/birch_fence_gate": {
+    "criteria": {
+      "has_planks": "2025-12-11 16:49:38 +0000"
     },
     "done": true
   },
@@ -1502,10 +1545,13 @@
   },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
+      "ice_flats": "2025-12-12 16:59:44 +0000",
       "mesa_rock": "2025-10-28 14:47:34 +0000",
       "forest": "2025-11-03 16:07:24 +0000",
       "birch_forest": "2025-10-27 17:41:07 +0000",
       "swampland": "2025-11-24 16:13:36 +0000",
+      "deep_ocean": "2025-12-12 16:57:21 +0000",
+      "beaches": "2025-12-11 13:21:21 +0000",
       "desert_hills": "2025-11-05 16:00:14 +0000",
       "mesa": "2025-10-28 13:58:44 +0000",
       "forest_hills": "2025-11-14 21:17:54 +0000",
@@ -1515,11 +1561,14 @@
       "jungle_edge": "2025-11-14 21:11:41 +0000",
       "mesa_clear_rock": "2025-11-06 13:08:23 +0000",
       "savanna_rock": "2025-10-28 14:57:47 +0000",
+      "ice_mountains": "2025-12-12 16:58:10 +0000",
       "taiga": "2025-11-24 16:18:02 +0000",
       "taiga_hills": "2025-11-24 16:17:55 +0000",
       "birch_forest_hills": "2025-10-27 17:39:25 +0000",
+      "ocean": "2025-12-11 13:21:15 +0000",
       "extreme_hills": "2025-11-24 16:11:57 +0000",
       "roofed_forest": "2025-11-21 13:08:23 +0000",
+      "cold_beach": "2025-12-12 16:58:01 +0000",
       "river": "2025-10-28 13:36:46 +0000",
       "jungle": "2025-11-14 21:11:43 +0000",
       "desert": "2025-10-28 13:36:50 +0000"
@@ -1541,6 +1590,12 @@
   "minecraft:recipes/decorations/purple_bed_from_white_bed": {
     "criteria": {
       "has_bed": "2025-11-18 14:59:42 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/birch_wooden_slab": {
+    "criteria": {
+      "has_planks": "2025-12-11 16:49:38 +0000"
     },
     "done": true
   },
@@ -1613,6 +1668,12 @@
   "minecraft:adventure/shoot_arrow": {
     "criteria": {
       "shot_arrow": "2025-11-10 13:02:59 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/birch_stairs": {
+    "criteria": {
+      "has_planks": "2025-12-11 16:49:38 +0000"
     },
     "done": true
   },

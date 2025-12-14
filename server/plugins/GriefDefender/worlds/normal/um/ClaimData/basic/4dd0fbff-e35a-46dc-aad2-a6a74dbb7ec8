@@ -18,7 +18,7 @@ GriefDefender {
     containers=[]
     cuboid=false
     date-created="2025-11-24T16:47:22.067365011Z"
-    date-last-active="2025-12-06T02:43:55.379098635Z"
+    date-last-active="2025-12-11T17:13:05.669151761Z"
     deny-messages=true
     economyData {
         bankTransactionLog=[]

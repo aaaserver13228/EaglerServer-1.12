@@ -47,6 +47,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/pillar_quartz_block": {
+    "criteria": {
+      "has_quartz_block": "2025-12-08 13:06:26 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/iron_sword": {
     "criteria": {
       "has_iron_ingot": "2025-11-11 18:14:43 +0000"
@@ -98,6 +104,12 @@
   "minecraft:recipes/building_blocks/nether_brick_slab": {
     "criteria": {
       "has_nether_brick": "2025-12-03 14:52:14 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/furnace_minecart": {
+    "criteria": {
+      "has_minecart": "2025-12-11 01:02:01 +0000"
     },
     "done": true
   },
@@ -248,6 +260,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/transportation/hopper_minecart": {
+    "criteria": {
+      "has_minecart": "2025-12-11 01:02:01 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/brown_concrete_powder": {
     "criteria": {
       "has_gravel": "2025-11-11 18:29:26 +0000"
@@ -326,6 +344,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/redstone_lamp": {
+    "criteria": {
+      "has_glowstone": "2025-12-09 12:55:49 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/sign": {
     "criteria": {
       "has_planks": "2025-11-11 18:14:49 +0000"
@@ -383,6 +407,12 @@
   "minecraft:recipes/transportation/detector_rail": {
     "criteria": {
       "has_rail": "2025-11-11 19:53:20 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dark_oak_planks": {
+    "criteria": {
+      "has_log2": "2025-12-10 23:10:24 +0000"
     },
     "done": true
   },
@@ -707,9 +737,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/beacon": {
+    "criteria": {
+      "has_nether_star": "2025-12-11 02:23:24 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/brewing/cauldron": {
     "criteria": {
       "has_water_bucket": "2025-11-11 18:14:59 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/chest_minecart": {
+    "criteria": {
+      "has_minecart": "2025-12-11 01:02:01 +0000"
     },
     "done": true
   },
@@ -809,6 +851,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/quartz_stairs": {
+    "criteria": {
+      "has_quartz_block": "2025-12-08 13:06:26 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/green_concrete_powder": {
     "criteria": {
       "has_gravel": "2025-11-11 18:29:26 +0000"
@@ -875,6 +923,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/black_bed": {
+    "criteria": {
+      "has_black_wool": "2025-12-09 12:55:22 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/bowl": {
+    "criteria": {
+      "has_brown_mushroom": "2025-12-10 23:31:40 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/gray_bed_from_white_bed": {
     "criteria": {
       "has_bed": "2025-12-02 14:34:40 +0000"
@@ -935,6 +995,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/combat/spectral_arrow": {
+    "criteria": {
+      "has_glowstone_dust": "2025-12-08 13:40:35 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/white_stained_glass_pane": {
     "criteria": {
       "has_glass": "2025-11-11 20:08:50 +0000"
@@ -945,11 +1011,13 @@
     "criteria": {
       "zombie_pigman": "2025-12-02 14:51:57 +0000",
       "wither_skeleton": "2025-12-03 14:52:23 +0000",
+      "zombie_villager": "2025-12-08 14:09:51 +0000",
       "skeleton": "2025-11-11 18:49:01 +0000",
       "husk": "2025-11-11 18:39:42 +0000",
       "blaze": "2025-12-03 13:34:13 +0000",
       "zombie": "2025-11-11 18:39:10 +0000",
       "witch": "2025-11-25 12:53:10 +0000",
+      "guardian": "2025-12-08 18:47:27 +0000",
       "spider": "2025-11-11 18:38:31 +0000",
       "creeper": "2025-11-13 00:30:32 +0000",
       "enderman": "2025-11-13 14:19:58 +0000"
@@ -995,6 +1063,12 @@
   "minecraft:recipes/decorations/orange_bed": {
     "criteria": {
       "has_orange_wool": "2025-11-11 19:09:05 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/enchant_item": {
+    "criteria": {
+      "enchanted_item": "2025-12-08 18:34:03 +0000"
     },
     "done": true
   },
@@ -1298,9 +1372,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/quartz_slab": {
+    "criteria": {
+      "has_quartz_block": "2025-12-08 13:06:26 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/white_stained_glass": {
     "criteria": {
       "has_glass": "2025-11-11 20:08:50 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/red_dye_from_poppy": {
+    "criteria": {
+      "has_red_flower": "2025-12-09 00:31:41 +0000"
     },
     "done": true
   },
@@ -1325,6 +1411,12 @@
   "minecraft:recipes/combat/arrow": {
     "criteria": {
       "has_flint": "2025-11-11 20:53:14 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/black_carpet": {
+    "criteria": {
+      "has_black_wool": "2025-12-09 12:55:22 +0000"
     },
     "done": true
   },
@@ -1478,6 +1570,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/glowstone": {
+    "criteria": {
+      "has_glowstone_dust": "2025-12-08 13:40:35 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/sea_lantern": {
+    "criteria": {
+      "has_prismarine_crystals": "2025-12-08 18:44:55 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/jungle_planks": {
     "criteria": {
       "has_log": "2025-11-11 18:40:21 +0000"
@@ -1487,6 +1591,12 @@
   "minecraft:recipes/combat/golden_helmet": {
     "criteria": {
       "has_gold_ingot": "2025-11-11 19:53:09 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/black_banner": {
+    "criteria": {
+      "has_black_wool": "2025-12-09 12:55:22 +0000"
     },
     "done": true
   },
@@ -1523,6 +1633,12 @@
   "minecraft:recipes/building_blocks/blue_stained_hardened_clay": {
     "criteria": {
       "has_hardened_clay": "2025-12-05 12:54:37 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/chiseled_quartz_block": {
+    "criteria": {
+      "has_quartz_block": "2025-12-08 13:06:26 +0000"
     },
     "done": true
   },
@@ -1978,6 +2094,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/transportation/tnt_minecart": {
+    "criteria": {
+      "has_minecart": "2025-12-11 01:02:01 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/piston": {
     "criteria": {
       "has_redstone": "2025-11-11 18:14:53 +0000"
@@ -1999,6 +2121,12 @@
   "minecraft:recipes/building_blocks/stone_stairs": {
     "criteria": {
       "has_cobblestone": "2025-11-11 18:14:58 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/rail": {
+    "criteria": {
+      "has_minecart": "2025-12-11 01:02:01 +0000"
     },
     "done": true
   },

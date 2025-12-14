@@ -12,7 +12,7 @@
 # Auto-update message will show on server join if you have the permission 'mtvehicles.update'.
 # If set on false the /vehicle update command will not work either.
 # IMPORTANT: If this is enabled, the plugin WILL CONTACT OUR SERVERS to get the latest version and to download it. If you do not wish for this to happen, set this option to false.
-autoUpdate: true
+autoUpdate: false
 
 
 # --- General ---
@@ -48,7 +48,7 @@ damageEnabled: false
 damageMultiplier: 0.5
 
 # Whether vehicles explode when they have no hp left
-explodingVehicle: false
+explodingVehicle: true
 
 # Whether vehicles are deleted when they no longer have HP.
 destructibleVehicle: false
@@ -74,7 +74,7 @@ helicopterFallDamage: 40.0
 airplaneTNT: true
 
 # Airplane Bombing cooldown
-airplaneTNTCooldown: 0
+airplaneTNTCooldown: 1
 
 # --- Gas ---
 

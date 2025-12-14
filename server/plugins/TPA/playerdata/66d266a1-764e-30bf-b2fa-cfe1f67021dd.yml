@@ -2,16 +2,25 @@ player_name: Pedro
 language: en_US
 setlang: false
 last_location:
-  world: um
-  x: -193.14762801558987
+  world: unstable
+  x: 86.72843451592873
   y: 64.0
-  z: 249.1190024370467
-  pitch: 14.700014
-  yaw: 281.84387
+  z: -109.79322736964293
+  pitch: 15.149985
+  yaw: 194.2522
 logout_location:
-  world: um
-  x: -190.1923253138048
-  y: 64.0625
-  z: 250.53787029079714
-  pitch: 17.09996
-  yaw: -266.5561
+  world: unstable
+  x: 93.7051781213406
+  y: 85.10427501995532
+  z: -94.6224042292005
+  pitch: 23.25006
+  yaw: 254.25177
+default_home: default
+homes:
+  default:
+    world: um
+    x: 9063.208688407583
+    y: 70.0
+    z: -8081.187172866891
+    pitch: 15.9000025
+    yaw: 98.41459

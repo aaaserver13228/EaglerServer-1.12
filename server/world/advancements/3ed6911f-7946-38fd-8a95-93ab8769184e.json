@@ -137,6 +137,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/tools/golden_hoe": {
+    "criteria": {
+      "has_gold_ingot": "2025-12-08 16:55:18 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/purple_stained_glass": {
     "criteria": {
       "has_glass": "2025-12-01 15:14:28 +0000"
@@ -191,6 +197,12 @@
       "diamond_helmet": "2025-12-01 14:43:46 +0000",
       "diamond_chestplate": "2025-12-01 14:43:46 +0000",
       "diamond_boots": "2025-12-01 14:43:46 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/golden_sword": {
+    "criteria": {
+      "has_gold_ingot": "2025-12-08 16:55:18 +0000"
     },
     "done": true
   },
@@ -308,6 +320,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/gold_nugget": {
+    "criteria": {
+      "has_gold_ingot": "2025-12-08 16:55:18 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/iron_leggings": {
     "criteria": {
       "has_iron_ingot": "2025-11-21 16:40:52 +0000"
@@ -413,6 +431,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/tools/golden_shovel": {
+    "criteria": {
+      "has_gold_ingot": "2025-12-08 16:55:18 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/pink_concrete_powder": {
     "criteria": {
       "has_sand": "2025-12-05 14:46:57 +0000"
@@ -428,6 +452,12 @@
   "minecraft:recipes/building_blocks/sandstone_slab": {
     "criteria": {
       "has_sandstone": "2025-12-05 14:49:43 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/tnt": {
+    "criteria": {
+      "has_gunpowder": "2025-12-09 14:10:26 +0000"
     },
     "done": true
   },
@@ -482,6 +512,12 @@
   "minecraft:recipes/building_blocks/blue_wool": {
     "criteria": {
       "has_white_wool": "2025-12-05 14:27:44 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/gold_block": {
+    "criteria": {
+      "has_at_least_9_gold_ingot": "2025-12-08 16:55:18 +0000"
     },
     "done": true
   },
@@ -590,6 +626,12 @@
   "minecraft:recipes/transportation/birch_boat": {
     "criteria": {
       "entered_water": "2025-11-21 15:41:14 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/golden_apple": {
+    "criteria": {
+      "has_gold_ingot": "2025-12-08 16:55:18 +0000"
     },
     "done": true
   },
@@ -719,6 +761,7 @@
       "skeleton": "2025-12-01 14:49:07 +0000",
       "husk": "2025-12-05 14:52:55 +0000",
       "zombie": "2025-12-03 15:23:54 +0000",
+      "witch": "2025-12-08 15:04:40 +0000",
       "ghast": "2025-12-03 14:38:52 +0000",
       "spider": "2025-12-05 14:10:33 +0000",
       "creeper": "2025-12-05 14:52:51 +0000",
@@ -846,6 +889,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/combat/golden_boots": {
+    "criteria": {
+      "has_gold_ingot": "2025-12-08 16:55:18 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/wooden_axe": {
     "criteria": {
       "has_stick": "2025-12-01 14:47:39 +0000"
@@ -879,6 +928,12 @@
   "minecraft:recipes/building_blocks/black_wool": {
     "criteria": {
       "has_white_wool": "2025-12-05 14:27:44 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/golden_chestplate": {
+    "criteria": {
+      "has_gold_ingot": "2025-12-08 16:55:18 +0000"
     },
     "done": true
   },
@@ -990,6 +1045,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/light_weighted_pressure_plate": {
+    "criteria": {
+      "has_gold_ingot": "2025-12-08 16:55:18 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/light_blue_wool": {
     "criteria": {
       "has_white_wool": "2025-12-05 14:27:44 +0000"
@@ -1056,6 +1117,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/tools/golden_axe": {
+    "criteria": {
+      "has_gold_ingot": "2025-12-08 16:55:18 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/iron_axe": {
     "criteria": {
       "has_iron_ingot": "2025-11-21 16:40:52 +0000"
@@ -1071,6 +1138,12 @@
   "minecraft:recipes/building_blocks/glowstone": {
     "criteria": {
       "has_glowstone_dust": "2025-12-05 17:35:27 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/golden_helmet": {
+    "criteria": {
+      "has_gold_ingot": "2025-12-08 16:55:18 +0000"
     },
     "done": true
   },
@@ -1095,6 +1168,12 @@
   "minecraft:recipes/building_blocks/blue_stained_hardened_clay": {
     "criteria": {
       "has_hardened_clay": "2025-11-21 16:41:39 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/birch_planks": {
+    "criteria": {
+      "has_log": "2025-12-08 15:01:42 +0000"
     },
     "done": true
   },
@@ -1200,6 +1279,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/tools/golden_pickaxe": {
+    "criteria": {
+      "has_gold_ingot": "2025-12-08 16:55:18 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/quartz_block": {
     "criteria": {
       "has_quartz": "2025-12-03 14:37:11 +0000"
@@ -1230,6 +1315,7 @@
       "taiga_cold": "2025-12-05 14:55:09 +0000",
       "ocean": "2025-12-05 14:53:46 +0000",
       "extreme_hills": "2025-12-01 14:32:27 +0000",
+      "roofed_forest": "2025-12-08 15:15:58 +0000",
       "river": "2025-12-03 14:52:45 +0000",
       "desert": "2025-12-01 15:09:50 +0000",
       "stone_beach": "2025-12-05 14:38:24 +0000"
@@ -1374,6 +1460,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/purple_shulker_box": {
+    "criteria": {
+      "has_shulker_shell": "2025-12-08 14:54:32 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/lapis_block": {
     "criteria": {
       "has_at_least_9_lapis": "2025-11-25 19:11:28 +0000"
@@ -1389,6 +1481,12 @@
   "minecraft:recipes/redstone/piston": {
     "criteria": {
       "has_redstone": "2025-11-25 19:10:17 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/golden_leggings": {
+    "criteria": {
+      "has_gold_ingot": "2025-12-08 16:55:18 +0000"
     },
     "done": true
   },

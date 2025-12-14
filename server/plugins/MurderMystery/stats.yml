@@ -72,15 +72,15 @@ d86678db-a54b-3284-9ce7-5bba6bf45426:
   playername: Armani
 d8f817ca-3bd8-34a4-9283-eaa8c56ebc75:
   playername: thebesttoucher
-  next_level_exp: 354
-  level: 1
-  deaths: 2
-  games_played: 3
-  exp: 30
-  contribution_detective: 1
-  contribution_murderer: 254
-  kills: 1
-  wins: 1
+  next_level_exp: 0
+  level: 0
+  deaths: 0
+  games_played: 0
+  exp: 0
+  contribution_detective: 0
+  contribution_murderer: 0
+  kills: 0
+  wins: 0
 cf082672-3126-352f-bb39-02a47a4b8e5e:
   playername: jose
   next_level_exp: 0
@@ -115,16 +115,16 @@ b716ba34-656a-3370-99c6-f2522d6b2779:
   kills: 0
 0ca41977-44f3-3674-ac5f-9a40345a4808:
   playername: flamefrags
-  next_level_exp: 354
-  contribution_detective: 113
-  level: 1
-  contribution_murderer: 1
-  games_played: 13
-  kills: 17
-  exp: 130
-  wins: 9
-  highest_score: 300
-  deaths: 4
+  next_level_exp: 0
+  contribution_detective: 0
+  level: 0
+  contribution_murderer: 0
+  games_played: 0
+  kills: 0
+  exp: 0
+  wins: 0
+  highest_score: 0
+  deaths: 0
 fc711a4a-6e5b-3f0d-b980-d8bdeef473d9:
   playername: voohees
 f120e45a-eb13-3e72-ada9-c45d4ab4f99c:
@@ -145,16 +145,16 @@ b9f8eb16-3066-3bd2-a0d9-4f6f83cf5275:
   playername: hola_o_0
 155f3f57-a945-3584-815b-8098efb04320:
   playername: Mapicc_
-  next_level_exp: 354
-  contribution_detective: 454
-  level: 1
-  contribution_murderer: 110
-  games_played: 21
-  kills: 12
-  exp: 210
-  wins: 11
-  highest_score: 330
-  deaths: 10
+  next_level_exp: 0
+  contribution_detective: 0
+  level: 0
+  contribution_murderer: 0
+  games_played: 0
+  kills: 0
+  exp: 0
+  wins: 0
+  highest_score: 0
+  deaths: 0
 a09d9599-c777-3d52-b647-797cdc1dc256:
   playername: Hamzah898933_
 250c44a2-9b36-3434-8bbd-bda0392ea84c:
@@ -248,11 +248,11 @@ a51f5c17-02bd-39c4-ade4-e90244d969da:
   playername: kenziel_
 f7aa332c-51a8-3dc9-90b0-2b9d0af82c11:
   playername: Jetergetbucketsw
-  next_level_exp: 354
-  level: 1
-  deaths: 1
-  games_played: 1
-  exp: 10
+  next_level_exp: 0
+  level: 0
+  deaths: 0
+  games_played: 0
+  exp: 0
 71c0402a-02ec-350d-944f-f61b71147aaf:
   playername: Manepear________
 6963900a-71c6-3347-b419-6747b90f3ed1:
@@ -300,13 +300,13 @@ c49cc779-1167-3d72-8af5-6a0951ee9b76:
   playername: gooner_boy
 cb829089-1085-3b34-a546-0685d26b38a9:
   playername: Creeper180
-  next_level_exp: 354
-  contribution_detective: 131
-  level: 1
-  contribution_murderer: 280
-  games_played: 1
-  exp: 10
-  wins: 1
+  next_level_exp: 0
+  contribution_detective: 0
+  level: 0
+  contribution_murderer: 0
+  games_played: 0
+  exp: 0
+  wins: 0
 503a0362-fad4-3c66-aa06-4d7eefdb0520:
   playername: Jetergetbucket
 005eb8e2-b75d-3c89-87a6-307798f33246:
@@ -429,3 +429,105 @@ d3dca610-444c-3d1d-b8e8-767c6075feeb:
   playername: zeqify_nyc
 f108d27f-9c53-3278-96da-45f3c2af6b7c:
   playername: wemmbu_
+791b57ad-b296-3f3d-af67-60792eddd47d:
+  playername: NO_CAP
+5d69fa38-c688-332e-a1bb-483520291fcd:
+  playername: I_hate_black
+bd10e89d-1ac0-3a72-8feb-f2a7c9d32c44:
+  playername: I_love_black
+11c85069-67a0-3659-bc67-bf50ed2f8ddb:
+  playername: HeLLo
+030749cc-632b-33ed-8037-2adfb9b0d29f:
+  playername: gooner_boy_v
+62a138fd-6dda-3afb-8fac-2f0233cf2aa2:
+  playername: flamefrags_
+0b534c33-8c52-34a8-8455-a07cae0e944b:
+  playername: Wembu
+5bb214c7-cda0-3b9a-98f0-49ab9eababd9:
+  playername: Wemmbu_
+c5cebeb6-fd7f-3bd5-aa2d-0e26dadc4b71:
+  playername: racist_guy
+0efc156b-27e3-37cc-8970-38c13408be15:
+  playername: framefrags
+70fc13a6-c314-3627-9b55-631c7ea94970:
+  playername: Flamefrgas
+2cdcc00d-afca-303b-9cbe-55b4b2aee281:
+  playername: niggrsarehatted
+716a011d-8688-36f7-af4c-4722f86398c2:
+  playername: Mappic_
+67ecd75d-9246-339f-85e0-b19407c90eba:
+  playername: flamefragsTHE
+caf47286-e6c3-3446-af8d-abfff3f0039a:
+  playername: Keelahissocool
+9bc1b072-dbc1-3277-a19e-a84999490113:
+  playername: Larise
+59742396-3f2a-3793-a4cb-854d71d448ff:
+  playername: lolololo
+e4115e2e-d929-3d45-9e9e-223aba5ca7b1:
+  playername: Rich_guy
+b0dd8409-0c1b-3ac8-b1f6-e01875e9dbed:
+  playername: kingrobby102____
+86059363-b1bb-39ed-9b8e-45766187adbb:
+  playername: the_rizzy_sigma_
+8d0e535e-5f6f-3fc2-a83e-49a5bf66f63c:
+  playername: ParrotX2_
+f2f685d7-6dd6-36c6-a51c-bb083fdcd9b9:
+  playername: DT0229
+9bd40e98-5282-3bd4-ba7c-70a341a430b1:
+  playername: ClownPerice
+ddf0ff13-ab57-3315-9c53-bd2d50c52afe:
+  playername: DeDeDe_
+a33d57a1-b233-383a-82c4-87e0623ffe8a:
+  playername: Socks
+251d7c28-235d-3dc0-814c-c1ad70a910d2:
+  playername: Sock
+f9fcc316-6222-3776-b0b7-f39e7b18574e:
+  playername: I__
+69a661dd-37dd-3051-bf68-a3b3b9af01c6:
+  playername: That1_UchihaYT
+0d0eea72-a280-34c0-94a3-e6afad9bc4e0:
+  playername: cowboy27
+870bca20-6fde-3691-93bb-bd0ea8c833a5:
+  playername: cowboy2
+5a7afeef-7ca1-386e-999a-3e77afcacd2b:
+  playername: creeper1802
+704e674e-31eb-3889-b0a2-37b433f0c217:
+  playername: cowboy
+2876ead9-0518-3f1c-a6ee-052cdced3b98:
+  playername: Idot
+301f8060-5a2b-308f-b062-00fa39f8b6cf:
+  playername: Grow_man_btw
+fc30c5b3-4a0e-33e9-83d9-2f271962a12c:
+  playername: do_i_know_you
+896ea813-02c9-3992-85e1-578041fed264:
+  playername: IMparrotbiggetfa
+474f655b-224e-33aa-91e0-0223d86e963d:
+  playername: adam_molester
+6a0c402c-dc7a-3fa9-96e7-7deb2d367905:
+  playername: Wemmbu_vs_Parrot
+eace237a-6d18-3d9c-a186-724babfd1755:
+  playername: Lilly
+11ffae28-918c-321e-b2f6-9c47ef030f85:
+  playername: DT_
+5d3c7034-ae68-33b6-8ed6-3928c8cb6e81:
+  playername: ilikepickels6996
+75f41576-c9ae-3be1-9e5a-f6091a7fa867:
+  playername: '123'
+ef75849d-cb53-314f-b561-51aebda86cbd:
+  playername: adam_moleste
+4bdd63b9-dce6-3ca4-abd0-ed051ac44b0e:
+  playername: eggchan
+9df98556-596b-3240-a55e-1e3965058498:
+  playername: adam_moleste____
+0e0819a7-502e-37bc-a90d-08bc8c45af6f:
+  playername: That1UchihaYT__
+4e5016ff-12a0-34d4-91fa-c0e78ef1a847:
+  playername: Larias
+7dcb8106-6efe-3fbd-848d-4b4eb00a8a22:
+  playername: Aylin25
+0a685254-b921-32fd-b862-7cc8ae843424:
+  playername: cowboy_
+ba7bf0b0-4360-3bb8-882f-d06c69951bb1:
+  playername: adam_molest
+6d1bc8c6-afbc-327c-83c4-5a3521b156a8:
+  playername: LettuceK

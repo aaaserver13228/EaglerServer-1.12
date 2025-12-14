@@ -1,0 +1,38 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 127.0.0.1
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 0
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1765562088013
+  login: 1765561599147
+money: '91770.48'
+last-account-name: cowboy
+lastlocation:
+  world: 24b57c21-75f5-48ad-842d-96eb09ea949e
+  world-name: um
+  x: 16447.426871173622
+  y: 107.0
+  z: 432709.4182922392
+  yaw: 287.1480712890625
+  pitch: 71.5500259399414
+logoutlocation:
+  world: 24b57c21-75f5-48ad-842d-96eb09ea949e
+  world-name: um
+  x: 39901.85280579087
+  y: 70.0
+  z: 2867.6531070862184
+  yaw: -9.45001220703125
+  pitch: 12.900014877319336

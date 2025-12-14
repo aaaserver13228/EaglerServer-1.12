@@ -16,8 +16,8 @@ timestamps:
   mute: 0
   jail: 0
   onlinejail: 0
-  logout: 1764766890922
-  login: 1764766573864
+  logout: 1765286472659
+  login: 1765286469047
 money: '0'
 last-account-name: manepear_____
 lastlocation:
@@ -34,5 +34,5 @@ logoutlocation:
   x: 1169.6062158335233
   y: 94.0
   z: 135.21563625927536
-  yaw: -140.55979919433594
-  pitch: 7.950049877166748
+  yaw: -133.65977478027344
+  pitch: 6.900050163269043

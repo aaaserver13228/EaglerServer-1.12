@@ -384,11 +384,13 @@
       "cooked_beef": "2025-10-31 12:06:04 +0000",
       "beef": "2025-11-05 14:19:25 +0000",
       "porkchop": "2025-10-29 15:23:51 +0000",
+      "apple": "2025-12-08 12:57:13 +0000",
       "spider_eye": "2025-10-27 13:23:24 +0000",
       "rabbit": "2025-11-20 13:09:48 +0000",
       "melon": "2025-10-31 12:14:47 +0000",
       "mutton": "2025-10-28 13:58:04 +0000",
       "bread": "2025-12-04 13:31:33 +0000",
+      "golden_apple": "2025-12-10 13:37:58 +0000",
       "rotten_flesh": "2025-10-31 11:57:57 +0000",
       "cooked_chicken": "2025-11-07 15:03:27 +0000"
     },
@@ -535,6 +537,12 @@
   "minecraft:recipes/building_blocks/sandstone_slab": {
     "criteria": {
       "has_sandstone": "2025-10-29 14:44:12 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/tnt": {
+    "criteria": {
+      "has_gunpowder": "2025-12-10 13:33:48 +0000"
     },
     "done": true
   },
@@ -690,6 +698,12 @@
     },
     "done": true
   },
+  "minecraft:story/lava_bucket": {
+    "criteria": {
+      "lava_bucket": "2025-12-10 13:28:03 +0000"
+    },
+    "done": true
+  },
   "minecraft:husbandry/root": {
     "criteria": {
       "consumed_item": "2025-10-27 13:23:24 +0000"
@@ -735,6 +749,12 @@
   "minecraft:recipes/decorations/red_carpet": {
     "criteria": {
       "has_red_wool": "2025-11-06 15:25:09 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/enchanting_table": {
+    "criteria": {
+      "has_obsidian": "2025-12-10 13:31:27 +0000"
     },
     "done": true
   },
@@ -1478,6 +1498,12 @@
     },
     "done": true
   },
+  "minecraft:story/form_obsidian": {
+    "criteria": {
+      "obsidian": "2025-12-10 13:31:27 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/noteblock": {
     "criteria": {
       "has_redstone": "2025-11-03 15:13:31 +0000"
@@ -1687,6 +1713,12 @@
   "minecraft:recipes/transportation/jungle_boat": {
     "criteria": {
       "entered_water": "2025-10-27 14:00:25 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/shoot_arrow": {
+    "criteria": {
+      "shot_arrow": "2025-12-10 13:35:16 +0000"
     },
     "done": true
   },

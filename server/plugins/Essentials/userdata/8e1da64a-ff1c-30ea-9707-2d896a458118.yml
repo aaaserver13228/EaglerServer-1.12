@@ -16,8 +16,8 @@ timestamps:
   mute: 0
   jail: 0
   onlinejail: 0
-  logout: 1763998546843
-  login: 1763998536636
+  logout: 1765211661598
+  login: 1765211657726
 money: '0'
 last-account-name: gooner_boy
 lastlocation:
@@ -34,5 +34,5 @@ logoutlocation:
   x: 0.5
   y: 85.0
   z: 0.5
-  yaw: 0.0
-  pitch: 0.0
+  yaw: 0.75
+  pitch: -0.14999999105930328

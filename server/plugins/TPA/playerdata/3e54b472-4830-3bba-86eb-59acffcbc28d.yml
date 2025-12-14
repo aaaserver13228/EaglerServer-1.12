@@ -3,18 +3,18 @@ language: en_US
 setlang: false
 last_location:
   world: um
-  x: -190.2224061529319
-  y: 64.0625
-  z: 249.1565080691895
-  pitch: 14.550016
-  yaw: 109.95
+  x: 9644.192097707615
+  y: 53.231523797587016
+  z: 961.1752397865781
+  pitch: 67.650024
+  yaw: 187.93604
 logout_location:
   world: um
-  x: -189.05644497261864
-  y: 64.0
-  z: 243.42713993723837
-  pitch: 14.400017
-  yaw: 109.95
+  x: 9350.096761354262
+  y: 103.0
+  z: 1030.9635542732296
+  pitch: -32.549923
+  yaw: 356.5398
 default_home: Castle
 homes:
   Castle:

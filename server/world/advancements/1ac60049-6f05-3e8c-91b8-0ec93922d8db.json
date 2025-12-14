@@ -396,6 +396,7 @@
     "criteria": {
       "chicken": "2025-11-18 13:40:02 +0000",
       "cooked_mutton": "2025-11-12 16:56:47 +0000",
+      "cooked_beef": "2025-12-08 22:50:44 +0000",
       "beef": "2025-12-02 14:05:26 +0000",
       "raw_salmon": "2025-11-20 12:43:23 +0000",
       "golden_apple": "2025-11-24 15:39:50 +0000",
@@ -760,6 +761,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/light_gray_dye_from_ink_bonemeal": {
+    "criteria": {
+      "has_black_dye": "2025-12-12 19:36:54 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/iron_shovel": {
     "criteria": {
       "has_iron_ingot": "2025-11-11 18:52:01 +0000"
@@ -881,6 +888,7 @@
       "zombie_villager": "2025-11-18 13:38:42 +0000",
       "skeleton": "2025-11-14 12:26:28 +0000",
       "husk": "2025-11-18 13:38:05 +0000",
+      "blaze": "2025-12-09 01:19:54 +0000",
       "zombie": "2025-11-12 14:02:11 +0000",
       "cave_spider": "2025-11-20 13:12:25 +0000",
       "silverfish": "2025-11-24 17:03:10 +0000",
@@ -961,6 +969,12 @@
   "minecraft:recipes/decorations/pink_stained_glass_pane": {
     "criteria": {
       "has_glass": "2025-11-16 03:14:33 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/light_gray_dye_from_azure_bluet": {
+    "criteria": {
+      "has_red_flower": "2025-12-08 22:58:08 +0000"
     },
     "done": true
   },
@@ -1372,6 +1386,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/sea_lantern": {
+    "criteria": {
+      "has_prismarine_crystals": "2025-12-09 00:25:40 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/golden_helmet": {
     "criteria": {
       "has_gold_ingot": "2025-11-14 21:15:52 +0000"
@@ -1504,6 +1524,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/acacia_planks": {
+    "criteria": {
+      "has_log2": "2025-12-08 15:16:16 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/repeater": {
     "criteria": {
       "has_redstone_torch": "2025-11-11 18:52:00 +0000"
@@ -1546,9 +1572,16 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/gray_dye": {
+    "criteria": {
+      "has_black_dye": "2025-12-12 19:36:54 +0000"
+    },
+    "done": true
+  },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
       "ice_flats": "2025-12-05 12:53:15 +0000",
+      "frozen_river": "2025-12-11 17:27:06 +0000",
       "forest": "2025-11-14 21:04:25 +0000",
       "mesa_rock": "2025-11-20 17:24:34 +0000",
       "birch_forest": "2025-11-14 15:26:39 +0000",
@@ -1573,9 +1606,11 @@
       "ocean": "2025-11-16 02:51:06 +0000",
       "extreme_hills": "2025-11-20 17:26:52 +0000",
       "roofed_forest": "2025-11-16 02:51:54 +0000",
+      "cold_beach": "2025-12-11 17:29:00 +0000",
       "river": "2025-11-14 13:26:14 +0000",
       "jungle": "2025-11-14 21:11:43 +0000",
-      "desert": "2025-11-12 14:53:49 +0000"
+      "desert": "2025-11-12 14:53:49 +0000",
+      "stone_beach": "2025-12-08 13:50:33 +0000"
     },
     "done": false
   },
@@ -1651,6 +1686,12 @@
     },
     "done": true
   },
+  "minecraft:husbandry/plant_seed": {
+    "criteria": {
+      "nether_wart": "2025-12-12 19:06:15 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/leather_boots": {
     "criteria": {
       "has_leather": "2025-11-11 18:52:02 +0000"
@@ -1720,6 +1761,12 @@
   "minecraft:recipes/transportation/dark_oak_boat": {
     "criteria": {
       "entered_water": "2025-11-12 14:51:57 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/carrot_on_a_stick": {
+    "criteria": {
+      "has_carrot": "2025-12-10 18:47:17 +0000"
     },
     "done": true
   },

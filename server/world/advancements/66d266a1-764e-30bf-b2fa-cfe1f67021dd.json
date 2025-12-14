@@ -65,6 +65,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/lime_carpet": {
+    "criteria": {
+      "has_lime_wool": "2025-12-11 15:58:19 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/observer": {
+    "criteria": {
+      "has_quartz": "2025-12-08 17:24:45 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/writable_book": {
     "criteria": {
       "has_book": "2025-12-05 18:27:46 +0000"
@@ -92,6 +104,12 @@
   "minecraft:recipes/decorations/white_bed": {
     "criteria": {
       "has_white_wool": "2025-11-21 16:50:11 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/lime_banner": {
+    "criteria": {
+      "has_lime_wool": "2025-12-11 15:58:19 +0000"
     },
     "done": true
   },
@@ -347,6 +365,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/diorite": {
+    "criteria": {
+      "has_quartz": "2025-12-08 17:24:45 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/flint_and_steel": {
     "criteria": {
       "has_flint": "2025-11-21 17:23:34 +0000"
@@ -528,6 +552,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/lime_bed": {
+    "criteria": {
+      "has_lime_wool": "2025-12-11 15:58:19 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/iron_helmet": {
     "criteria": {
       "has_iron_ingot": "2025-11-24 15:19:38 +0000"
@@ -582,6 +612,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/granite": {
+    "criteria": {
+      "has_quartz": "2025-12-08 17:24:45 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/purple_concrete_powder": {
     "criteria": {
       "has_sand": "2025-11-21 17:14:30 +0000"
@@ -633,6 +669,12 @@
   "minecraft:recipes/combat/diamond_chestplate": {
     "criteria": {
       "has_diamond": "2025-11-24 17:38:48 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/comparator": {
+    "criteria": {
+      "has_quartz": "2025-12-08 17:24:45 +0000"
     },
     "done": true
   },
@@ -828,6 +870,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/bowl": {
+    "criteria": {
+      "has_brown_mushroom": "2025-12-10 16:37:18 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/gray_bed_from_white_bed": {
     "criteria": {
       "has_bed": "2025-12-02 18:33:27 +0000"
@@ -890,6 +938,8 @@
   },
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
+      "zombie_pigman": "2025-12-08 15:58:41 +0000",
+      "stray": "2025-12-11 17:42:41 +0000",
       "zombie_villager": "2025-11-24 16:20:31 +0000",
       "skeleton": "2025-11-21 15:35:43 +0000",
       "husk": "2025-12-02 14:09:51 +0000",
@@ -993,6 +1043,12 @@
   "minecraft:recipes/building_blocks/gray_stained_hardened_clay": {
     "criteria": {
       "has_hardened_clay": "2025-11-24 16:25:55 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/gold_ingot_from_nuggets": {
+    "criteria": {
+      "has_at_least_9_gold_nugget": "2025-12-08 17:26:14 +0000"
     },
     "done": true
   },
@@ -1572,8 +1628,16 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/quartz_block": {
+    "criteria": {
+      "has_quartz": "2025-12-08 17:24:45 +0000"
+    },
+    "done": true
+  },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
+      "ice_flats": "2025-12-11 17:28:01 +0000",
+      "frozen_river": "2025-12-11 17:26:18 +0000",
       "forest": "2025-11-21 17:21:22 +0000",
       "mesa_rock": "2025-12-02 14:19:59 +0000",
       "birch_forest": "2025-11-21 15:36:05 +0000",
@@ -1589,11 +1653,13 @@
       "jungle_edge": "2025-11-24 17:30:24 +0000",
       "mesa_clear_rock": "2025-11-24 14:08:51 +0000",
       "savanna_rock": "2025-11-21 16:37:46 +0000",
+      "ice_mountains": "2025-12-11 17:28:37 +0000",
       "taiga": "2025-12-03 14:46:51 +0000",
       "birch_forest_hills": "2025-11-21 15:34:13 +0000",
       "ocean": "2025-12-04 15:53:47 +0000",
       "extreme_hills": "2025-11-24 16:03:40 +0000",
       "roofed_forest": "2025-12-02 15:44:00 +0000",
+      "cold_beach": "2025-12-11 17:28:38 +0000",
       "river": "2025-11-21 16:49:42 +0000",
       "jungle": "2025-11-24 17:30:26 +0000",
       "desert": "2025-11-21 16:52:10 +0000",
@@ -1697,6 +1763,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/red_dye_from_tulip": {
+    "criteria": {
+      "has_red_flower": "2025-12-12 17:15:23 +0000"
+    },
+    "done": true
+  },
   "minecraft:adventure/shoot_arrow": {
     "criteria": {
       "shot_arrow": "2025-11-24 16:18:52 +0000"
@@ -1748,6 +1820,12 @@
   "minecraft:recipes/transportation/dark_oak_boat": {
     "criteria": {
       "entered_water": "2025-11-21 16:18:01 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/daylight_detector": {
+    "criteria": {
+      "has_quartz": "2025-12-08 17:24:45 +0000"
     },
     "done": true
   },
