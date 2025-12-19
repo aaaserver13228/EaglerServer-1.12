@@ -11,28 +11,28 @@ powertoolsenabled: true
 accepting-pay: true
 baltop-exempt: false
 timestamps:
-  lastteleport: 1765995096311
+  lastteleport: 1766111668357
   lastheal: 0
   mute: 0
   jail: 0
   onlinejail: 0
-  logout: 1765995100695
-  login: 1765995062020
-money: '24632.28999999999999964'
+  logout: 1766112925986
+  login: 1766112795935
+money: '23299.87999999999999964'
 last-account-name: Manepear
 lastlocation:
   world: 464a7691-b78f-4ba6-b771-6fdd81653fa9
   world-name: unstable
-  x: -41.60045525630123
-  y: 78.0
-  z: 174.5454969613085
-  yaw: -103.05099487304688
-  pitch: 28.199886322021484
+  x: 798.5717885660459
+  y: 66.0
+  z: 273.82664564491523
+  yaw: 89.99971008300781
+  pitch: 2.9998667240142822
 logoutlocation:
   world: 464a7691-b78f-4ba6-b771-6fdd81653fa9
   world-name: unstable
-  x: -1270.5
-  y: 66.0
-  z: 1418.5
-  yaw: 198.398681640625
-  pitch: 30.749990463256836
+  x: -1251.4879492671828
+  y: 65.0
+  z: 1384.4102816557838
+  yaw: 83.349609375
+  pitch: -0.6000578999519348
