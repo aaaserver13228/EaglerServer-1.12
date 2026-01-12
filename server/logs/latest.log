@@ -1,399 +1,1215 @@
-[01:05:57] [ServerMain/INFO]: [bootstrap] Running Java 25 (OpenJDK 64-Bit Server VM 25.0.1+8-LTS; Microsoft Microsoft-12574222) on Linux 6.8.0-1030-azure (amd64)
-[01:05:57] [ServerMain/INFO]: [bootstrap] Loading Paper 1.21.8-60-main@29c8822 (2025-09-06T21:49:13Z) for Minecraft 1.21.8
-[01:05:57] [ServerMain/INFO]: [PluginInitializerManager] Initializing plugins...
-[01:05:59] [ServerMain/INFO]: [PluginInitializerManager] Initialized 23 plugins
-[01:05:59] [ServerMain/INFO]: [PluginInitializerManager] Paper plugins (1):
+[02:18:39] [ServerMain/INFO]: [bootstrap] Running Java 25 (OpenJDK 64-Bit Server VM 25.0.1+8-LTS; Microsoft Microsoft-12574222) on Linux 6.8.0-1030-azure (amd64)
+[02:18:39] [ServerMain/INFO]: [bootstrap] Loading Paper 1.21.8-60-main@29c8822 (2025-09-06T21:49:13Z) for Minecraft 1.21.8
+[02:18:40] [ServerMain/INFO]: [PluginInitializerManager] Initializing plugins...
+[02:18:40] [Paper Plugin Remapper Thread - 2/INFO]: [PluginRemapper] Remapping plugin 'plugins/BannerMaker (1).jar'...
+[02:18:41] [Paper Plugin Remapper Thread - 2/INFO]: [PluginRemapper] Done remapping plugin 'plugins/BannerMaker (1).jar' in 538ms.
+[02:18:42] [ServerMain/INFO]: [PluginInitializerManager] Initialized 25 plugins
+[02:18:42] [ServerMain/INFO]: [PluginInitializerManager] Paper plugins (1):
  - Veinminer (2.5.3)
-[01:05:59] [ServerMain/INFO]: [PluginInitializerManager] Bukkit plugins (22):
- - AutoTreeChop (1.7.1), ClearLag (1.0.1), Essentials (2.21.2), GreatImpostor (1.2.0), InventoryRollbackPlus (1.7.9), LoginSecurity (3.3.1), LuckPerms (5.5.22), Multiverse-Core (5.4.0), Multiverse-Inventories (5.3.1), NBTAPI (2.15.5), PlaceholderAPI (2.11.7), ProtocolLib (5.4.0), Skript (2.13.2), TAB (5.4.0), TuffX (1.2.0), Vault (1.7.3-b131), ViaBackwards (5.6.0), ViaRewind (4.0.12), ViaVersion (5.6.0), WorldEdit (7.3.18+7298-4383852), WorldGuard (7.0.14+2339-43997ec), mcMMO (2.2.048)
-[01:06:04] [ServerMain/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
-[01:06:06] [ServerMain/INFO]: Loaded 1407 recipes
-[01:06:06] [ServerMain/INFO]: Loaded 1520 advancements
-[01:06:06] [ServerMain/INFO]: [ca.spottedleaf.dataconverter.minecraft.datatypes.MCTypeRegistry] Initialising converters for DataConverter...
-[01:06:07] [ServerMain/INFO]: [ca.spottedleaf.dataconverter.minecraft.datatypes.MCTypeRegistry] Finished initialising converters for DataConverter in 430.3ms
-[01:06:07] [Server thread/INFO]: Starting minecraft server version 1.21.8
-[01:06:07] [Server thread/WARN]: ****************************
-[01:06:07] [Server thread/WARN]: YOU ARE RUNNING THIS SERVER AS AN ADMINISTRATIVE OR ROOT USER. THIS IS NOT ADVISED.
-[01:06:07] [Server thread/WARN]: YOU ARE OPENING YOURSELF UP TO POTENTIAL RISKS WHEN DOING THIS.
-[01:06:07] [Server thread/WARN]: FOR MORE INFORMATION, SEE https://madelinemiller.dev/blog/root-minecraft-server/
-[01:06:07] [Server thread/WARN]: ****************************
-[01:06:07] [Server thread/INFO]: Loading properties
-[01:06:07] [Server thread/INFO]: This server is running Paper version 1.21.8-60-main@29c8822 (2025-09-06T21:49:13Z) (Implementing API version 1.21.8-R0.1-SNAPSHOT)
-[01:06:07] [Server thread/INFO]: [spark] This server bundles the spark profiler. For more information please visit https://docs.papermc.io/paper/profiling
-[01:06:07] [Server thread/INFO]: Server Ping Player Sample Count: 12
-[01:06:07] [Server thread/INFO]: Using 4 threads for Netty based IO
-[01:06:08] [Server thread/INFO]: [MoonriseCommon] Paper is using 1 worker threads, 1 I/O threads
-[01:06:08] [Server thread/INFO]: [ChunkTaskScheduler] Chunk system is using population gen parallelism: true
-[01:06:08] [Server thread/INFO]: Default game type: SURVIVAL
-[01:06:08] [Server thread/INFO]: Generating keypair
-[01:06:08] [Server thread/INFO]: Starting Minecraft server on *:25565
-[01:06:08] [Server thread/INFO]: Using epoll channel type
-[01:06:08] [Server thread/INFO]: Paper: Using libdeflate (Linux x86_64) compression from Velocity.
-[01:06:08] [Server thread/INFO]: Paper: Using OpenSSL 3.x.x (Linux x86_64) cipher from Velocity.
-[01:06:09] [Server thread/INFO]: [ViaVersion] Loading server plugin ViaVersion v5.6.0
-[01:06:09] [Server thread/INFO]: [ViaVersion] ViaVersion 5.6.0 is now loaded. Registering protocol transformers and injecting...
-[01:06:10] [Via-Mappingloader-1/INFO]: [ViaVersion] Loading block connection mappings ...
-[01:06:10] [Via-Mappingloader-1/INFO]: [ViaVersion] Using FastUtil Long2ObjectOpenHashMap for block connections
-[01:06:11] [Server thread/INFO]: [ViaBackwards] Loading translations...
-[01:06:11] [Server thread/INFO]: [ViaBackwards] Registering protocols...
-[01:06:12] [Server thread/INFO]: [ViaRewind] Registering protocols...
-[01:06:12] [Server thread/INFO]: [LuckPerms] Loading server plugin LuckPerms v5.5.22
-[01:06:12] [Server thread/INFO]: [LuckPerms] Loading configuration...
-[01:06:12] [Server thread/INFO]: [Vault] Loading server plugin Vault v1.7.3-b131
-[01:06:12] [Server thread/INFO]: [PlaceholderAPI] Loading server plugin PlaceholderAPI v2.11.7
-[01:06:12] [Server thread/INFO]: [WorldEdit] Loading server plugin WorldEdit v7.3.18+7298-4383852
-[01:06:13] [Server thread/INFO]: Got request to register class com.sk89q.worldedit.bukkit.BukkitServerInterface with WorldEdit [com.sk89q.worldedit.extension.platform.PlatformManager@740689aa]
-[01:06:13] [Server thread/INFO]: [ViaBackwards] Loading server plugin ViaBackwards v5.6.0
-[01:06:13] [Server thread/INFO]: [ProtocolLib] Loading server plugin ProtocolLib v5.4.0
-[01:06:13] [Server thread/INFO]: [CoreLogging] Loading server plugin Multiverse-Core v5.4.0
-[01:06:13] [Server thread/INFO]: [WorldGuard] Loading server plugin WorldGuard v7.0.14+2339-43997ec
-[01:06:13] [Server thread/INFO]: [ViaRewind] Loading server plugin ViaRewind v4.0.12
-[01:06:13] [Server thread/INFO]: [NBTAPI] Loading server plugin NBTAPI v2.15.5
-[01:06:13] [Server thread/INFO]: [NBTAPI] [NBTAPI] Found Minecraft: 1.21.8! Trying to find NMS support
-[01:06:13] [Server thread/INFO]: [NBTAPI] [NBTAPI] NMS support 'MC1_21_R5' loaded!
-[01:06:13] [Server thread/INFO]: [NBTAPI] [NBTAPI] Using the plugin 'NBTAPI' to create a bStats instance!
-[01:06:13] [Server thread/INFO]: [LoginSecurity] Loading server plugin LoginSecurity v3.3.1
-[01:06:13] [Server thread/INFO]: [Veinminer] Loading server plugin Veinminer v2.5.3
-[01:06:13] [Server thread/INFO]: [Veinminer] Detected platform: Paper
-[01:06:13] [Thread-6/INFO]: [NBTAPI] [NBTAPI] The NBT-API seems to be up-to-date!
-[01:06:14] [Server thread/INFO]: [InvLogging] Loading server plugin Multiverse-Inventories v5.3.1
-[01:06:14] [Server thread/INFO]: [Skript] Loading server plugin Skript v2.13.2
-[01:06:14] [Server thread/INFO]: [TuffX] Loading server plugin TuffX v1.2.0
-[01:06:14] [Server thread/INFO]: [AutoTreeChop] Loading server plugin AutoTreeChop v1.7.1
-[01:06:14] [Server thread/INFO]: [InventoryRollbackPlus] Loading server plugin InventoryRollbackPlus v1.7.9
-[01:06:14] [Server thread/INFO]: [GreatImpostor] Loading server plugin GreatImpostor v1.2.0
-[01:06:14] [Server thread/INFO]: [ClearLag] Loading server plugin ClearLag v1.0.1
-[01:06:14] [Server thread/INFO]: [Essentials] Loading server plugin Essentials v2.21.2
-[01:06:14] [Server thread/INFO]: [TAB] Loading server plugin TAB v5.4.0
-[01:06:14] [Server thread/INFO]: [mcMMO] Loading server plugin mcMMO v2.2.048
-[01:06:14] [Server thread/INFO]: [mcMMO] [D] Registered WG flags successfully!
-[01:06:14] [Server thread/INFO]: Server permissions file permissions.yml is empty, ignoring it
-[01:06:14] [Server thread/INFO]: [LuckPerms] Enabling LuckPerms v5.5.22
-[01:06:15] [Server thread/INFO]:         __    
-[01:06:15] [Server thread/INFO]:   |    |__)   LuckPerms v5.5.22
-[01:06:15] [Server thread/INFO]:   |___ |      Running on Bukkit - Paper
-[01:06:15] [Server thread/INFO]: 
-[01:06:15] [Server thread/INFO]: [LuckPerms] Loading storage provider... [H2]
-[01:06:16] [Server thread/INFO]: [LuckPerms] Loading internal permission managers...
-[01:06:16] [Server thread/INFO]: [LuckPerms] Performing initial data load...
-[01:06:16] [Server thread/INFO]: [LuckPerms] Successfully enabled. (took 1448ms)
-[01:06:16] [Server thread/INFO]: [Vault] Enabling Vault v1.7.3-b131
-[01:06:16] [Server thread/INFO]: [Vault] [Economy] Essentials Economy found: Waiting
-[01:06:16] [Server thread/INFO]: [Vault] [Permission] SuperPermissions loaded as backup permission system.
-[01:06:16] [Server thread/INFO]: [Vault] Enabled Version 1.7.3-b131
-[01:06:16] [Server thread/INFO]: [LuckPerms] Registered Vault permission & chat hook.
-[01:06:16] [Server thread/INFO]: [WorldEdit] Enabling WorldEdit v7.3.18+7298-4383852
-[01:06:16] [Server thread/INFO]: Registering commands with com.sk89q.worldedit.bukkit.BukkitServerInterface
-[01:06:16] [Server thread/INFO]: WEPIF: Vault detected! Using Vault for permissions
-[01:06:17] [Server thread/INFO]: Using com.sk89q.worldedit.bukkit.adapter.impl.v1_21_6.PaperweightAdapter as the Bukkit adapter
-[01:06:19] [Server thread/INFO]: [ProtocolLib] Enabling ProtocolLib v5.4.0
-[01:06:19] [Server thread/INFO]: [ViaRewind] Enabling ViaRewind v4.0.12
-[01:06:19] [Server thread/INFO]: [Veinminer] Enabling Veinminer v2.5.3
-[01:06:19] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
-[01:06:19] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
-[01:06:19] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
-[01:06:19] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
-[01:06:19] [Server thread/INFO]: Preparing level "world"
-[01:06:20] [DefaultDispatcher-worker-1/INFO]: [VeinminerUpdater] veinminer is up to date
-[01:06:21] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
-[01:06:21] [Server thread/INFO]: Preparing spawn area: 0%
-[01:06:22] [Server thread/INFO]: Preparing spawn area: 8%
-[01:06:22] [Server thread/INFO]: Preparing spawn area: 36%
-[01:06:22] [Server thread/INFO]: Time elapsed: 1078 ms
-[01:06:22] [Server thread/INFO]: Preparing start region for dimension minecraft:the_nether
-[01:06:22] [Server thread/INFO]: Preparing spawn area: 0%
-[01:06:22] [Server thread/INFO]: Preparing spawn area: 77%
-[01:06:22] [Server thread/INFO]: Time elapsed: 553 ms
-[01:06:22] [Server thread/INFO]: Preparing start region for dimension minecraft:the_end
-[01:06:22] [Server thread/INFO]: Preparing spawn area: 0%
-[01:06:23] [Server thread/INFO]: Time elapsed: 155 ms
-[01:06:23] [Server thread/INFO]: [ViaVersion] Enabling ViaVersion v5.6.0
-[01:06:23] [Server thread/INFO]: [ViaVersion] ViaVersion detected server version: 1.21.7-1.21.8 (772)
-[01:06:23] [Server thread/INFO]: [PlaceholderAPI] Enabling PlaceholderAPI v2.11.7
-[01:06:23] [Server thread/INFO]: [PlaceholderAPI] Fetching available expansion information...
-[01:06:23] [Server thread/INFO]: [ViaBackwards] Enabling ViaBackwards v5.6.0
-[01:06:23] [Server thread/INFO]: [Multiverse-Core] Enabling Multiverse-Core v5.4.0
-[01:06:24] [Server thread/INFO]: Preparing start region for dimension minecraft:unstable
-[01:06:24] [Server thread/INFO]: Preparing spawn area: 0%
-[01:06:24] [Server thread/INFO]: Time elapsed: 364 ms
-[01:06:24] [Server thread/ERROR]: [MapSerializer] Could not deserialize key minecraft:fancy_oak_bees_0002 into net.minecraft.core.Holder<net.minecraft.world.level.levelgen.feature.ConfiguredFeature<?, ?>> at [feature-seeds, features]: Missing holder in ResourceKey[minecraft:root / minecraft:worldgen/configured_feature] with key ResourceKey[minecraft:worldgen/configured_feature / minecraft:fancy_oak_bees_0002]
-[01:06:24] [Server thread/ERROR]: [MapSerializer] Could not deserialize key minecraft:oak_bees_0002 into net.minecraft.core.Holder<net.minecraft.world.level.levelgen.feature.ConfiguredFeature<?, ?>> at [feature-seeds, features]: Missing holder in ResourceKey[minecraft:root / minecraft:worldgen/configured_feature] with key ResourceKey[minecraft:worldgen/configured_feature / minecraft:oak_bees_0002]
-[01:06:24] [Server thread/ERROR]: [MapSerializer] Could not deserialize key minecraft:trees_birch_and_oak into net.minecraft.core.Holder<net.minecraft.world.level.levelgen.feature.ConfiguredFeature<?, ?>> at [feature-seeds, features]: Missing holder in ResourceKey[minecraft:root / minecraft:worldgen/configured_feature] with key ResourceKey[minecraft:worldgen/configured_feature / minecraft:trees_birch_and_oak]
-[01:06:24] [Server thread/INFO]: Preparing start region for dimension minecraft:among
-[01:06:24] [Server thread/INFO]: Preparing spawn area: 0%
-[01:06:24] [Server thread/INFO]: Time elapsed: 157 ms
-[01:06:24] [Server thread/INFO]: Preparing start region for dimension minecraft:flat
-[01:06:24] [Server thread/INFO]: Preparing spawn area: 0%
-[01:06:24] [Server thread/INFO]: Time elapsed: 164 ms
-[01:06:25] [Server thread/INFO]: [PlaceholderAPI] Successfully registered internal expansion: multiverse-core [5.4.0]
-[01:06:25] [Server thread/INFO]: [Multiverse-Core] API service loaded!
-[01:06:25] [Server thread/INFO]: [Multiverse-Core] Version 5.4.0 (API v5.4) Enabled - By dumptruckman, Rigby, fernferret, lithium3141, main--, benwoo1110 and Zax71
-[01:06:25] [Server thread/INFO]: [Multiverse-Core] Loving Multiverse-Core? Please consider supporting the project with a small donation: https://github.com/sponsors/Multiverse
-[01:06:25] [Server thread/INFO]: [WorldGuard] Enabling WorldGuard v7.0.14+2339-43997ec
-[01:06:25] [Server thread/INFO]: [WorldGuard] (world) TNT ignition is PERMITTED.
-[01:06:25] [Server thread/INFO]: [WorldGuard] (world) Lighters are PERMITTED.
-[01:06:25] [Server thread/INFO]: [WorldGuard] (world) Lava fire is PERMITTED.
-[01:06:25] [Server thread/INFO]: [WorldGuard] (world) Fire spread is UNRESTRICTED.
-[01:06:25] [Server thread/INFO]: [WorldGuard] Loaded configuration for world 'world'
-[01:06:25] [Server thread/INFO]: [WorldGuard] (world_nether) TNT ignition is PERMITTED.
-[01:06:25] [Server thread/INFO]: [WorldGuard] (world_nether) Lighters are PERMITTED.
-[01:06:25] [Server thread/INFO]: [WorldGuard] (world_nether) Lava fire is PERMITTED.
-[01:06:25] [Server thread/INFO]: [WorldGuard] (world_nether) Fire spread is UNRESTRICTED.
-[01:06:25] [Server thread/INFO]: [WorldGuard] Loaded configuration for world 'world_nether'
-[01:06:25] [Server thread/INFO]: [WorldGuard] (world_the_end) TNT ignition is PERMITTED.
-[01:06:25] [Server thread/INFO]: [WorldGuard] (world_the_end) Lighters are PERMITTED.
-[01:06:25] [Server thread/INFO]: [WorldGuard] (world_the_end) Lava fire is PERMITTED.
-[01:06:25] [Server thread/INFO]: [WorldGuard] (world_the_end) Fire spread is UNRESTRICTED.
-[01:06:25] [Server thread/INFO]: [WorldGuard] Loaded configuration for world 'world_the_end'
-[01:06:25] [Server thread/INFO]: [WorldGuard] (unstable) TNT ignition is PERMITTED.
-[01:06:25] [Server thread/INFO]: [WorldGuard] (unstable) Lighters are PERMITTED.
-[01:06:25] [Server thread/INFO]: [WorldGuard] (unstable) Lava fire is PERMITTED.
-[01:06:25] [Server thread/INFO]: [WorldGuard] (unstable) Fire spread is UNRESTRICTED.
-[01:06:25] [Server thread/INFO]: [WorldGuard] Loaded configuration for world 'unstable'
-[01:06:25] [Server thread/INFO]: [WorldGuard] (among) TNT ignition is PERMITTED.
-[01:06:25] [Server thread/INFO]: [WorldGuard] (among) Lighters are PERMITTED.
-[01:06:25] [Server thread/INFO]: [WorldGuard] (among) Lava fire is PERMITTED.
-[01:06:25] [Server thread/INFO]: [WorldGuard] (among) Fire spread is UNRESTRICTED.
-[01:06:25] [Server thread/INFO]: [WorldGuard] Loaded configuration for world 'among'
-[01:06:25] [Server thread/INFO]: [WorldGuard] (flat) TNT ignition is PERMITTED.
-[01:06:25] [Server thread/INFO]: [WorldGuard] (flat) Lighters are PERMITTED.
-[01:06:25] [Server thread/INFO]: [WorldGuard] (flat) Lava fire is PERMITTED.
-[01:06:25] [Server thread/INFO]: [WorldGuard] (flat) Fire spread is UNRESTRICTED.
-[01:06:25] [Server thread/INFO]: [WorldGuard] Loaded configuration for world 'flat'
-[01:06:25] [Server thread/INFO]: [WorldGuard] Loading region data...
-[01:06:25] [Server thread/INFO]: [NBTAPI] Enabling NBTAPI v2.15.5
-[01:06:25] [Server thread/INFO]: [NBTAPI] Checking bindings...
-[01:06:25] [Server thread/INFO]: [NBTAPI] All Classes were able to link!
-[01:06:25] [Server thread/INFO]: [NBTAPI] All Methods were able to link!
-[01:06:25] [Server thread/INFO]: [NBTAPI] Running NBT reflection test...
-[01:06:28] [Server thread/INFO]: [NBTAPI] Success! This version of NBT-API is compatible with your server.
-[01:06:28] [Server thread/INFO]: [LoginSecurity] Enabling LoginSecurity v3.3.1
-[01:06:28] [Server thread/INFO]: [LoginSecurity] Loading base translations from "en_us"
-[01:06:28] [Server thread/INFO]: [LoginSecurity] Loading specified translations from "en_us"
-[01:06:28] [Server thread/INFO]: [LoginSecurity] Registering commands...
-[01:06:28] [Server thread/INFO]: [LoginSecurity] Registering listeners...
-[01:06:28] [Server thread/INFO]: [LoginSecurity] Using 1.13+ map captcha renderer
-[01:06:28] [Server thread/INFO]: [Multiverse-Inventories] Enabling Multiverse-Inventories v5.3.1
-[01:06:29] [Server thread/INFO]: [PlaceholderAPI] Successfully registered internal expansion: multiverse-inventories [5.3.1]
-[01:06:29] [Server thread/INFO]: [Multiverse-Inventories] Loading player names map...
-[01:06:29] [Server thread/INFO]: [Multiverse-Inventories] Version 5.3.1 (API v5.3) Enabled - By dumptruckman and benwoo1110
-[01:06:29] [Server thread/INFO]: [Skript] Enabling Skript v2.13.2
-[01:06:30] [ForkJoinPool.commonPool-worker-1/INFO]: [Skript] You're currently running the latest stable version of Skript.
-[01:06:32] [Server thread/INFO]: [Skript]  ~ created by & © Peter Güttinger aka Njol ~
-[01:06:32] [Server thread/INFO]: [TuffX] Enabling TuffX v1.2.0
-[01:06:32] [Server thread/INFO]: [TuffX] Server Minecraft Version: 1.21.8
-[01:06:32] [Server thread/INFO]: [TuffX] 
-[01:06:32] [Server thread/INFO]: [TuffX] ████████╗██╗   ██╗███████╗ ███████╗ ██╗  ██╗
-[01:06:32] [Server thread/INFO]: [TuffX] ╚══██╔══╝██║   ██║██╔════╝ ██╔════╝ ╚██╗██╔╝
-[01:06:32] [Server thread/INFO]: [TuffX]    ██║   ██║   ██║██████╗  ██████╗   ╚███╔╝ 
-[01:06:32] [Server thread/INFO]: [TuffX]    ██║   ██║   ██║██╔═══╝  ██╔═══╝   ██╔██╗ 
-[01:06:32] [Server thread/INFO]: [TuffX]    ██║   ╚██████╔╝██║      ██║      ██╔╝╚██╗
-[01:06:32] [Server thread/INFO]: [TuffX]    ╚═╝    ╚═════╝ ╚═╝      ╚═╝      ╚═╝  ╚═╝
-[01:06:32] [Server thread/INFO]: [TuffX] 
-[01:06:32] [Server thread/INFO]: [TuffX] Below y0 and TuffX programmed by Potato
-[01:06:32] [Server thread/INFO]: [AutoTreeChop] Enabling AutoTreeChop v1.7.1
-[01:06:33] [Server thread/INFO]: [PlaceholderAPI] Successfully registered internal expansion: autotreechop [1.7.1]
-[01:06:33] [Server thread/INFO]: [AutoTreeChop] PlaceholderAPI expansion for AutoTreeChop has been registered.
-[01:06:33] [Server thread/INFO]: [org.milkteamc.autotreechop.libs.hikari.HikariDataSource] HikariPool-1 - Starting...
-[01:06:33] [Server thread/INFO]: [org.milkteamc.autotreechop.libs.hikari.pool.HikariPool] HikariPool-1 - Added connection org.sqlite.jdbc4.JDBC4Connection@3636edb8
-[01:06:33] [Server thread/INFO]: [org.milkteamc.autotreechop.libs.hikari.HikariDataSource] HikariPool-1 - Start completed.
-[01:06:33] [Server thread/INFO]: [AutoTreeChop] WorldGuard support enabled
-[01:06:33] [Server thread/INFO]: [AutoTreeChop] AutoTreeChop enabled!
-[01:06:33] [Server thread/INFO]: [InventoryRollbackPlus] Enabling InventoryRollbackPlus v1.7.9
-[01:06:33] [Server thread/INFO]: [InventoryRollbackPlus] Attempting support for version: 1.21.8-60-29c8822 (MC: 1.21.8)
-[01:06:33] [Server thread/INFO]: [InventoryRollbackPlus] Using CraftBukkit version: v1_21_R5
-[01:06:33] [Server thread/INFO]: [InventoryRollbackPlus] Inventory backup data is set to save to: YAML
-[01:06:33] [Server thread/INFO]: [InventoryRollbackPlus] bStats are enabled
-[01:06:33] [Server thread/INFO]: [InventoryRollbackPlus] Tests completed: 5, Skipped: 0, Failed: 0
-[01:06:33] [Server thread/INFO]: [InventoryRollbackPlus] All tests passed successfully.
-[01:06:33] [Server thread/INFO]: [GreatImpostor] Enabling GreatImpostor v1.2.0
-[01:06:33] [Server thread/INFO]: [PlaceholderAPI] Successfully registered internal expansion: GreatImpostor [1.2.0]
-[01:06:33] [Server thread/INFO]: [GreatImpostor] GreatImpostor finished setting up!
-[01:06:34] [Server thread/INFO]: [ClearLag] Enabling ClearLag v1.0.1
-[01:06:34] [Server thread/WARN]: [ClearLag] Could not save config.yml to plugins/ClearLag/config.yml because config.yml already exists.
-[01:06:34] [Server thread/WARN]: [ClearLag] Could not save messages.yml to plugins/ClearLag/messages.yml because messages.yml already exists.
-[01:06:34] [Server thread/INFO]: [ClearLag] PlaceholderAPI enabled
-[01:06:34] [Server thread/INFO]: [PlaceholderAPI] Successfully registered internal expansion: clearlag [1.0.1]
-[01:06:34] [Server thread/INFO]: [ClearLag] ClearLag setup complete! Next clear is in 600 seconds.
-[01:06:34] [Server thread/INFO]: [Essentials] Enabling Essentials v2.21.2
-[01:06:34] [Server thread/INFO]: [Essentials] Attempting to convert old kits in config.yml to new kits.yml
-[01:06:34] [Server thread/INFO]: [Essentials] No kits found to migrate.
-[01:06:34] [Server thread/INFO]: [Essentials] Selected 1.12.2+ Player Locale Provider as the provider for PlayerLocaleProvider
-[01:06:34] [Server thread/INFO]: [Essentials] Selected 1.17.1+ World Info Provider as the provider for WorldInfoProvider
-[01:06:34] [Server thread/INFO]: [Essentials] Selected 1.21.4+ Sync Commands Provider as the provider for SyncCommandsProvider
-[01:06:34] [Server thread/INFO]: [Essentials] Selected Paper Server State Provider as the provider for ServerStateProvider
-[01:06:34] [Server thread/INFO]: [Essentials] Selected 1.20.6+ Potion Meta Provider as the provider for PotionMetaProvider
-[01:06:34] [Server thread/INFO]: [Essentials] Selected Legacy Biome Name Provider as the provider for BiomeNameProvider
-[01:06:34] [Server thread/INFO]: [Essentials] Selected Paper Serialization Provider as the provider for SerializationProvider
-[01:06:34] [Server thread/INFO]: [Essentials] Selected Reflection Formatted Command Alias Provider as the provider for FormattedCommandAliasProvider
-[01:06:34] [Server thread/INFO]: [Essentials] Selected 1.20.5+ Banner Data Provider as the provider for BannerDataProvider
-[01:06:34] [Server thread/INFO]: [Essentials] Selected 1.11+ Item Unbreakable Provider as the provider for ItemUnbreakableProvider
-[01:06:34] [Server thread/INFO]: [Essentials] Selected Reflection Online Mode Provider as the provider for OnlineModeProvider
-[01:06:34] [Server thread/INFO]: [Essentials] Selected Paper Material Tag Provider as the provider for MaterialTagProvider
-[01:06:34] [Server thread/INFO]: [Essentials] Selected 1.8.3+ Spawner Item Provider as the provider for SpawnerItemProvider
-[01:06:34] [Server thread/INFO]: [Essentials] Selected 1.13+ Spawn Egg Provider as the provider for SpawnEggProvider
-[01:06:34] [Server thread/INFO]: [Essentials] Selected 1.21+ InventoryView Interface ABI Provider as the provider for InventoryViewProvider
-[01:06:34] [Server thread/INFO]: [Essentials] Selected Paper Biome Key Provider as the provider for BiomeKeyProvider
-[01:06:34] [Server thread/INFO]: [Essentials] Selected Paper Tick Count Provider as the provider for TickCountProvider
-[01:06:34] [Server thread/INFO]: [Essentials] Selected 1.14.4+ Persistent Data Container Provider as the provider for PersistentDataProvider
-[01:06:34] [Server thread/INFO]: [Essentials] Selected 1.12+ Spawner Block Provider as the provider for SpawnerBlockProvider
-[01:06:34] [Server thread/INFO]: [Essentials] Selected Paper Container Provider as the provider for ContainerProvider
-[01:06:34] [Server thread/INFO]: [Essentials] Selected 1.20.4+ Damage Event Provider as the provider for DamageEventProvider
-[01:06:34] [Server thread/INFO]: [Essentials] Selected Paper Known Commands Provider as the provider for KnownCommandsProvider
-[01:06:34] [Server thread/INFO]: [Essentials] Selected 1.14+ Sign Data Provider as the provider for SignDataProvider
-[01:06:34] [Server thread/INFO]: [Essentials] Loaded 43880 items from items.json.
-[01:06:34] [Server thread/INFO]: [Essentials] Using locale en
-[01:06:34] [ForkJoinPool.commonPool-worker-1/INFO]: [Skript] Loaded 5504 aliases in 2110ms
-[01:06:35] [Server thread/INFO]: [Essentials] ServerListPingEvent: Spigot iterator API
-[01:06:35] [Server thread/INFO]: [Essentials] Starting Metrics. Opt-out using the global bStats config.
-[01:06:35] [Server thread/INFO]: [Vault] [Economy] Essentials Economy hooked.
-[01:06:35] [Server thread/INFO]: [Essentials] Using Vault based permissions (LuckPerms)
-[01:06:35] [Server thread/INFO]: [TAB] Enabling TAB v5.4.0
-[01:06:35] [Server thread/INFO]: [TAB] Enabled in 210ms
-[01:06:35] [Server thread/INFO]: [mcMMO] Enabling mcMMO v2.2.048
-[01:06:36] [Server thread/INFO]: [mcMMO] Loaded 232 of 232 Alchemy potions.
-[01:06:37] [Server thread/INFO]: [PlaceholderAPI] Successfully registered internal expansion: mcmmo [1.0,0]
-[01:06:37] [Server thread/INFO]: [spark] Starting background profiler...
-[01:06:38] [Server thread/INFO]: [PlaceholderAPI] Placeholder expansion registration initializing...
-[01:06:38] [Server thread/INFO]: 0 placeholder hook(s) registered!
-[01:06:38] [Server thread/INFO]: Done preparing level "world" (18.313s)
-[01:06:38] [Server thread/INFO]: Running delayed init tasks
-[01:06:38] [Craft Scheduler Thread - 6 - InventoryRollbackPlus/INFO]: [InventoryRollbackPlus] Checking for updates...
-[01:06:38] [Craft Scheduler Thread - 4 - ViaVersion/INFO]: [ViaVersion] Finished mapping loading, shutting down loader executor.
-[01:06:38] [Craft Scheduler Thread - 4 - Essentials/INFO]: [Essentials] Fetching version information...
-[01:06:38] [Craft Scheduler Thread - 8 - Vault/INFO]: [Vault] Checking for Updates ... 
-[01:06:38] [Craft Scheduler Thread - 6 - InventoryRollbackPlus/INFO]: [InventoryRollbackPlus] You are running the latest version.
-[01:06:38] [Server thread/INFO]: [Skript] Loading variables...
-[01:06:38] [Server thread/INFO]: [Skript] Loaded 2 variables in 0.0 seconds
-[01:06:38] [Craft Scheduler Thread - 8 - Vault/INFO]: [Vault] No new version available
-[01:06:38] [Server thread/INFO]: [Skript] All scripts loaded without errors.
-[01:06:38] [Server thread/INFO]: [Skript]     No scripts were found, maybe you should write some ;)
-[01:06:38] [Server thread/INFO]: [Skript] Finished loading.
-[01:06:38] [Server thread/INFO]: [AutoTreeChop] You are using the latest version of AutoTreeChop.
-[01:06:38] [Server thread/INFO]: [Essentials] Essentials found a compatible payment resolution method: Vault Compatibility Layer (v1.7.3-b131)!
-[01:06:38] [Server thread/INFO]: [TuffX] Loading mappings from 1.21.8-mappings.json
-[01:06:39] [Server thread/INFO]: [TuffX] Loaded 27946 legacy mappings.
-[01:06:39] [Server thread/INFO]: Done (42.601s)! For help, type "help"
-[01:11:30] [User Authenticator #0/INFO]: UUID of player Wemmbu is b8e46504-274d-3847-ac77-ed94dbe8064b
-[01:11:30] [Server thread/INFO]: [HorriblePlayerLoginEventHack] You have plugins listening to the PlayerLoginEvent, this will cause re-configuration APIs to be unavailable: [LuckPerms, Essentials, LoginSecurity, ProtocolLib, WorldGuard]
-[01:11:31] [Netty Epoll Server IO #1/WARN]: [ViaBackwards] (1.17->1.16.4) Increased world height is NOT SUPPORTED for 1.16 players and below. They will see a void below y 0 and above 256. You can enable the `bedrock-at-y-0` config option to replace the air with a bedrock layer.
-[01:11:31] [Server thread/INFO]: Wemmbu joined the game
-[01:11:31] [Server thread/INFO]: Wemmbu[/127.0.0.1:56216] logged in with entity id 24 at ([unstable]10.929615512603405, -40.708774907638464, -118.6363945066228)
-[01:11:31] [Netty Epoll Server IO #1/WARN]: [ViaBackwards] (1.13->1.12.2) Ignoring plugin channel in serverbound REGISTER: EAG|GetDomain
-[01:11:31] [Netty Epoll Server IO #1/WARN]: [ViaBackwards] (1.13->1.12.2) Ignoring plugin channel in serverbound REGISTER: EAG|1.8
-[01:11:31] [Netty Epoll Server IO #1/WARN]: [ViaBackwards] (1.13->1.12.2) Ignoring plugin channel in serverbound REGISTER: EAG|Voice-1.8
-[01:11:31] [Netty Epoll Server IO #1/WARN]: [ViaBackwards] (1.13->1.12.2) Ignoring plugin channel in serverbound REGISTER: EAG|UpdateCert-1.8
-[01:11:31] [Netty Epoll Server IO #1/WARN]: [ViaBackwards] (1.13->1.12.2) Ignoring plugin channel in serverbound REGISTER: EAG|1.8-RPC
-[01:11:31] [Netty Epoll Server IO #1/WARN]: [ViaBackwards] (1.13->1.12.2) Ignoring plugin channel in serverbound REGISTER: EAG|Skins-1.8
-[01:11:31] [Netty Epoll Server IO #1/WARN]: [ViaBackwards] (1.13->1.12.2) Ignoring plugin channel in serverbound REGISTER: EAG|1.8-Ready
-[01:11:31] [Netty Epoll Server IO #1/WARN]: [ViaBackwards] (1.13->1.12.2) Ignoring plugin channel in serverbound REGISTER: EAG|FNAWSEn-1.8
-[01:11:31] [Netty Epoll Server IO #1/WARN]: [ViaBackwards] (1.13->1.12.2) Ignoring plugin channel in serverbound REGISTER: EAG|Capes-1.8
-[01:11:31] [Netty Epoll Server IO #1/WARN]: [ViaBackwards] (1.13->1.12.2) Ignoring serverbound plugin message with channel: EAG|1.8-Ready
-[01:11:57] [Server thread/INFO]: Wemmbu issued server command: /ASC
-[01:12:01] [Server thread/INFO]: Wemmbu issued server command: /asc
-[01:12:17] [Server thread/INFO]: Stopping the server
-[01:12:17] [Server thread/INFO]: Stopping server
-[01:12:17] [Server thread/INFO]: [mcMMO] Disabling mcMMO v2.2.048
-[01:12:17] [Server thread/INFO]: [PlaceholderAPI] Unregistered placeholder expansion mcmmo
-[01:12:17] [Server thread/INFO]: [PlaceholderAPI] Reason: required plugin mcMMO was disabled.
-[01:12:17] [Server thread/INFO]: [mcMMO] Server shutdown has been executed, saving and cleaning up data...
-[01:12:17] [Server thread/INFO]: [mcMMO] Saving mmoPlayers... (1)
-[01:12:17] [Server thread/INFO]: [mcMMO] Finished save operation for 1 players!
-[01:12:17] [Server thread/INFO]: [TAB] Disabling TAB v5.4.0
-[01:12:17] [Server thread/INFO]: [TAB] Disabled in 0ms
-[01:12:17] [Server thread/INFO]: [Essentials] Disabling Essentials v2.21.2
-[01:12:17] [Server thread/INFO]: [Vault] [Economy] Essentials Economy unhooked.
-[01:12:17] [Server thread/INFO]: [ClearLag] Disabling ClearLag v1.0.1
-[01:12:17] [Server thread/INFO]: [GreatImpostor] Disabling GreatImpostor v1.2.0
-[01:12:17] [Server thread/INFO]: [InventoryRollbackPlus] Disabling InventoryRollbackPlus v1.7.9
-[01:12:17] [Server thread/INFO]: [InventoryRollbackPlus] Setting shutdown state
-[01:12:17] [Server thread/INFO]: [InventoryRollbackPlus] Saving player inventories...
-[01:12:17] [Server thread/INFO]: [InventoryRollbackPlus] Done saving player inventories!
-[01:12:17] [Server thread/INFO]: [InventoryRollbackPlus] Plugin is disabled!
-[01:12:17] [Server thread/INFO]: [AutoTreeChop] Disabling AutoTreeChop v1.7.1
-[01:12:17] [Server thread/INFO]: [AutoTreeChop] Saving all player data before shutdown...
-[01:12:17] [Server thread/INFO]: [org.milkteamc.autotreechop.libs.hikari.HikariDataSource] HikariPool-1 - Shutdown initiated...
-[01:12:17] [Server thread/INFO]: [org.milkteamc.autotreechop.libs.hikari.HikariDataSource] HikariPool-1 - Shutdown completed.
-[01:12:17] [Server thread/INFO]: [AutoTreeChop] AutoTreeChop disabled!
-[01:12:17] [Server thread/INFO]: [TuffX] Disabling TuffX v1.2.0
-[01:12:17] [Server thread/INFO]: [Skript] Disabling Skript v2.13.2
-[01:12:17] [Server thread/INFO]: [Multiverse-Inventories] Disabling Multiverse-Inventories v5.3.1
-[01:12:17] [Server thread/INFO]: [Multiverse-Inventories] - Disabled
-[01:12:17] [Server thread/INFO]: [Veinminer] Disabling Veinminer v2.5.3
-[01:12:17] [Server thread/INFO]: [LoginSecurity] Disabling LoginSecurity v3.3.1
-[01:12:17] [Server thread/INFO]: [LoginSecurity] Waiting for queued tasks...
-[01:12:17] [Server thread/INFO]: [LoginSecurity] ExecutorService shut down, ready to disable.
-[01:12:17] [Server thread/INFO]: [NBTAPI] Disabling NBTAPI v2.15.5
-[01:12:17] [Server thread/INFO]: [ViaRewind] Disabling ViaRewind v4.0.12
-[01:12:17] [Server thread/INFO]: [WorldGuard] Disabling WorldGuard v7.0.14+2339-43997ec
-[01:12:17] [Server thread/INFO]: [WorldGuard] Shutting down executor and cancelling any pending tasks...
-[01:12:17] [Server thread/INFO]: [Multiverse-Core] Disabling Multiverse-Core v5.4.0
-[01:12:17] [Server thread/INFO]: [ProtocolLib] Disabling ProtocolLib v5.4.0
-[01:12:17] [Server thread/INFO]: [ViaBackwards] Disabling ViaBackwards v5.6.0
-[01:12:17] [Server thread/INFO]: [WorldEdit] Disabling WorldEdit v7.3.18+7298-4383852
-[01:12:17] [Server thread/INFO]: Unregistering com.sk89q.worldedit.bukkit.BukkitServerInterface from WorldEdit
-[01:12:17] [Server thread/INFO]: [PlaceholderAPI] Disabling PlaceholderAPI v2.11.7
-[01:12:17] [Server thread/INFO]: [Vault] Disabling Vault v1.7.3-b131
-[01:12:17] [Server thread/INFO]: [LuckPerms] Disabling LuckPerms v5.5.22
-[01:12:17] [Server thread/INFO]: [LuckPerms] Starting shutdown process...
-[01:12:17] [Server thread/INFO]: [LuckPerms] Closing storage...
-[01:12:17] [Server thread/INFO]: [LuckPerms] Goodbye!
-[01:12:17] [Server thread/INFO]: [ViaVersion] Disabling ViaVersion v5.6.0
-[01:12:17] [Server thread/INFO]: [ViaVersion] ViaVersion has been disabled; uninjected the platform and shut down the scheduler.
-[01:12:17] [Server thread/INFO]: Saving players
-[01:12:17] [Server thread/INFO]: Wemmbu lost connection: Server closed
-[01:12:17] [Server thread/INFO]: Wemmbu left the game
-[01:12:17] [Server thread/INFO]: Saving worlds
-[01:12:17] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
-[01:12:17] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk system to halt for world 'world'
-[01:12:17] [Server thread/INFO]: [ChunkHolderManager] Halted chunk system for world 'world'
-[01:12:17] [Server thread/INFO]: [ChunkHolderManager] Saving all chunkholders for world 'world'
-[01:12:17] [Server thread/INFO]: [ChunkHolderManager] Saved 8 block chunks, 0 entity chunks, 0 poi chunks in world 'world' in 0.04s
-[01:12:17] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk I/O to halt for world 'world'
-[01:12:17] [Server thread/INFO]: [ChunkHolderManager] Halted I/O scheduler for world 'world'
-[01:12:17] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world_nether]'/minecraft:the_nether
-[01:12:17] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk system to halt for world 'world_nether'
-[01:12:17] [Server thread/INFO]: [ChunkHolderManager] Halted chunk system for world 'world_nether'
-[01:12:17] [Server thread/INFO]: [ChunkHolderManager] Saving all chunkholders for world 'world_nether'
-[01:12:17] [Server thread/INFO]: [ChunkHolderManager] Saved 3 block chunks, 1 entity chunks, 0 poi chunks in world 'world_nether' in 0.01s
-[01:12:17] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk I/O to halt for world 'world_nether'
-[01:12:17] [Server thread/INFO]: [ChunkHolderManager] Halted I/O scheduler for world 'world_nether'
-[01:12:17] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world_the_end]'/minecraft:the_end
-[01:12:17] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk system to halt for world 'world_the_end'
-[01:12:17] [Server thread/INFO]: [ChunkHolderManager] Halted chunk system for world 'world_the_end'
-[01:12:17] [Server thread/INFO]: [ChunkHolderManager] Saving all chunkholders for world 'world_the_end'
-[01:12:17] [Server thread/INFO]: [ChunkHolderManager] Saved 0 block chunks, 0 entity chunks, 0 poi chunks in world 'world_the_end' in 0.00s
-[01:12:17] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk I/O to halt for world 'world_the_end'
-[01:12:17] [Server thread/INFO]: [ChunkHolderManager] Halted I/O scheduler for world 'world_the_end'
-[01:12:17] [Server thread/INFO]: Saving chunks for level 'ServerLevel[unstable]'/minecraft:unstable
-[01:12:17] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk system to halt for world 'unstable'
-[01:12:17] [Server thread/INFO]: [ChunkHolderManager] Halted chunk system for world 'unstable'
-[01:12:17] [Server thread/INFO]: [ChunkHolderManager] Saving all chunkholders for world 'unstable'
-[01:12:18] [Server thread/INFO]: [ChunkHolderManager] Saved 137 block chunks, 140 entity chunks, 0 poi chunks in world 'unstable' in 0.34s
-[01:12:18] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk I/O to halt for world 'unstable'
-[01:12:18] [Server thread/INFO]: [ChunkHolderManager] Halted I/O scheduler for world 'unstable'
-[01:12:18] [Server thread/INFO]: Saving chunks for level 'ServerLevel[among]'/minecraft:among
-[01:12:18] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk system to halt for world 'among'
-[01:12:18] [Server thread/INFO]: [ChunkHolderManager] Halted chunk system for world 'among'
-[01:12:18] [Server thread/INFO]: [ChunkHolderManager] Saving all chunkholders for world 'among'
-[01:12:18] [Server thread/INFO]: [ChunkHolderManager] Saved 0 block chunks, 0 entity chunks, 0 poi chunks in world 'among' in 0.00s
-[01:12:18] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk I/O to halt for world 'among'
-[01:12:18] [Server thread/INFO]: [ChunkHolderManager] Halted I/O scheduler for world 'among'
-[01:12:18] [Server thread/INFO]: Saving chunks for level 'ServerLevel[flat]'/minecraft:flat
-[01:12:18] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk system to halt for world 'flat'
-[01:12:18] [Server thread/INFO]: [ChunkHolderManager] Halted chunk system for world 'flat'
-[01:12:18] [Server thread/INFO]: [ChunkHolderManager] Saving all chunkholders for world 'flat'
-[01:12:18] [Server thread/INFO]: [ChunkHolderManager] Saved 0 block chunks, 0 entity chunks, 0 poi chunks in world 'flat' in 0.00s
-[01:12:18] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk I/O to halt for world 'flat'
-[01:12:18] [Server thread/INFO]: [ChunkHolderManager] Halted I/O scheduler for world 'flat'
-[01:12:18] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
-[01:12:18] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
-[01:12:18] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
-[01:12:18] [Server thread/INFO]: ThreadedAnvilChunkStorage (unstable): All chunks are saved
-[01:12:18] [Server thread/INFO]: ThreadedAnvilChunkStorage (among): All chunks are saved
-[01:12:18] [Server thread/INFO]: ThreadedAnvilChunkStorage (flat): All chunks are saved
-[01:12:18] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
-[01:12:18] [Server thread/INFO]: Waiting for all RegionFile I/O tasks to complete...
-[01:12:18] [Server thread/INFO]: All RegionFile I/O tasks to complete
-[01:12:18] [Server thread/INFO]: [MoonriseCommon] Awaiting termination of worker pool for up to 60s...
-[01:12:18] [Server thread/INFO]: [MoonriseCommon] Awaiting termination of I/O pool for up to 60s...
+[02:18:42] [ServerMain/INFO]: [PluginInitializerManager] Bukkit plugins (24):
+ - AutoTreeChop (1.7.1), BannerMaker (2.5.1), ClearLag (1.0.1), Essentials (2.21.2), GreatImpostor (1.2.0), InventoryRollbackPlus (1.7.9), LoginSecurity (3.3.1), LuckPerms (5.5.22), MinecraftSharedInventory (1.4), Multiverse-Core (5.4.0), Multiverse-Inventories (5.3.1), NBTAPI (2.15.5), PlaceholderAPI (2.11.7), ProtocolLib (5.4.0), Skript (2.13.2), StopBeingAnIdiot (2.0.1), TAB (5.4.0), TuffX (1.2.0), Vault (1.7.3-b131), ViaBackwards (5.6.0), ViaRewind (4.0.12), ViaVersion (5.6.0), WorldEdit (7.3.18+7298-4383852), WorldGuard (7.0.14+2339-43997ec)
+[02:18:46] [ServerMain/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
+[02:18:48] [ServerMain/INFO]: Loaded 1407 recipes
+[02:18:48] [ServerMain/INFO]: Loaded 1520 advancements
+[02:18:48] [ServerMain/INFO]: [ca.spottedleaf.dataconverter.minecraft.datatypes.MCTypeRegistry] Initialising converters for DataConverter...
+[02:18:49] [ServerMain/INFO]: [ca.spottedleaf.dataconverter.minecraft.datatypes.MCTypeRegistry] Finished initialising converters for DataConverter in 468.0ms
+[02:18:49] [Server thread/INFO]: Starting minecraft server version 1.21.8
+[02:18:49] [Server thread/WARN]: ****************************
+[02:18:49] [Server thread/WARN]: YOU ARE RUNNING THIS SERVER AS AN ADMINISTRATIVE OR ROOT USER. THIS IS NOT ADVISED.
+[02:18:49] [Server thread/WARN]: YOU ARE OPENING YOURSELF UP TO POTENTIAL RISKS WHEN DOING THIS.
+[02:18:49] [Server thread/WARN]: FOR MORE INFORMATION, SEE https://madelinemiller.dev/blog/root-minecraft-server/
+[02:18:49] [Server thread/WARN]: ****************************
+[02:18:49] [Server thread/INFO]: Loading properties
+[02:18:49] [Server thread/INFO]: This server is running Paper version 1.21.8-60-main@29c8822 (2025-09-06T21:49:13Z) (Implementing API version 1.21.8-R0.1-SNAPSHOT)
+[02:18:49] [Server thread/INFO]: [spark] This server bundles the spark profiler. For more information please visit https://docs.papermc.io/paper/profiling
+[02:18:49] [Server thread/INFO]: Server Ping Player Sample Count: 12
+[02:18:49] [Server thread/INFO]: Using 4 threads for Netty based IO
+[02:18:49] [Server thread/INFO]: [MoonriseCommon] Paper is using 1 worker threads, 1 I/O threads
+[02:18:49] [Server thread/INFO]: [ChunkTaskScheduler] Chunk system is using population gen parallelism: true
+[02:18:49] [Server thread/INFO]: Default game type: SURVIVAL
+[02:18:49] [Server thread/INFO]: Generating keypair
+[02:18:49] [Server thread/INFO]: Starting Minecraft server on *:25565
+[02:18:49] [Server thread/INFO]: Using epoll channel type
+[02:18:49] [Server thread/INFO]: Paper: Using libdeflate (Linux x86_64) compression from Velocity.
+[02:18:49] [Server thread/INFO]: Paper: Using OpenSSL 3.x.x (Linux x86_64) cipher from Velocity.
+[02:18:50] [Server thread/INFO]: [ViaVersion] Loading server plugin ViaVersion v5.6.0
+[02:18:50] [Server thread/INFO]: [ViaVersion] ViaVersion 5.6.0 is now loaded. Registering protocol transformers and injecting...
+[02:18:51] [Via-Mappingloader-1/INFO]: [ViaVersion] Loading block connection mappings ...
+[02:18:51] [Via-Mappingloader-1/INFO]: [ViaVersion] Using FastUtil Long2ObjectOpenHashMap for block connections
+[02:18:52] [Server thread/INFO]: [ViaBackwards] Loading translations...
+[02:18:52] [Server thread/INFO]: [ViaBackwards] Registering protocols...
+[02:18:52] [Server thread/INFO]: [ViaRewind] Registering protocols...
+[02:18:52] [Server thread/INFO]: [LuckPerms] Loading server plugin LuckPerms v5.5.22
+[02:18:53] [Server thread/INFO]: [LuckPerms] Loading configuration...
+[02:18:53] [Server thread/INFO]: [Vault] Loading server plugin Vault v1.7.3-b131
+[02:18:53] [Server thread/INFO]: [PlaceholderAPI] Loading server plugin PlaceholderAPI v2.11.7
+[02:18:53] [Server thread/INFO]: [WorldEdit] Loading server plugin WorldEdit v7.3.18+7298-4383852
+[02:18:53] [Server thread/INFO]: Got request to register class com.sk89q.worldedit.bukkit.BukkitServerInterface with WorldEdit [com.sk89q.worldedit.extension.platform.PlatformManager@4fb836a0]
+[02:18:53] [Server thread/INFO]: [ViaBackwards] Loading server plugin ViaBackwards v5.6.0
+[02:18:53] [Server thread/INFO]: [ProtocolLib] Loading server plugin ProtocolLib v5.4.0
+[02:18:54] [Server thread/INFO]: [CoreLogging] Loading server plugin Multiverse-Core v5.4.0
+[02:18:54] [Server thread/INFO]: [WorldGuard] Loading server plugin WorldGuard v7.0.14+2339-43997ec
+[02:18:54] [Server thread/INFO]: [ViaRewind] Loading server plugin ViaRewind v4.0.12
+[02:18:54] [Server thread/INFO]: [NBTAPI] Loading server plugin NBTAPI v2.15.5
+[02:18:54] [Server thread/INFO]: [NBTAPI] [NBTAPI] Found Minecraft: 1.21.8! Trying to find NMS support
+[02:18:54] [Server thread/INFO]: [NBTAPI] [NBTAPI] NMS support 'MC1_21_R5' loaded!
+[02:18:54] [Server thread/INFO]: [NBTAPI] [NBTAPI] Using the plugin 'NBTAPI' to create a bStats instance!
+[02:18:54] [Server thread/INFO]: [LoginSecurity] Loading server plugin LoginSecurity v3.3.1
+[02:18:54] [Server thread/INFO]: [Veinminer] Loading server plugin Veinminer v2.5.3
+[02:18:54] [Server thread/INFO]: [Veinminer] Detected platform: Paper
+[02:18:54] [Thread-6/INFO]: [NBTAPI] [NBTAPI] The NBT-API seems to be up-to-date!
+[02:18:54] [Server thread/INFO]: [InvLogging] Loading server plugin Multiverse-Inventories v5.3.1
+[02:18:54] [Server thread/INFO]: [Skript] Loading server plugin Skript v2.13.2
+[02:18:54] [Server thread/INFO]: [TuffX] Loading server plugin TuffX v1.2.0
+[02:18:55] [Server thread/INFO]: [MinecraftSharedInventory] Loading server plugin MinecraftSharedInventory v1.4
+[02:18:55] [Server thread/INFO]: [AutoTreeChop] Loading server plugin AutoTreeChop v1.7.1
+[02:18:55] [Server thread/INFO]: [BannerMaker] Loading server plugin BannerMaker v2.5.1
+[02:18:55] [Server thread/INFO]: [InventoryRollbackPlus] Loading server plugin InventoryRollbackPlus v1.7.9
+[02:18:55] [Server thread/INFO]: [GreatImpostor] Loading server plugin GreatImpostor v1.2.0
+[02:18:55] [Server thread/INFO]: [ClearLag] Loading server plugin ClearLag v1.0.1
+[02:18:55] [Server thread/INFO]: [Essentials] Loading server plugin Essentials v2.21.2
+[02:18:55] [Server thread/INFO]: [TAB] Loading server plugin TAB v5.4.0
+[02:18:55] [Server thread/INFO]: [StopBeingAnIdiot] Loading server plugin StopBeingAnIdiot v2.0.1
+[02:18:55] [Server thread/INFO]: Server permissions file permissions.yml is empty, ignoring it
+[02:18:55] [Server thread/INFO]: [LuckPerms] Enabling LuckPerms v5.5.22
+[02:18:56] [Server thread/INFO]:         __    
+[02:18:56] [Server thread/INFO]:   |    |__)   LuckPerms v5.5.22
+[02:18:56] [Server thread/INFO]:   |___ |      Running on Bukkit - Paper
+[02:18:56] [Server thread/INFO]: 
+[02:18:56] [Server thread/INFO]: [LuckPerms] Loading storage provider... [H2]
+[02:18:56] [Server thread/INFO]: [LuckPerms] Loading internal permission managers...
+[02:18:56] [Server thread/INFO]: [LuckPerms] Performing initial data load...
+[02:18:56] [Server thread/INFO]: [LuckPerms] Successfully enabled. (took 1003ms)
+[02:18:56] [Server thread/INFO]: [Vault] Enabling Vault v1.7.3-b131
+[02:18:56] [Server thread/INFO]: [Vault] [Economy] Essentials Economy found: Waiting
+[02:18:56] [Server thread/INFO]: [Vault] [Permission] SuperPermissions loaded as backup permission system.
+[02:18:56] [Server thread/INFO]: [Vault] Enabled Version 1.7.3-b131
+[02:18:56] [Server thread/INFO]: [LuckPerms] Registered Vault permission & chat hook.
+[02:18:56] [Server thread/INFO]: [WorldEdit] Enabling WorldEdit v7.3.18+7298-4383852
+[02:18:57] [Server thread/INFO]: Registering commands with com.sk89q.worldedit.bukkit.BukkitServerInterface
+[02:18:57] [Server thread/INFO]: WEPIF: Vault detected! Using Vault for permissions
+[02:18:57] [Server thread/INFO]: Using com.sk89q.worldedit.bukkit.adapter.impl.v1_21_6.PaperweightAdapter as the Bukkit adapter
+[02:18:58] [Server thread/INFO]: [ProtocolLib] Enabling ProtocolLib v5.4.0
+[02:18:58] [Server thread/INFO]: [ViaRewind] Enabling ViaRewind v4.0.12
+[02:18:58] [Server thread/INFO]: [Veinminer] Enabling Veinminer v2.5.3
+[02:18:59] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[02:18:59] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
+[02:18:59] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[02:18:59] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
+[02:18:59] [Server thread/INFO]: Preparing level "world"
+[02:18:59] [DefaultDispatcher-worker-1/INFO]: [VeinminerUpdater] veinminer is up to date
+[02:19:00] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[02:19:00] [Server thread/INFO]: Preparing spawn area: 0%
+[02:19:01] [Server thread/INFO]: Preparing spawn area: 0%
+[02:19:01] [Server thread/INFO]: Preparing spawn area: 0%
+[02:19:01] [Server thread/INFO]: Preparing spawn area: 0%
+[02:19:01] [Server thread/INFO]: Time elapsed: 1555 ms
+[02:19:01] [Server thread/INFO]: Preparing start region for dimension minecraft:the_nether
+[02:19:01] [Server thread/INFO]: Preparing spawn area: 0%
+[02:19:02] [Server thread/INFO]: Time elapsed: 339 ms
+[02:19:02] [Server thread/INFO]: Preparing start region for dimension minecraft:the_end
+[02:19:02] [Server thread/INFO]: Preparing spawn area: 0%
+[02:19:02] [Server thread/INFO]: Time elapsed: 128 ms
+[02:19:02] [Server thread/INFO]: [ViaVersion] Enabling ViaVersion v5.6.0
+[02:19:02] [Server thread/INFO]: [ViaVersion] ViaVersion detected server version: 1.21.7-1.21.8 (772)
+[02:19:02] [Server thread/INFO]: [PlaceholderAPI] Enabling PlaceholderAPI v2.11.7
+[02:19:02] [Server thread/INFO]: [PlaceholderAPI] Fetching available expansion information...
+[02:19:02] [Server thread/INFO]: [ViaBackwards] Enabling ViaBackwards v5.6.0
+[02:19:02] [Server thread/INFO]: [Multiverse-Core] Enabling Multiverse-Core v5.4.0
+[02:19:03] [Server thread/INFO]: Preparing start region for dimension minecraft:unstable
+[02:19:03] [Server thread/INFO]: Preparing spawn area: 0%
+[02:19:03] [Server thread/INFO]: Time elapsed: 381 ms
+[02:19:03] [Server thread/ERROR]: [MapSerializer] Could not deserialize key minecraft:fancy_oak_bees_0002 into net.minecraft.core.Holder<net.minecraft.world.level.levelgen.feature.ConfiguredFeature<?, ?>> at [feature-seeds, features]: Missing holder in ResourceKey[minecraft:root / minecraft:worldgen/configured_feature] with key ResourceKey[minecraft:worldgen/configured_feature / minecraft:fancy_oak_bees_0002]
+[02:19:03] [Server thread/ERROR]: [MapSerializer] Could not deserialize key minecraft:oak_bees_0002 into net.minecraft.core.Holder<net.minecraft.world.level.levelgen.feature.ConfiguredFeature<?, ?>> at [feature-seeds, features]: Missing holder in ResourceKey[minecraft:root / minecraft:worldgen/configured_feature] with key ResourceKey[minecraft:worldgen/configured_feature / minecraft:oak_bees_0002]
+[02:19:03] [Server thread/ERROR]: [MapSerializer] Could not deserialize key minecraft:trees_birch_and_oak into net.minecraft.core.Holder<net.minecraft.world.level.levelgen.feature.ConfiguredFeature<?, ?>> at [feature-seeds, features]: Missing holder in ResourceKey[minecraft:root / minecraft:worldgen/configured_feature] with key ResourceKey[minecraft:worldgen/configured_feature / minecraft:trees_birch_and_oak]
+[02:19:03] [Server thread/INFO]: Preparing start region for dimension minecraft:among
+[02:19:03] [Server thread/INFO]: Preparing spawn area: 0%
+[02:19:03] [Server thread/INFO]: Time elapsed: 143 ms
+[02:19:03] [Server thread/INFO]: Preparing start region for dimension minecraft:flat
+[02:19:03] [Server thread/INFO]: Preparing spawn area: 0%
+[02:19:03] [Server thread/INFO]: Time elapsed: 111 ms
+[02:19:04] [Server thread/INFO]: [PlaceholderAPI] Successfully registered internal expansion: multiverse-core [5.4.0]
+[02:19:04] [Server thread/INFO]: [Multiverse-Core] API service loaded!
+[02:19:04] [Server thread/INFO]: [Multiverse-Core] Version 5.4.0 (API v5.4) Enabled - By dumptruckman, Rigby, fernferret, lithium3141, main--, benwoo1110 and Zax71
+[02:19:04] [Server thread/INFO]: [Multiverse-Core] Loving Multiverse-Core? Please consider supporting the project with a small donation: https://github.com/sponsors/Multiverse
+[02:19:04] [Server thread/INFO]: [WorldGuard] Enabling WorldGuard v7.0.14+2339-43997ec
+[02:19:04] [Server thread/INFO]: [WorldGuard] (world) TNT ignition is PERMITTED.
+[02:19:04] [Server thread/INFO]: [WorldGuard] (world) Lighters are PERMITTED.
+[02:19:04] [Server thread/INFO]: [WorldGuard] (world) Lava fire is PERMITTED.
+[02:19:04] [Server thread/INFO]: [WorldGuard] (world) Fire spread is UNRESTRICTED.
+[02:19:04] [Server thread/INFO]: [WorldGuard] Loaded configuration for world 'world'
+[02:19:04] [Server thread/INFO]: [WorldGuard] (world_nether) TNT ignition is PERMITTED.
+[02:19:04] [Server thread/INFO]: [WorldGuard] (world_nether) Lighters are PERMITTED.
+[02:19:04] [Server thread/INFO]: [WorldGuard] (world_nether) Lava fire is PERMITTED.
+[02:19:04] [Server thread/INFO]: [WorldGuard] (world_nether) Fire spread is UNRESTRICTED.
+[02:19:04] [Server thread/INFO]: [WorldGuard] Loaded configuration for world 'world_nether'
+[02:19:04] [Server thread/INFO]: [WorldGuard] (world_the_end) TNT ignition is PERMITTED.
+[02:19:04] [Server thread/INFO]: [WorldGuard] (world_the_end) Lighters are PERMITTED.
+[02:19:04] [Server thread/INFO]: [WorldGuard] (world_the_end) Lava fire is PERMITTED.
+[02:19:04] [Server thread/INFO]: [WorldGuard] (world_the_end) Fire spread is UNRESTRICTED.
+[02:19:04] [Server thread/INFO]: [WorldGuard] Loaded configuration for world 'world_the_end'
+[02:19:04] [Server thread/INFO]: [WorldGuard] (unstable) TNT ignition is PERMITTED.
+[02:19:04] [Server thread/INFO]: [WorldGuard] (unstable) Lighters are PERMITTED.
+[02:19:04] [Server thread/INFO]: [WorldGuard] (unstable) Lava fire is PERMITTED.
+[02:19:04] [Server thread/INFO]: [WorldGuard] (unstable) Fire spread is UNRESTRICTED.
+[02:19:04] [Server thread/INFO]: [WorldGuard] Loaded configuration for world 'unstable'
+[02:19:04] [Server thread/INFO]: [WorldGuard] (among) TNT ignition is PERMITTED.
+[02:19:04] [Server thread/INFO]: [WorldGuard] (among) Lighters are PERMITTED.
+[02:19:04] [Server thread/INFO]: [WorldGuard] (among) Lava fire is PERMITTED.
+[02:19:04] [Server thread/INFO]: [WorldGuard] (among) Fire spread is UNRESTRICTED.
+[02:19:04] [Server thread/INFO]: [WorldGuard] Loaded configuration for world 'among'
+[02:19:04] [Server thread/INFO]: [WorldGuard] (flat) TNT ignition is PERMITTED.
+[02:19:04] [Server thread/INFO]: [WorldGuard] (flat) Lighters are PERMITTED.
+[02:19:04] [Server thread/INFO]: [WorldGuard] (flat) Lava fire is PERMITTED.
+[02:19:04] [Server thread/INFO]: [WorldGuard] (flat) Fire spread is UNRESTRICTED.
+[02:19:04] [Server thread/INFO]: [WorldGuard] Loaded configuration for world 'flat'
+[02:19:04] [Server thread/INFO]: [WorldGuard] Loading region data...
+[02:19:04] [Server thread/INFO]: [NBTAPI] Enabling NBTAPI v2.15.5
+[02:19:04] [Server thread/INFO]: [NBTAPI] Checking bindings...
+[02:19:04] [Server thread/INFO]: [NBTAPI] All Classes were able to link!
+[02:19:04] [Server thread/INFO]: [NBTAPI] All Methods were able to link!
+[02:19:04] [Server thread/INFO]: [NBTAPI] Running NBT reflection test...
+[02:19:06] [Server thread/INFO]: [NBTAPI] Success! This version of NBT-API is compatible with your server.
+[02:19:06] [Server thread/INFO]: [LoginSecurity] Enabling LoginSecurity v3.3.1
+[02:19:06] [Server thread/INFO]: [LoginSecurity] Loading base translations from "en_us"
+[02:19:06] [Server thread/INFO]: [LoginSecurity] Loading specified translations from "en_us"
+[02:19:07] [Server thread/INFO]: [LoginSecurity] Registering commands...
+[02:19:07] [Server thread/INFO]: [LoginSecurity] Registering listeners...
+[02:19:07] [Server thread/INFO]: [LoginSecurity] Using 1.13+ map captcha renderer
+[02:19:07] [Server thread/INFO]: [Multiverse-Inventories] Enabling Multiverse-Inventories v5.3.1
+[02:19:07] [Server thread/INFO]: [PlaceholderAPI] Successfully registered internal expansion: multiverse-inventories [5.3.1]
+[02:19:07] [Server thread/INFO]: [Multiverse-Inventories] Loading player names map...
+[02:19:07] [Server thread/INFO]: [Multiverse-Inventories] Version 5.3.1 (API v5.3) Enabled - By dumptruckman and benwoo1110
+[02:19:07] [Server thread/INFO]: [Skript] Enabling Skript v2.13.2
+[02:19:08] [ForkJoinPool.commonPool-worker-1/INFO]: [Skript] You're currently running the latest stable version of Skript.
+[02:19:09] [Server thread/INFO]: [Skript]  ~ created by & © Peter Güttinger aka Njol ~
+[02:19:09] [Server thread/INFO]: [TuffX] Enabling TuffX v1.2.0
+[02:19:09] [Server thread/INFO]: [TuffX] Server Minecraft Version: 1.21.8
+[02:19:09] [Server thread/INFO]: [TuffX] 
+[02:19:09] [Server thread/INFO]: [TuffX] ████████╗██╗   ██╗███████╗ ███████╗ ██╗  ██╗
+[02:19:09] [Server thread/INFO]: [TuffX] ╚══██╔══╝██║   ██║██╔════╝ ██╔════╝ ╚██╗██╔╝
+[02:19:09] [Server thread/INFO]: [TuffX]    ██║   ██║   ██║██████╗  ██████╗   ╚███╔╝ 
+[02:19:09] [Server thread/INFO]: [TuffX]    ██║   ██║   ██║██╔═══╝  ██╔═══╝   ██╔██╗ 
+[02:19:09] [Server thread/INFO]: [TuffX]    ██║   ╚██████╔╝██║      ██║      ██╔╝╚██╗
+[02:19:09] [Server thread/INFO]: [TuffX]    ╚═╝    ╚═════╝ ╚═╝      ╚═╝      ╚═╝  ╚═╝
+[02:19:09] [Server thread/INFO]: [TuffX] 
+[02:19:09] [Server thread/INFO]: [TuffX] Below y0 and TuffX programmed by Potato
+[02:19:09] [Server thread/INFO]: [MinecraftSharedInventory] Enabling MinecraftSharedInventory v1.4
+[02:19:09] [Server thread/INFO]: [MinecraftSharedInventory] [STDOUT] *********************************************************
+Thank you for using this plugin! <3
+Author: Matistan
+If you enjoy this plugin, please rate it on spigotmc.org:
+https://www.spigotmc.org/resources/shared-inventory.109491/
+*********************************************************
+[02:19:09] [Server thread/WARN]: Nag author(s): '[Matistan]' of 'MinecraftSharedInventory v1.4' about their usage of System.out/err.print. Please use your plugin's logger instead (JavaPlugin#getLogger).
+[02:19:09] [Server thread/INFO]: [AutoTreeChop] Enabling AutoTreeChop v1.7.1
+[02:19:10] [Server thread/INFO]: [PlaceholderAPI] Successfully registered internal expansion: autotreechop [1.7.1]
+[02:19:10] [Server thread/INFO]: [AutoTreeChop] PlaceholderAPI expansion for AutoTreeChop has been registered.
+[02:19:10] [Server thread/INFO]: [org.milkteamc.autotreechop.libs.hikari.HikariDataSource] HikariPool-1 - Starting...
+[02:19:10] [Server thread/INFO]: [org.milkteamc.autotreechop.libs.hikari.pool.HikariPool] HikariPool-1 - Added connection org.sqlite.jdbc4.JDBC4Connection@57888e11
+[02:19:10] [Server thread/INFO]: [org.milkteamc.autotreechop.libs.hikari.HikariDataSource] HikariPool-1 - Start completed.
+[02:19:10] [Server thread/INFO]: [AutoTreeChop] WorldGuard support enabled
+[02:19:10] [Server thread/INFO]: [AutoTreeChop] AutoTreeChop enabled!
+[02:19:10] [Server thread/INFO]: [BannerMaker] Enabling BannerMaker v2.5.1
+[02:19:10] [Server thread/INFO]: [BannerMaker] Language: en
+[02:19:10] [Server thread/INFO]: [BannerMaker] Vault dependency found! Enable economy supported
+[02:19:10] [Server thread/INFO]: [InventoryRollbackPlus] Enabling InventoryRollbackPlus v1.7.9
+[02:19:10] [Server thread/INFO]: [InventoryRollbackPlus] Attempting support for version: 1.21.8-60-29c8822 (MC: 1.21.8)
+[02:19:10] [Server thread/INFO]: [InventoryRollbackPlus] Using CraftBukkit version: v1_21_R5
+[02:19:10] [Server thread/INFO]: [InventoryRollbackPlus] Inventory backup data is set to save to: YAML
+[02:19:10] [Server thread/INFO]: [InventoryRollbackPlus] bStats are enabled
+[02:19:10] [Server thread/INFO]: [InventoryRollbackPlus] Tests completed: 5, Skipped: 0, Failed: 0
+[02:19:10] [Server thread/INFO]: [InventoryRollbackPlus] All tests passed successfully.
+[02:19:10] [Server thread/INFO]: [GreatImpostor] Enabling GreatImpostor v1.2.0
+[02:19:10] [Server thread/INFO]: [PlaceholderAPI] Successfully registered internal expansion: GreatImpostor [1.2.0]
+[02:19:11] [Server thread/INFO]: [GreatImpostor] GreatImpostor finished setting up!
+[02:19:11] [Server thread/INFO]: [ClearLag] Enabling ClearLag v1.0.1
+[02:19:11] [Server thread/WARN]: [ClearLag] Could not save config.yml to plugins/ClearLag/config.yml because config.yml already exists.
+[02:19:11] [Server thread/WARN]: [ClearLag] Could not save messages.yml to plugins/ClearLag/messages.yml because messages.yml already exists.
+[02:19:11] [Server thread/INFO]: [ClearLag] PlaceholderAPI enabled
+[02:19:11] [Server thread/INFO]: [PlaceholderAPI] Successfully registered internal expansion: clearlag [1.0.1]
+[02:19:11] [Server thread/INFO]: [ClearLag] ClearLag setup complete! Next clear is in 600 seconds.
+[02:19:11] [Server thread/INFO]: [Essentials] Enabling Essentials v2.21.2
+[02:19:11] [Server thread/INFO]: [Essentials] Attempting to convert old kits in config.yml to new kits.yml
+[02:19:11] [Server thread/INFO]: [Essentials] No kits found to migrate.
+[02:19:11] [Server thread/INFO]: [Essentials] Selected 1.20.4+ Damage Event Provider as the provider for DamageEventProvider
+[02:19:11] [Server thread/INFO]: [Essentials] Selected Reflection Online Mode Provider as the provider for OnlineModeProvider
+[02:19:11] [Server thread/INFO]: [Essentials] Selected Paper Tick Count Provider as the provider for TickCountProvider
+[02:19:11] [Server thread/INFO]: [Essentials] Selected Paper Biome Key Provider as the provider for BiomeKeyProvider
+[02:19:11] [Server thread/INFO]: [Essentials] Selected Paper Container Provider as the provider for ContainerProvider
+[02:19:11] [Server thread/INFO]: [Essentials] Selected 1.11+ Item Unbreakable Provider as the provider for ItemUnbreakableProvider
+[02:19:11] [Server thread/INFO]: [Essentials] Selected Paper Material Tag Provider as the provider for MaterialTagProvider
+[02:19:11] [Server thread/INFO]: [Essentials] Selected Reflection Formatted Command Alias Provider as the provider for FormattedCommandAliasProvider
+[02:19:11] [Server thread/INFO]: [Essentials] Selected 1.20.5+ Banner Data Provider as the provider for BannerDataProvider
+[02:19:11] [Server thread/INFO]: [Essentials] Selected Paper Serialization Provider as the provider for SerializationProvider
+[02:19:11] [Server thread/INFO]: [Essentials] Selected Paper Known Commands Provider as the provider for KnownCommandsProvider
+[02:19:11] [Server thread/INFO]: [Essentials] Selected 1.8.3+ Spawner Item Provider as the provider for SpawnerItemProvider
+[02:19:11] [Server thread/INFO]: [Essentials] Selected 1.14+ Sign Data Provider as the provider for SignDataProvider
+[02:19:11] [Server thread/INFO]: [Essentials] Selected 1.20.6+ Potion Meta Provider as the provider for PotionMetaProvider
+[02:19:11] [Server thread/INFO]: [Essentials] Selected 1.12+ Spawner Block Provider as the provider for SpawnerBlockProvider
+[02:19:11] [Server thread/INFO]: [Essentials] Selected 1.13+ Spawn Egg Provider as the provider for SpawnEggProvider
+[02:19:11] [Server thread/INFO]: [Essentials] Selected 1.17.1+ World Info Provider as the provider for WorldInfoProvider
+[02:19:11] [Server thread/INFO]: [Essentials] Selected 1.14.4+ Persistent Data Container Provider as the provider for PersistentDataProvider
+[02:19:11] [Server thread/INFO]: [Essentials] Selected Legacy Biome Name Provider as the provider for BiomeNameProvider
+[02:19:11] [Server thread/INFO]: [Essentials] Selected 1.21.4+ Sync Commands Provider as the provider for SyncCommandsProvider
+[02:19:11] [Server thread/INFO]: [Essentials] Selected Paper Server State Provider as the provider for ServerStateProvider
+[02:19:11] [Server thread/INFO]: [Essentials] Selected 1.21+ InventoryView Interface ABI Provider as the provider for InventoryViewProvider
+[02:19:11] [Server thread/INFO]: [Essentials] Selected 1.12.2+ Player Locale Provider as the provider for PlayerLocaleProvider
+[02:19:12] [Server thread/INFO]: [Essentials] Loaded 43880 items from items.json.
+[02:19:12] [Server thread/INFO]: [Essentials] Using locale en
+[02:19:12] [ForkJoinPool.commonPool-worker-1/INFO]: [Skript] Loaded 5504 aliases in 2799ms
+[02:19:12] [Server thread/INFO]: [Essentials] ServerListPingEvent: Spigot iterator API
+[02:19:12] [Server thread/INFO]: [Essentials] Starting Metrics. Opt-out using the global bStats config.
+[02:19:12] [Server thread/INFO]: [Vault] [Economy] Essentials Economy hooked.
+[02:19:12] [Server thread/INFO]: [Essentials] Using Vault based permissions (LuckPerms)
+[02:19:12] [Server thread/INFO]: [TAB] Enabling TAB v5.4.0
+[02:19:13] [Server thread/INFO]: [TAB] Enabled in 206ms
+[02:19:13] [Server thread/INFO]: [StopBeingAnIdiot] Enabling StopBeingAnIdiot v2.0.1
+[02:19:13] [Server thread/INFO]: [StopBeingAnIdiot] -----------------------
+[02:19:13] [Server thread/INFO]: [StopBeingAnIdiot] StopBeingAnIdiot v2.0.1
+[02:19:13] [Server thread/INFO]: [StopBeingAnIdiot] By srnyx
+[02:19:13] [Server thread/INFO]: [StopBeingAnIdiot] -----------------------
+[02:19:13] [Server thread/INFO]: [PlaceholderAPI] Successfully registered internal expansion: sbai [2.0.1]
+[02:19:13] [Server thread/INFO]: [spark] Starting background profiler...
+[02:19:13] [Server thread/INFO]: [PlaceholderAPI] Placeholder expansion registration initializing...
+[02:19:13] [Server thread/INFO]: Done preparing level "world" (14.816s)
+[02:19:13] [Server thread/INFO]: Running delayed init tasks
+[02:19:13] [Craft Scheduler Thread - 8 - Vault/INFO]: [Vault] Checking for Updates ... 
+[02:19:13] [Craft Scheduler Thread - 1 - InventoryRollbackPlus/INFO]: [InventoryRollbackPlus] Checking for updates...
+[02:19:13] [Craft Scheduler Thread - 3 - ViaVersion/INFO]: [ViaVersion] Finished mapping loading, shutting down loader executor.
+[02:19:13] [Craft Scheduler Thread - 4 - Essentials/INFO]: [Essentials] Fetching version information...
+[02:19:13] [Craft Scheduler Thread - 1 - InventoryRollbackPlus/INFO]: [InventoryRollbackPlus] You are running the latest version.
+[02:19:14] [Craft Scheduler Thread - 8 - Vault/INFO]: [Vault] No new version available
+[02:19:14] [Server thread/INFO]: [Skript] Loading variables...
+[02:19:14] [Server thread/INFO]: [Skript] Loaded 2 variables in 0.0 seconds
+[02:19:14] [Server thread/INFO]: [Skript] All scripts loaded without errors.
+[02:19:14] [Server thread/INFO]: [Skript]     No scripts were found, maybe you should write some ;)
+[02:19:14] [Server thread/INFO]: [Skript] Finished loading.
+[02:19:14] [Server thread/INFO]: [AutoTreeChop] You are using the latest version of AutoTreeChop.
+[02:19:14] [Server thread/INFO]: [Essentials] Essentials found a compatible payment resolution method: Vault Compatibility Layer (v1.7.3-b131)!
+[02:19:14] [Server thread/INFO]: [TuffX] Loading mappings from 1.21.8-mappings.json
+[02:19:14] [Server thread/INFO]: [TuffX] Loaded 27946 legacy mappings.
+[02:19:14] [Server thread/INFO]: Done (35.703s)! For help, type "help"
+[02:19:14] [Server thread/INFO]: 0 placeholder hook(s) registered!
+[02:20:04] [User Authenticator #0/INFO]: UUID of player Wemmbu is b8e46504-274d-3847-ac77-ed94dbe8064b
+[02:20:04] [Server thread/INFO]: [HorriblePlayerLoginEventHack] You have plugins listening to the PlayerLoginEvent, this will cause re-configuration APIs to be unavailable: [LuckPerms, Essentials, LoginSecurity, ProtocolLib, WorldGuard]
+[02:20:06] [Netty Epoll Server IO #1/WARN]: [ViaBackwards] (1.17->1.16.4) Increased world height is NOT SUPPORTED for 1.16 players and below. They will see a void below y 0 and above 256. You can enable the `bedrock-at-y-0` config option to replace the air with a bedrock layer.
+[02:20:06] [Server thread/INFO]: Wemmbu joined the game
+[02:20:06] [Server thread/INFO]: Wemmbu[/127.0.0.1:48384] logged in with entity id 129 at ([world]1.96749610620319, 86.0, 0.6999999880790713)
+[02:20:07] [Netty Epoll Server IO #1/WARN]: [ViaBackwards] (1.13->1.12.2) Ignoring plugin channel in serverbound REGISTER: EAG|GetDomain
+[02:20:07] [Netty Epoll Server IO #1/WARN]: [ViaBackwards] (1.13->1.12.2) Ignoring plugin channel in serverbound REGISTER: EAG|1.8
+[02:20:07] [Netty Epoll Server IO #1/WARN]: [ViaBackwards] (1.13->1.12.2) Ignoring plugin channel in serverbound REGISTER: EAG|Voice-1.8
+[02:20:07] [Netty Epoll Server IO #1/WARN]: [ViaBackwards] (1.13->1.12.2) Ignoring plugin channel in serverbound REGISTER: EAG|UpdateCert-1.8
+[02:20:07] [Netty Epoll Server IO #1/WARN]: [ViaBackwards] (1.13->1.12.2) Ignoring plugin channel in serverbound REGISTER: EAG|1.8-RPC
+[02:20:07] [Netty Epoll Server IO #1/WARN]: [ViaBackwards] (1.13->1.12.2) Ignoring plugin channel in serverbound REGISTER: EAG|Skins-1.8
+[02:20:07] [Netty Epoll Server IO #1/WARN]: [ViaBackwards] (1.13->1.12.2) Ignoring plugin channel in serverbound REGISTER: EAG|1.8-Ready
+[02:20:07] [Netty Epoll Server IO #1/WARN]: [ViaBackwards] (1.13->1.12.2) Ignoring plugin channel in serverbound REGISTER: EAG|FNAWSEn-1.8
+[02:20:07] [Netty Epoll Server IO #1/WARN]: [ViaBackwards] (1.13->1.12.2) Ignoring plugin channel in serverbound REGISTER: EAG|Capes-1.8
+[02:20:07] [Netty Epoll Server IO #1/WARN]: [ViaBackwards] (1.13->1.12.2) Ignoring serverbound plugin message with channel: EAG|1.8-Ready
+[02:20:26] [Server thread/INFO]: Wemmbu issued server command: /bannermaker
+[02:21:35] [User Authenticator #1/INFO]: UUID of player Manepear is 48d5a1b4-fc5f-3b3f-a09a-1f050adee0dc
+[02:21:35] [Server thread/INFO]: Manepear joined the game
+[02:21:35] [Server thread/INFO]: Manepear[/127.0.0.1:45152] logged in with entity id 278 at ([world]-124.83571937981112, 59.0, -539.491976427518)
+[02:21:35] [Netty Epoll Server IO #2/WARN]: [ViaBackwards] (1.13->1.12.2) Ignoring plugin channel in serverbound REGISTER: EAG|GetDomain
+[02:21:35] [Netty Epoll Server IO #2/WARN]: [ViaBackwards] (1.13->1.12.2) Ignoring plugin channel in serverbound REGISTER: EAG|1.8
+[02:21:35] [Netty Epoll Server IO #2/WARN]: [ViaBackwards] (1.13->1.12.2) Ignoring plugin channel in serverbound REGISTER: EAG|Voice-1.8
+[02:21:35] [Netty Epoll Server IO #2/WARN]: [ViaBackwards] (1.13->1.12.2) Ignoring plugin channel in serverbound REGISTER: EAG|UpdateCert-1.8
+[02:21:35] [Netty Epoll Server IO #2/WARN]: [ViaBackwards] (1.13->1.12.2) Ignoring plugin channel in serverbound REGISTER: EAG|1.8-RPC
+[02:21:35] [Netty Epoll Server IO #2/WARN]: [ViaBackwards] (1.13->1.12.2) Ignoring plugin channel in serverbound REGISTER: EAG|Skins-1.8
+[02:21:35] [Netty Epoll Server IO #2/WARN]: [ViaBackwards] (1.13->1.12.2) Ignoring plugin channel in serverbound REGISTER: EAG|1.8-Ready
+[02:21:35] [Netty Epoll Server IO #2/WARN]: [ViaBackwards] (1.13->1.12.2) Ignoring plugin channel in serverbound REGISTER: EAG|FNAWSEn-1.8
+[02:21:35] [Netty Epoll Server IO #2/WARN]: [ViaBackwards] (1.13->1.12.2) Ignoring plugin channel in serverbound REGISTER: EAG|Capes-1.8
+[02:21:35] [Netty Epoll Server IO #2/WARN]: [ViaBackwards] (1.13->1.12.2) Ignoring serverbound plugin message with channel: EAG|1.8-Ready
+[02:21:51] [Async Chat Thread - #0/INFO]: [Not Secure] <Wemmbu> hi
+[02:22:00] [Async Chat Thread - #0/INFO]: [Not Secure] <Manepear> yo
+[02:22:09] [Async Chat Thread - #0/INFO]: [Not Secure] <Manepear> whatcha add?
+[02:22:24] [User Authenticator #1/INFO]: UUID of player ClownPierce is c86e95bc-1ca0-30ec-b497-2ff0db9e2187
+[02:22:24] [Server thread/INFO]: ClownPierce joined the game
+[02:22:24] [Server thread/INFO]: ClownPierce[/127.0.0.1:59514] logged in with entity id 698 at ([world]0.0, 86.0, 0.0)
+[02:22:24] [Netty Epoll Server IO #3/WARN]: [ViaBackwards] (1.13->1.12.2) Ignoring plugin channel in serverbound REGISTER: EAG|GetDomain
+[02:22:24] [Netty Epoll Server IO #3/WARN]: [ViaBackwards] (1.13->1.12.2) Ignoring plugin channel in serverbound REGISTER: EAG|1.8
+[02:22:24] [Netty Epoll Server IO #3/WARN]: [ViaBackwards] (1.13->1.12.2) Ignoring plugin channel in serverbound REGISTER: EAG|Voice-1.8
+[02:22:24] [Netty Epoll Server IO #3/WARN]: [ViaBackwards] (1.13->1.12.2) Ignoring plugin channel in serverbound REGISTER: EAG|UpdateCert-1.8
+[02:22:24] [Netty Epoll Server IO #3/WARN]: [ViaBackwards] (1.13->1.12.2) Ignoring plugin channel in serverbound REGISTER: EAG|1.8-RPC
+[02:22:24] [Netty Epoll Server IO #3/WARN]: [ViaBackwards] (1.13->1.12.2) Ignoring plugin channel in serverbound REGISTER: EAG|Skins-1.8
+[02:22:24] [Netty Epoll Server IO #3/WARN]: [ViaBackwards] (1.13->1.12.2) Ignoring plugin channel in serverbound REGISTER: EAG|1.8-Ready
+[02:22:24] [Netty Epoll Server IO #3/WARN]: [ViaBackwards] (1.13->1.12.2) Ignoring plugin channel in serverbound REGISTER: EAG|FNAWSEn-1.8
+[02:22:24] [Netty Epoll Server IO #3/WARN]: [ViaBackwards] (1.13->1.12.2) Ignoring plugin channel in serverbound REGISTER: EAG|Capes-1.8
+[02:22:24] [Netty Epoll Server IO #3/WARN]: [ViaBackwards] (1.13->1.12.2) Ignoring serverbound plugin message with channel: EAG|1.8-Ready
+[02:22:25] [Async Chat Thread - #0/INFO]: [Not Secure] <Wemmbu> smt
+[02:22:31] [Async Chat Thread - #0/INFO]: [Not Secure] <Wemmbu> oh hi
+[02:22:37] [Async Chat Thread - #0/INFO]: [Not Secure] <ClownPierce> yooo
+[02:22:40] [Async Chat Thread - #0/INFO]: [Not Secure] <ClownPierce> no way
+[02:22:43] [Async Chat Thread - #0/INFO]: [Not Secure] <Manepear> who is clownpierce?
+[02:22:48] [Async Chat Thread - #0/INFO]: [Not Secure] <ClownPierce> checked it by accident
+[02:22:49] [Async Chat Thread - #0/INFO]: [Not Secure] <Wemmbu> abdullah
+[02:22:52] [Async Chat Thread - #0/INFO]: [Not Secure] <ClownPierce> yea
+[02:22:55] [Async Chat Thread - #0/INFO]: [Not Secure] <Wemmbu> lol
+[02:22:59] [Async Chat Thread - #0/INFO]: [Not Secure] <Wemmbu> \
+[02:23:00] [Async Chat Thread - #0/INFO]: [Not Secure] <Manepear> oh
+[02:23:04] [Async Chat Thread - #0/INFO]: [Not Secure] <ClownPierce> give me some mace stuff
+[02:23:11] [Async Chat Thread - #0/INFO]: [Not Secure] <Wemmbu> wait let me swap skins
+[02:23:13] [Server thread/INFO]: Wemmbu lost connection: Disconnected
+[02:23:13] [Server thread/INFO]: Wemmbu left the game
+[02:23:23] [User Authenticator #1/INFO]: UUID of player Wemmbu is b8e46504-274d-3847-ac77-ed94dbe8064b
+[02:23:23] [Server thread/INFO]: Wemmbu joined the game
+[02:23:23] [Server thread/INFO]: Wemmbu[/127.0.0.1:41494] logged in with entity id 963 at ([world]1.96749610620319, 86.0, 0.6999999880790713)
+[02:23:23] [Netty Epoll Server IO #0/WARN]: [ViaBackwards] (1.13->1.12.2) Ignoring plugin channel in serverbound REGISTER: EAG|GetDomain
+[02:23:23] [Netty Epoll Server IO #0/WARN]: [ViaBackwards] (1.13->1.12.2) Ignoring plugin channel in serverbound REGISTER: EAG|1.8
+[02:23:23] [Netty Epoll Server IO #0/WARN]: [ViaBackwards] (1.13->1.12.2) Ignoring plugin channel in serverbound REGISTER: EAG|Voice-1.8
+[02:23:23] [Netty Epoll Server IO #0/WARN]: [ViaBackwards] (1.13->1.12.2) Ignoring plugin channel in serverbound REGISTER: EAG|UpdateCert-1.8
+[02:23:23] [Netty Epoll Server IO #0/WARN]: [ViaBackwards] (1.13->1.12.2) Ignoring plugin channel in serverbound REGISTER: EAG|1.8-RPC
+[02:23:23] [Netty Epoll Server IO #0/WARN]: [ViaBackwards] (1.13->1.12.2) Ignoring plugin channel in serverbound REGISTER: EAG|Skins-1.8
+[02:23:23] [Netty Epoll Server IO #0/WARN]: [ViaBackwards] (1.13->1.12.2) Ignoring plugin channel in serverbound REGISTER: EAG|1.8-Ready
+[02:23:23] [Netty Epoll Server IO #0/WARN]: [ViaBackwards] (1.13->1.12.2) Ignoring plugin channel in serverbound REGISTER: EAG|FNAWSEn-1.8
+[02:23:23] [Netty Epoll Server IO #0/WARN]: [ViaBackwards] (1.13->1.12.2) Ignoring plugin channel in serverbound REGISTER: EAG|Capes-1.8
+[02:23:23] [Netty Epoll Server IO #0/WARN]: [ViaBackwards] (1.13->1.12.2) Ignoring serverbound plugin message with channel: EAG|1.8-Ready
+[02:23:31] [Async Chat Thread - #0/INFO]: [Not Secure] <Wemmbu> ok what
+[02:23:33] [Async Chat Thread - #1/INFO]: [Not Secure] <ClownPierce> pweas dady some mace stuff
+[02:23:34] [Async Chat Thread - #1/INFO]: [Not Secure] <Manepear> brb rq
+[02:23:34] [Async Chat Thread - #1/INFO]: [Not Secure] <Wemmbu> did u say
+[02:23:37] [Async Chat Thread - #1/INFO]: [Not Secure] <ClownPierce> wind charges
+[02:23:40] [Async Chat Thread - #1/INFO]: [Not Secure] <Wemmbu> lol
+[02:23:42] [Server thread/INFO]: Manepear lost connection: Disconnected
+[02:23:42] [Server thread/INFO]: Manepear left the game
+[02:23:44] [Async Chat Thread - #1/INFO]: [Not Secure] <ClownPierce> both maces
+[02:23:48] [Server thread/INFO]: Wemmbu issued server command: /irp restore
+[02:23:53] [Async Chat Thread - #1/INFO]: [Not Secure] <ClownPierce> armor enchanted apples and perls
+[02:23:56] [Async Chat Thread - #1/INFO]: [Not Secure] <ClownPierce> and water bucket
+[02:23:58] [Server thread/INFO]: Wemmbu issued server command: /irp restore
+[02:24:11] [Async Chat Thread - #1/INFO]: [Not Secure] <Wemmbu> here
+[02:24:16] [Server thread/INFO]: Wemmbu issued server command: /gmc
+[02:24:27] [Async Chat Thread - #1/INFO]: [Not Secure] <ClownPierce> fully enchanted armor right
+[02:24:33] [Async Chat Thread - #1/INFO]: [Not Secure] <Wemmbu> Wait let me finsh eating
+[02:24:35] [Async Chat Thread - #1/INFO]: [Not Secure] <Wemmbu> yes
+[02:24:40] [Async Chat Thread - #1/INFO]: [Not Secure] <ClownPierce> alr
+[02:24:49] [Async Chat Thread - #1/INFO]: [Not Secure] <ClownPierce> you can eat my ahhhhhh if you give
+[02:24:57] [Async Chat Thread - #1/INFO]: [Not Secure] <ClownPierce> turn off rain and make it day time
+[02:25:00] [Async Chat Thread - #1/INFO]: [Not Secure] <Wemmbu> ok
+[02:25:05] [Server thread/INFO]: Wemmbu issued server command: /time 0
+[02:25:17] [Server thread/INFO]: Wemmbu issued server command: /weather sun
+[02:25:44] [Async Chat Thread - #1/INFO]: [Not Secure] <Wemmbu> do u like new server
+[02:25:49] [Async Chat Thread - #1/INFO]: [Not Secure] <ClownPierce> tp
+[02:25:55] [Server thread/INFO]: Wemmbu issued server command: /tpall
+[02:25:59] [Async Chat Thread - #1/INFO]: [Not Secure] <ClownPierce> oooo
+[02:26:03] [Async Chat Thread - #1/INFO]: [Not Secure] <ClownPierce> half a hart
+[02:26:16] [Async Chat Thread - #1/INFO]: [Not Secure] <ClownPierce> yes map rlly nice
+[02:26:31] [Async Chat Thread - #1/INFO]: [Not Secure] <ClownPierce> dont turn off server for a while ima practice
+[02:26:35] [Async Chat Thread - #1/INFO]: [Not Secure] <Wemmbu> k
+[02:26:41] [Async Chat Thread - #1/INFO]: [Not Secure] <ClownPierce> slid stuff dady
+[02:27:08] [User Authenticator #2/INFO]: UUID of player Manepear is 48d5a1b4-fc5f-3b3f-a09a-1f050adee0dc
+[02:27:08] [Server thread/INFO]: Manepear joined the game
+[02:27:08] [Server thread/INFO]: Manepear[/127.0.0.1:40756] logged in with entity id 1406 at ([world]-127.3723083592859, 87.0, -523.8260560870971)
+[02:27:08] [Netty Epoll Server IO #1/WARN]: [ViaBackwards] (1.13->1.12.2) Ignoring plugin channel in serverbound REGISTER: EAG|GetDomain
+[02:27:08] [Netty Epoll Server IO #1/WARN]: [ViaBackwards] (1.13->1.12.2) Ignoring plugin channel in serverbound REGISTER: EAG|1.8
+[02:27:08] [Netty Epoll Server IO #1/WARN]: [ViaBackwards] (1.13->1.12.2) Ignoring plugin channel in serverbound REGISTER: EAG|Voice-1.8
+[02:27:08] [Netty Epoll Server IO #1/WARN]: [ViaBackwards] (1.13->1.12.2) Ignoring plugin channel in serverbound REGISTER: EAG|UpdateCert-1.8
+[02:27:08] [Netty Epoll Server IO #1/WARN]: [ViaBackwards] (1.13->1.12.2) Ignoring plugin channel in serverbound REGISTER: EAG|1.8-RPC
+[02:27:08] [Netty Epoll Server IO #1/WARN]: [ViaBackwards] (1.13->1.12.2) Ignoring plugin channel in serverbound REGISTER: EAG|Skins-1.8
+[02:27:08] [Netty Epoll Server IO #1/WARN]: [ViaBackwards] (1.13->1.12.2) Ignoring plugin channel in serverbound REGISTER: EAG|1.8-Ready
+[02:27:08] [Netty Epoll Server IO #1/WARN]: [ViaBackwards] (1.13->1.12.2) Ignoring plugin channel in serverbound REGISTER: EAG|FNAWSEn-1.8
+[02:27:08] [Netty Epoll Server IO #1/WARN]: [ViaBackwards] (1.13->1.12.2) Ignoring plugin channel in serverbound REGISTER: EAG|Capes-1.8
+[02:27:08] [Netty Epoll Server IO #1/WARN]: [ViaBackwards] (1.13->1.12.2) Ignoring serverbound plugin message with channel: EAG|1.8-Ready
+[02:27:24] [Async Chat Thread - #1/INFO]: [Not Secure] <Wemmbu> bk
+[02:27:27] [Async Chat Thread - #1/INFO]: [Not Secure] <Manepear> so?
+[02:27:29] [Async Chat Thread - #1/INFO]: [Not Secure] <ClownPierce> 817 mps is crazy
+[02:27:49] [Async Chat Thread - #1/INFO]: [Not Secure] <ClownPierce> pants
+[02:27:54] [Server thread/INFO]: ClownPierce has completed the challenge [Cover Me in Debris]
+[02:27:58] [Async Chat Thread - #1/INFO]: [Not Secure] <Manepear> who got obsidiean?
+[02:28:04] [Async Chat Thread - #1/INFO]: [Not Secure] <Wemmbu> no one
+[02:28:07] [Async Chat Thread - #1/INFO]: [Not Secure] <ClownPierce> why can i not get enchanted armor
+[02:28:07] [Async Chat Thread - #1/INFO]: [Not Secure] <Wemmbu> oh yeah
+[02:28:14] [Async Chat Thread - #1/INFO]: [Not Secure] <Manepear> ??????????
+[02:28:16] [Async Chat Thread - #1/INFO]: [Not Secure] <ClownPierce> and potions
+[02:28:18] [Async Chat Thread - #1/INFO]: [Not Secure] <Wemmbu> we got among us in minecraft
+[02:28:25] [Async Chat Thread - #1/INFO]: [Not Secure] <ClownPierce> enchanted appls
+[02:28:29] [Async Chat Thread - #1/INFO]: [Not Secure] <ClownPierce> and perls
+[02:28:43] [Craft Scheduler Thread - 51 - ClearLag/INFO]: [ClearLag] Clearing dropped items and unnecessary entities in 30 seconds!
+[02:29:03] [Craft Scheduler Thread - 53 - ClearLag/INFO]: [ClearLag] Clearing dropped items and unnecessary entities in 10 seconds!
+[02:29:08] [Async Chat Thread - #1/INFO]: [Not Secure] <Wemmbu> give * enderpearl
+[02:29:13] [Craft Scheduler Thread - 54 - ClearLag/INFO]: [ClearLag] All dropped items and unnecessary entities have been cleared!
+[02:29:16] [Async Chat Thread - #1/INFO]: [Not Secure] <Manepear> can i get echest?
+[02:29:21] [Async Chat Thread - #1/INFO]: [Not Secure] <ClownPierce> why can i not eat here
+[02:29:22] [Server thread/INFO]: Wemmbu issued server command: /give * enderpearl
+[02:29:27] [Async Chat Thread - #1/INFO]: [Not Secure] <Wemmbu> pl
+[02:29:32] [Async Chat Thread - #1/INFO]: [Not Secure] <ClownPierce> slide water
+[02:29:47] [Server thread/INFO]: Wemmbu issued server command: /give * water_bucket
+[02:29:51] [Async Chat Thread - #1/INFO]: [Not Secure] <ClownPierce> and bro atully give me enchanted armor
+[02:29:53] [Async Chat Thread - #1/INFO]: [Not Secure] <Wemmbu> ops
+[02:30:13] [Async Chat Thread - #1/INFO]: [Not Secure] <Wemmbu> drop all water
+[02:30:14] [Async Chat Thread - #1/INFO]: [Not Secure] <Manepear> echest pls
+[02:30:17] [Async Chat Thread - #1/INFO]: [Not Secure] <Wemmbu> ok
+[02:30:25] [Server thread/INFO]: Wemmbu issued server command: /give Manepear ender_chest 1
+[02:30:31] [Async Chat Thread - #1/INFO]: [Not Secure] <Manepear> more pls
+[02:30:32] [Server thread/INFO]: Wemmbu issued server command: /
+[02:30:45] [Server thread/INFO]: Wemmbu issued server command: /clear
+[02:30:54] [Async Chat Thread - #1/INFO]: [Not Secure] <Wemmbu> ok
+[02:30:54] [Async Chat Thread - #1/INFO]: [Not Secure] <Manepear> or js obsidean and blase power
+[02:31:00] [Server thread/INFO]: Wemmbu issued server command: /give Manepear ender_chest 10
+[02:31:10] [Server thread/INFO]: Wemmbu issued server command: /clear
+[02:31:18] [Server thread/INFO]: Wemmbu issued server command: /give Wemmbu mace 1
+[02:31:19] [Async Chat Thread - #1/INFO]: [Not Secure] <Manepear> nvm good enough thx
+[02:31:41] [Async Chat Thread - #1/INFO]: [Not Secure] <ClownPierce> w admin
+[02:31:49] [Async Chat Thread - #1/INFO]: [Not Secure] <Wemmbu> k
+[02:31:51] [Async Chat Thread - #1/INFO]: [Not Secure] <Wemmbu> w
+[02:31:59] [Async Chat Thread - #1/INFO]: [Not Secure] <ClownPierce> am stuck
+[02:32:05] [Server thread/INFO]: Wemmbu issued server command: /tpLL
+[02:32:06] [Async Chat Thread - #0/INFO]: [Not Secure] <ClownPierce> help me out....
+[02:32:07] [Async Chat Thread - #1/INFO]: [Not Secure] <Manepear> lost my amour sry
+[02:32:09] [Server thread/INFO]: Wemmbu issued server command: /tpall
+[02:32:28] [Server thread/INFO]: Wemmbu issued server command: /give Wemmbu netherite_sword 1
+[02:32:33] [Server thread/INFO]: Wemmbu issued server command: /enchant sharpness 5
+[02:32:37] [Server thread/INFO]: Wemmbu issued server command: /enchant fireaspect 2
+[02:32:51] [Async Chat Thread - #1/INFO]: [Not Secure] <Manepear> u suck
+[02:32:53] [Async Chat Thread - #1/INFO]: [Not Secure] <ClownPierce> me stuck
+[02:33:11] [Server thread/INFO]: Wemmbu issued server command: /enchant breach 4
+[02:33:13] [Server thread/INFO]: Manepear was slain by ClownPierce
+[02:33:16] [Server thread/INFO]: Wemmbu issued server command: /mv tp flat
+[02:33:19] [Async Chat Thread - #1/INFO]: [Not Secure] <Manepear> ok
+[02:33:20] [Async Chat Thread - #1/INFO]: [Not Secure] <ClownPierce> no life steal?
+[02:33:26] [Async Chat Thread - #1/INFO]: [Not Secure] <ClownPierce> do keep inv
+[02:33:28] [Server thread/INFO]: Wemmbu issued server command: /tpall
+[02:33:33] [Server thread/INFO]: Wemmbu issued server command: /difficulty peaceful
+[02:33:33] [Server thread/INFO]: [Wemmbu: The difficulty has been set to Peaceful]
+[02:33:33] [Async Chat Thread - #1/INFO]: [Not Secure] <ClownPierce> gng
+[02:33:35] [Server thread/INFO]: ClownPierce issued server command: /back
+[02:33:35] [Server thread/INFO]: [Essentials] ClownPierce was denied access to command.
+[02:33:38] [Async Chat Thread - #1/INFO]: [Not Secure] <Manepear> amour pls
+[02:33:43] [Async Chat Thread - #1/INFO]: [Not Secure] <Wemmbu> life steal?:
+[02:33:45] [Server thread/INFO]: Wemmbu issued server command: /pl
+[02:33:49] [Async Chat Thread - #1/INFO]: [Not Secure] <ClownPierce> reuturn us before stuff gets deleted
+[02:33:56] [Async Chat Thread - #1/INFO]: [Not Secure] <ClownPierce> do keep inv btw
+[02:33:57] [Async Chat Thread - #1/INFO]: [Not Secure] <Wemmbu> oh yeah i forgot
+[02:34:01] [Async Chat Thread - #1/INFO]: [Not Secure] <Wemmbu> ok
+[02:34:07] [Server thread/INFO]: Wemmbu issued server command: /gamerule keepInventory true
+[02:34:07] [Server thread/INFO]: [Wemmbu: Gamerule keepInventory is now set to: true]
+[02:34:17] [Server thread/INFO]: Wemmbu issued server command: /up 200
+[02:34:20] [Server thread/INFO]: Wemmbu issued server command: /fly
+[02:34:26] [Server thread/INFO]: Wemmbu issued server command: /up 200
+[02:34:35] [Server thread/INFO]: Wemmbu issued server command: /tpall
+[02:34:39] [Server thread/INFO]: Wemmbu issued server command: /irp restore
+[02:35:10] [Async Chat Thread - #2/INFO]: [Not Secure] <Manepear> wem
+[02:35:21] [Server thread/INFO]: ClownPierce fell from a high place
+[02:35:26] [Server thread/INFO]: Wemmbu issued server command: /tp all
+[02:35:28] [Async Chat Thread - #2/INFO]: [Not Secure] <Wemmbu> idiot
+[02:35:29] [Server thread/INFO]: Wemmbu issued server command: /tpall
+[02:35:31] [Async Chat Thread - #2/INFO]: [Not Secure] <Manepear> lol
+[02:35:33] [Async Chat Thread - #2/INFO]: [Not Secure] <ClownPierce> lol
+[02:35:36] [Async Chat Thread - #2/INFO]: [Not Secure] <Wemmbu> here line up
+[02:35:39] [Server thread/INFO]: Wemmbu issued server command: /gmc
+[02:35:41] [Async Chat Thread - #2/INFO]: [Not Secure] <ClownPierce> pass some stuff
+[02:35:44] [Async Chat Thread - #2/INFO]: [Not Secure] <ClownPierce> keep in
+[02:35:51] [Async Chat Thread - #2/INFO]: [Not Secure] <ClownPierce> keep inv
+[02:35:52] [Server thread/INFO]: Wemmbu issued server command: /enchant protect 4
+[02:35:55] [Server thread/INFO]: Wemmbu issued server command: /enchant protect 4
+[02:35:57] [User Authenticator #3/INFO]: UUID of player Mapicc is 5737a6e7-7872-3412-9b81-880b447c9081
+[02:35:57] [Server thread/INFO]: Mapicc joined the game
+[02:35:57] [Server thread/INFO]: Mapicc[/127.0.0.1:32794] logged in with entity id 3750 at ([world]216.92716223755542, 64.0, 20.641616875182702)
+[02:35:57] [Netty Epoll Server IO #2/WARN]: [ViaBackwards] (1.13->1.12.2) Ignoring plugin channel in serverbound REGISTER: EAG|GetDomain
+[02:35:57] [Netty Epoll Server IO #2/WARN]: [ViaBackwards] (1.13->1.12.2) Ignoring plugin channel in serverbound REGISTER: EAG|1.8
+[02:35:57] [Netty Epoll Server IO #2/WARN]: [ViaBackwards] (1.13->1.12.2) Ignoring plugin channel in serverbound REGISTER: EAG|Voice-1.8
+[02:35:57] [Netty Epoll Server IO #2/WARN]: [ViaBackwards] (1.13->1.12.2) Ignoring plugin channel in serverbound REGISTER: EAG|UpdateCert-1.8
+[02:35:57] [Netty Epoll Server IO #2/WARN]: [ViaBackwards] (1.13->1.12.2) Ignoring plugin channel in serverbound REGISTER: EAG|1.8-RPC
+[02:35:57] [Netty Epoll Server IO #2/WARN]: [ViaBackwards] (1.13->1.12.2) Ignoring plugin channel in serverbound REGISTER: EAG|Skins-1.8
+[02:35:57] [Netty Epoll Server IO #2/WARN]: [ViaBackwards] (1.13->1.12.2) Ignoring plugin channel in serverbound REGISTER: EAG|1.8-Ready
+[02:35:57] [Netty Epoll Server IO #2/WARN]: [ViaBackwards] (1.13->1.12.2) Ignoring plugin channel in serverbound REGISTER: EAG|FNAWSEn-1.8
+[02:35:57] [Netty Epoll Server IO #2/WARN]: [ViaBackwards] (1.13->1.12.2) Ignoring plugin channel in serverbound REGISTER: EAG|Capes-1.8
+[02:35:57] [Netty Epoll Server IO #2/WARN]: [ViaBackwards] (1.13->1.12.2) Ignoring serverbound plugin message with channel: EAG|1.8-Ready
+[02:35:58] [Server thread/INFO]: Wemmbu issued server command: /enchant protect 4
+[02:36:07] [Async Chat Thread - #2/INFO]: [Not Secure] <Manepear> welcome
+[02:36:13] [Async Chat Thread - #3/INFO]: [Not Secure] <Mapicc> can you restore my things
+[02:36:20] [Async Chat Thread - #3/INFO]: [Not Secure] <ClownPierce> return stuff
+[02:36:25] [Server thread/INFO]: Wemmbu issued server command: /give * wind_charge 200
+[02:36:33] [Async Chat Thread - #3/INFO]: [Not Secure] <Manepear> i got nun nigger
+[02:36:58] [Server thread/INFO]: Wemmbu issued server command: /gms
+[02:37:08] [Server thread/INFO]: Wemmbu issued server command: /give Wemmbu mace 1
+[02:37:17] [Server thread/INFO]: Wemmbu issued server command: /enchant windburst 3
+[02:37:22] [Server thread/INFO]: Wemmbu issued server command: /enchant breach 4
+[02:37:31] [Server thread/INFO]: Mapicc was blown up by Creeper
+[02:37:51] [Async Chat Thread - #4/INFO]: [Not Secure] <Mapicc> can you restore my things pls
+[02:37:56] [Async Chat Thread - #4/INFO]: [Not Secure] <Wemmbu> ok
+[02:38:13] [Server thread/INFO]: Wemmbu issued server command: /difficulty hard
+[02:38:13] [Server thread/INFO]: [Wemmbu: The difficulty has been set to Hard]
+[02:38:17] [Async Chat Thread - #4/INFO]: [Not Secure] <Mapicc> along with armor
+[02:38:42] [Async Chat Thread - #4/INFO]: [Not Secure] <ClownPierce> yall lucky i dont got a mouse
+[02:38:43] [Server thread/INFO]: Wemmbu issued server command: /tpall
+[02:38:43] [Craft Scheduler Thread - 100 - ClearLag/INFO]: [ClearLag] Clearing dropped items and unnecessary entities in 30 seconds!
+[02:38:47] [Async Chat Thread - #4/INFO]: [Not Secure] <Wemmbu> lol
+[02:38:47] [Async Chat Thread - #4/INFO]: [Not Secure] <ClownPierce> wait
+[02:38:48] [Async Chat Thread - #4/INFO]: [Not Secure] <Manepear> sure bud
+[02:38:52] [Server thread/INFO]: Mapicc was smashed by Manepear
+[02:38:53] [Async Chat Thread - #4/INFO]: [Not Secure] <ClownPierce> hamzah
+[02:38:56] [Async Chat Thread - #5/INFO]: [Not Secure] <Wemmbu> ?
+[02:38:59] [Server thread/INFO]: Wemmbu issued server command: /tpall
+[02:39:00] [Async Chat Thread - #5/INFO]: [Not Secure] <ClownPierce> give me inf potions
+[02:39:03] [Craft Scheduler Thread - 101 - ClearLag/INFO]: [ClearLag] Clearing dropped items and unnecessary entities in 10 seconds!
+[02:39:05] [Server thread/INFO]: Mapicc was smashed by Manepear
+[02:39:05] [Async Chat Thread - #5/INFO]: [Not Secure] <Wemmbu> ?
+[02:39:06] [Async Chat Thread - #5/INFO]: [Not Secure] <ClownPierce> so i dont havr to splash
+[02:39:09] [Async Chat Thread - #5/INFO]: [Not Secure] <Wemmbu> wdym
+[02:39:13] [Server thread/INFO]: Mapicc was slain by Zombie
+[02:39:13] [Craft Scheduler Thread - 102 - ClearLag/INFO]: [ClearLag] All dropped items and unnecessary entities have been cleared!
+[02:39:17] [Server thread/INFO]: Mapicc was slain by Zombie
+[02:39:20] [Server thread/INFO]: Wemmbu issued server command: /tp Mapicc Wemmbu
+[02:39:22] [Server thread/INFO]: Wemmbu issued server command: /tp Mapicc Wemmbu
+[02:39:23] [Async Chat Thread - #5/INFO]: [Not Secure] <ClownPierce> like how you did last time
+[02:39:23] [Async Chat Thread - #5/INFO]: [Not Secure] <Manepear> me and wem r btter using mace
+[02:39:28] [Server thread/INFO]: Wemmbu issued server command: /heal Mapicc
+[02:39:33] [Async Chat Thread - #5/INFO]: [Not Secure] <Mapicc> gimmw qorld edit
+[02:39:44] [Async Chat Thread - #5/INFO]: [Not Secure] <Wemmbu> like infident effects
+[02:39:51] [Async Chat Thread - #5/INFO]: [Not Secure] <ClownPierce> yea
+[02:39:55] [Async Chat Thread - #5/INFO]: [Not Secure] <Wemmbu> ok
+[02:40:01] [Async Chat Thread - #5/INFO]: [Not Secure] <Mapicc> world ediit
+[02:40:15] [Server thread/INFO]: Wemmbu issued server command: /effect give @a minecraft:strength infinite 3
+[02:40:15] [Server thread/INFO]: [Wemmbu: Applied effect Strength to 4 targets]
+[02:40:22] [Async Chat Thread - #5/INFO]: [Not Secure] <Wemmbu> mapic here
+[02:40:25] [Server thread/INFO]: Wemmbu issued server command: /op Mapicc
+[02:40:25] [Server thread/INFO]: [Wemmbu: Made Mapicc a server operator]
+[02:40:30] [Async Chat Thread - #5/INFO]: [Not Secure] <Mapicc> thanks
+[02:40:31] [Async Chat Thread - #5/INFO]: [Not Secure] <Wemmbu> u have world edit now
+[02:40:35] [Server thread/INFO]: Mapicc issued server command: /gm c
+[02:41:07] [Server thread/INFO]: Mapicc issued server command: /up 1
+[02:41:15] [Server thread/INFO]: Mapicc issued server command: /up 2
+[02:41:31] [Server thread/INFO]: Mapicc issued server command: //set cobblestone_wall
+[02:41:34] [Server thread/INFO]: Wemmbu issued server command: /heal
+[02:41:51] [Server thread/INFO]: ClownPierce has made the advancement [Monster Hunter]
+[02:41:54] [Server thread/INFO]: Wemmbu issued server command: /enchant windburst 2
+[02:42:07] [Server thread/INFO]: Mapicc issued server command: //copy
+[02:42:10] [Server thread/INFO]: Wemmbu issued server command: /enchant density 4
+[02:42:17] [Server thread/INFO]: Wemmbu issued server command: /enchant fireaspect 2
+[02:42:19] [Server thread/INFO]: Mapicc issued server command: //paste
+[02:42:26] [Server thread/INFO]: Mapicc issued server command: //
+[02:42:31] [Server thread/INFO]: Manepear was smashed by Wemmbu
+[02:42:36] [Server thread/INFO]: Wemmbu issued server command: /anvil
+[02:42:39] [Async Chat Thread - #6/INFO]: [Not Secure] <Manepear> tp bk
+[02:42:50] [Server thread/INFO]: Wemmbu issued server command: /tpall
+[02:42:53] [Server thread/INFO]: Mapicc issued server command: //rotate 90
+[02:42:59] [Server thread/INFO]: Manepear was smashed by Wemmbu with [Gambit]
+[02:43:05] [Server thread/INFO]: Mapicc issued server command: //undo
+[02:43:07] [Server thread/INFO]: ClownPierce has made the advancement [Who Needs Rockets?]
+[02:43:10] [Async Chat Thread - #6/INFO]: [Not Secure] <Manepear> i hate sheilds bro
+[02:43:19] [Async Chat Thread - #6/INFO]: [Not Secure] <Wemmbu> use a axe
+[02:43:29] [Async Chat Thread - #6/INFO]: [Not Secure] <Manepear> don't got one
+[02:43:36] [Async Chat Thread - #6/INFO]: [Not Secure] <Manepear> yp
+[02:43:39] [Async Chat Thread - #6/INFO]: [Not Secure] <Manepear> tp
+[02:43:41] [Server thread/INFO]: Wemmbu issued server command: /give * netherite_axe 1
+[02:43:41] [Server thread/INFO]: Mapicc issued server command: //set cobblestone_wall
+[02:43:45] [Server thread/INFO]: Wemmbu was smashed by ClownPierce
+[02:43:49] [Server thread/INFO]: Mapicc issued server command: /tp Manepear Mapicc
+[02:43:51] [Server thread/INFO]: Wemmbu issued server command: /tp ClownPierce
+[02:43:53] [Server thread/INFO]: Wemmbu issued server command: /tpall
+[02:43:57] [Server thread/INFO]: Wemmbu issued server command: /enchant sharpness 5
+[02:44:12] [Server thread/INFO]: ClownPierce was smashed by Wemmbu with [Gambit]
+[02:44:21] [Async Chat Thread - #6/INFO]: [Not Secure] <ClownPierce> make it day time
+[02:44:26] [Server thread/INFO]: Wemmbu issued server command: /tpall
+[02:44:29] [Server thread/INFO]: Mapicc issued server command: //set cobblestone_wall
+[02:44:29] [Server thread/INFO]: Wemmbu issued server command: /time 0
+[02:44:44] [Server thread/INFO]: ClownPierce was smashed by Wemmbu with [Gambit]
+[02:44:48] [Async Chat Thread - #6/INFO]: [Not Secure] <ClownPierce> bro
+[02:44:51] [Server thread/INFO]: Wemmbu issued server command: /tpall
+[02:44:53] [Async Chat Thread - #6/INFO]: [Not Secure] <ClownPierce> that was one hit
+[02:45:01] [Async Chat Thread - #6/INFO]: [Not Secure] <Wemmbu> ?
+[02:45:14] [Server thread/INFO]: ClownPierce has reached the goal [Postmortal]
+[02:45:22] [Server thread/INFO]: Mapicc issued server command: //set cobblestone_wall
+[02:45:33] [Async Chat Thread - #6/INFO]: [Not Secure] <Wemmbu> u dont know atribute swaping
+[02:45:39] [Server thread/INFO]: Manepear was smashed by Wemmbu with [Gambit]
+[02:45:39] [Async Chat Thread - #6/INFO]: [Not Secure] <Manepear> ?
+[02:45:44] [Server thread/INFO]: Mapicc issued server command: /effect give ClownPierce minecraft:speed infinite 255
+[02:45:44] [Server thread/INFO]: [Mapicc: Applied effect Speed to ClownPierce]
+[02:45:46] [Server thread/WARN]: ClownPierce moved too quickly! 13.588453188962745,0.0,15.225619540347225
+[02:45:46] [Server thread/WARN]: ClownPierce moved too quickly! -8.755866980087859,0.0,8.497158724488166
+[02:45:47] [Server thread/WARN]: ClownPierce moved too quickly! -7.15903473096013,0.0,7.274937042491473
+[02:45:52] [Server thread/WARN]: ClownPierce moved too quickly! -5.3923671375103055,0.0,8.736247761701492
+[02:45:52] [Server thread/WARN]: ClownPierce moved too quickly! -9.42937634176554,0.0,-4.153994596653817
+[02:45:53] [Server thread/WARN]: ClownPierce moved too quickly! 5.392367137510298,0.0,-8.736247761701492
+[02:45:58] [Server thread/WARN]: ClownPierce moved too quickly! -11.063888604791629,0.0,-6.871851989756749
+[02:45:59] [Server thread/WARN]: ClownPierce moved too quickly! -5.570234794384426,0.0,8.626196502977493
+[02:45:59] [Async Chat Thread - #6/INFO]: [Not Secure] <Wemmbu> its when u swap a wep right before u hit someone
+[02:46:02] [Server thread/WARN]: ClownPierce moved too quickly! 3.821239429162503,0.0,9.392295102288088
+[02:46:03] [Server thread/WARN]: ClownPierce moved too quickly! -2.53271184311987,0.0,-9.949120944890055
+[02:46:04] [Server thread/INFO]: Wemmbu issued server command: /tpall
+[02:46:08] [Server thread/WARN]: ClownPierce moved too quickly! 4.882803292972326,0.0,9.569436921293416
+[02:46:08] [Server thread/WARN]: ClownPierce moved too quickly! 5.10321703110985,0.0,8.811773903244799
+[02:46:11] [Async Chat Thread - #6/INFO]: [Not Secure] <Manepear> nope
+[02:46:12] [Async Chat Thread - #6/INFO]: [Not Secure] <Wemmbu> s\
+[02:46:14] [Server thread/WARN]: ClownPierce moved too quickly! -9.014724698736188,0.0,-4.778834918118891
+[02:46:17] [Async Chat Thread - #6/INFO]: [Not Secure] <ClownPierce> bro speed
+[02:46:18] [Server thread/INFO]: Wemmbu issued server command: /effect clear @a
+[02:46:18] [Server thread/INFO]: [Wemmbu: Removed every effect from 4 targets]
+[02:46:19] [Server thread/INFO]: Wemmbu issued server command: /tpall
+[02:46:25] [Async Chat Thread - #6/INFO]: [Not Secure] <Wemmbu> Mapicc i saw dat
+[02:46:28] [Server thread/INFO]: ClownPierce fell from a high place
+[02:46:32] [Async Chat Thread - #6/INFO]: [Not Secure] <ClownPierce> gng
+[02:46:37] [Server thread/INFO]: Mapicc issued server command: /effect give Manepear minecraft:slow_falling 5 255
+[02:46:37] [Server thread/INFO]: [Mapicc: Applied effect Slow Falling to Manepear]
+[02:46:39] [Server thread/INFO]: Wemmbu issued server command: /tpall
+[02:46:48] [Async Chat Thread - #6/INFO]: [Not Secure] <Mapicc> ok back to work
+[02:46:51] [Async Chat Thread - #7/INFO]: [Not Secure] <Wemmbu> slow fall is crazy
+[02:46:57] [Async Chat Thread - #7/INFO]: [Not Secure] <Mapicc> lol
+[02:47:16] [Server thread/INFO]: Manepear was smashed by Wemmbu with [Gambit]
+[02:47:43] [Server thread/INFO]: Mapicc issued server command: /up 10
+[02:47:48] [Server thread/INFO]: Mapicc issued server command: //set sand
+[02:47:52] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3258ms or 65 ticks behind
+[02:48:00] [Async Chat Thread - #8/INFO]: [Not Secure] <Mapicc> mb
+[02:48:03] [Server thread/INFO]: ClownPierce lost connection: Disconnected
+[02:48:03] [Server thread/INFO]: ClownPierce left the game
+[02:48:03] [Server thread/INFO]: Mapicc lost connection: Disconnected
+[02:48:03] [Server thread/INFO]: Mapicc left the game
+[02:48:05] [Server thread/INFO]: Wemmbu lost connection: Disconnected
+[02:48:05] [Server thread/INFO]: Wemmbu left the game
+[02:48:05] [Server thread/INFO]: Manepear lost connection: Disconnected
+[02:48:05] [Server thread/INFO]: Manepear left the game
+[02:48:35] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 28723ms or 574 ticks behind
+[02:48:57] [User Authenticator #4/INFO]: UUID of player Wemmbu is b8e46504-274d-3847-ac77-ed94dbe8064b
+[02:48:57] [Server thread/INFO]: Wemmbu joined the game
+[02:48:57] [Server thread/INFO]: Wemmbu[/127.0.0.1:49498] logged in with entity id 125159 at ([flat]42.345505499020845, -60.0, 68.69999998807907)
+[02:48:57] [Netty Epoll Server IO #3/WARN]: [ViaBackwards] (1.13->1.12.2) Ignoring plugin channel in serverbound REGISTER: EAG|GetDomain
+[02:48:57] [Netty Epoll Server IO #3/WARN]: [ViaBackwards] (1.13->1.12.2) Ignoring plugin channel in serverbound REGISTER: EAG|1.8
+[02:48:57] [Netty Epoll Server IO #3/WARN]: [ViaBackwards] (1.13->1.12.2) Ignoring plugin channel in serverbound REGISTER: EAG|Voice-1.8
+[02:48:57] [Netty Epoll Server IO #3/WARN]: [ViaBackwards] (1.13->1.12.2) Ignoring plugin channel in serverbound REGISTER: EAG|UpdateCert-1.8
+[02:48:57] [Netty Epoll Server IO #3/WARN]: [ViaBackwards] (1.13->1.12.2) Ignoring plugin channel in serverbound REGISTER: EAG|1.8-RPC
+[02:48:57] [Netty Epoll Server IO #3/WARN]: [ViaBackwards] (1.13->1.12.2) Ignoring plugin channel in serverbound REGISTER: EAG|Skins-1.8
+[02:48:57] [Netty Epoll Server IO #3/WARN]: [ViaBackwards] (1.13->1.12.2) Ignoring plugin channel in serverbound REGISTER: EAG|1.8-Ready
+[02:48:57] [Netty Epoll Server IO #3/WARN]: [ViaBackwards] (1.13->1.12.2) Ignoring plugin channel in serverbound REGISTER: EAG|FNAWSEn-1.8
+[02:48:57] [Netty Epoll Server IO #3/WARN]: [ViaBackwards] (1.13->1.12.2) Ignoring plugin channel in serverbound REGISTER: EAG|Capes-1.8
+[02:48:57] [Netty Epoll Server IO #3/WARN]: [ViaBackwards] (1.13->1.12.2) Ignoring serverbound plugin message with channel: EAG|1.8-Ready
+[02:49:00] [Server thread/INFO]: Wemmbu issued server command: /heal
+[02:49:05] [Server thread/INFO]: Wemmbu issued server command: /asc
+[02:49:15] [Craft Scheduler Thread - 149 - ClearLag/INFO]: [ClearLag] Clearing dropped items and unnecessary entities in 30 seconds!
+[02:49:21] [Server thread/INFO]: Wemmbu issued server command: /gmc
+[02:49:33] [User Authenticator #4/INFO]: UUID of player ClownPierce is c86e95bc-1ca0-30ec-b497-2ff0db9e2187
+[02:49:33] [Server thread/INFO]: ClownPierce joined the game
+[02:49:33] [Server thread/INFO]: ClownPierce[/127.0.0.1:50004] logged in with entity id 125256 at ([flat]46.51694874724054, 39.094567647522716, 71.69999998807907)
+[02:49:33] [Netty Epoll Server IO #0/WARN]: [ViaBackwards] (1.13->1.12.2) Ignoring plugin channel in serverbound REGISTER: EAG|GetDomain
+[02:49:33] [Netty Epoll Server IO #0/WARN]: [ViaBackwards] (1.13->1.12.2) Ignoring plugin channel in serverbound REGISTER: EAG|1.8
+[02:49:33] [Netty Epoll Server IO #0/WARN]: [ViaBackwards] (1.13->1.12.2) Ignoring plugin channel in serverbound REGISTER: EAG|Voice-1.8
+[02:49:33] [Netty Epoll Server IO #0/WARN]: [ViaBackwards] (1.13->1.12.2) Ignoring plugin channel in serverbound REGISTER: EAG|UpdateCert-1.8
+[02:49:33] [Netty Epoll Server IO #0/WARN]: [ViaBackwards] (1.13->1.12.2) Ignoring plugin channel in serverbound REGISTER: EAG|1.8-RPC
+[02:49:33] [Netty Epoll Server IO #0/WARN]: [ViaBackwards] (1.13->1.12.2) Ignoring plugin channel in serverbound REGISTER: EAG|Skins-1.8
+[02:49:33] [Netty Epoll Server IO #0/WARN]: [ViaBackwards] (1.13->1.12.2) Ignoring plugin channel in serverbound REGISTER: EAG|1.8-Ready
+[02:49:33] [Netty Epoll Server IO #0/WARN]: [ViaBackwards] (1.13->1.12.2) Ignoring plugin channel in serverbound REGISTER: EAG|FNAWSEn-1.8
+[02:49:33] [Netty Epoll Server IO #0/WARN]: [ViaBackwards] (1.13->1.12.2) Ignoring plugin channel in serverbound REGISTER: EAG|Capes-1.8
+[02:49:33] [Netty Epoll Server IO #0/WARN]: [ViaBackwards] (1.13->1.12.2) Ignoring serverbound plugin message with channel: EAG|1.8-Ready
+[02:49:35] [Craft Scheduler Thread - 153 - ClearLag/INFO]: [ClearLag] Clearing dropped items and unnecessary entities in 10 seconds!
+[02:49:38] [Async Chat Thread - #10/INFO]: [Not Secure] <Wemmbu> THIS DUM ASS
+[02:49:44] [Server thread/INFO]: Wemmbu issued server command: /tpall
+[02:49:45] [Craft Scheduler Thread - 154 - ClearLag/INFO]: [ClearLag] All dropped items and unnecessary entities have been cleared!
+[02:50:05] [Async Chat Thread - #10/INFO]: [Not Secure] <Wemmbu> mapic set everything to sand
+[02:50:15] [Server thread/INFO]: Wemmbu issued server command: /tpall
+[02:50:15] [User Authenticator #4/INFO]: UUID of player Mapicc is 5737a6e7-7872-3412-9b81-880b447c9081
+[02:50:15] [Server thread/INFO]: Mapicc joined the game
+[02:50:15] [Server thread/INFO]: Mapicc[/127.0.0.1:38098] logged in with entity id 125327 at ([flat]91.5012472252056, 50.0, 85.13431278894991)
+[02:50:15] [Netty Epoll Server IO #1/WARN]: [ViaBackwards] (1.13->1.12.2) Ignoring plugin channel in serverbound REGISTER: EAG|GetDomain
+[02:50:15] [Netty Epoll Server IO #1/WARN]: [ViaBackwards] (1.13->1.12.2) Ignoring plugin channel in serverbound REGISTER: EAG|1.8
+[02:50:15] [Netty Epoll Server IO #1/WARN]: [ViaBackwards] (1.13->1.12.2) Ignoring plugin channel in serverbound REGISTER: EAG|Voice-1.8
+[02:50:15] [Netty Epoll Server IO #1/WARN]: [ViaBackwards] (1.13->1.12.2) Ignoring plugin channel in serverbound REGISTER: EAG|UpdateCert-1.8
+[02:50:15] [Netty Epoll Server IO #1/WARN]: [ViaBackwards] (1.13->1.12.2) Ignoring plugin channel in serverbound REGISTER: EAG|1.8-RPC
+[02:50:15] [Netty Epoll Server IO #1/WARN]: [ViaBackwards] (1.13->1.12.2) Ignoring plugin channel in serverbound REGISTER: EAG|Skins-1.8
+[02:50:15] [Netty Epoll Server IO #1/WARN]: [ViaBackwards] (1.13->1.12.2) Ignoring plugin channel in serverbound REGISTER: EAG|1.8-Ready
+[02:50:15] [Netty Epoll Server IO #1/WARN]: [ViaBackwards] (1.13->1.12.2) Ignoring plugin channel in serverbound REGISTER: EAG|FNAWSEn-1.8
+[02:50:15] [Netty Epoll Server IO #1/WARN]: [ViaBackwards] (1.13->1.12.2) Ignoring plugin channel in serverbound REGISTER: EAG|Capes-1.8
+[02:50:15] [Netty Epoll Server IO #1/WARN]: [ViaBackwards] (1.13->1.12.2) Ignoring serverbound plugin message with channel: EAG|1.8-Ready
+[02:50:18] [Async Chat Thread - #10/INFO]: [Not Secure] <ClownPierce> see
+[02:50:23] [Async Chat Thread - #10/INFO]: [Not Secure] <Mapicc> mb
+[02:50:26] [Async Chat Thread - #10/INFO]: [Not Secure] <Mapicc> sry
+[02:50:32] [Async Chat Thread - #11/INFO]: [Not Secure] <Wemmbu> do /undo
+[02:50:37] [Async Chat Thread - #11/INFO]: [Not Secure] <ClownPierce> why he opp?
+[02:50:41] [Async Chat Thread - #11/INFO]: [Not Secure] <Mapicc> i did
+[02:50:47] [Async Chat Thread - #11/INFO]: [Not Secure] <Wemmbu> bruh
+[02:51:06] [Async Chat Thread - #10/INFO]: [Not Secure] <Wemmbu> give Wemmbu wooden_axe 1
+[02:51:14] [Server thread/INFO]: Wemmbu issued server command: /give Wemmbu wooden_axe 1
+[02:51:17] [Server thread/INFO]: Mapicc issued server command: //set grass_block
+[02:51:23] [Async Chat Thread - #10/INFO]: [Not Secure] <Mapicc> ficed
+[02:51:34] [Server thread/INFO]: Wemmbu issued server command: //set air
+[02:51:46] [Server thread/INFO]: Mapicc issued server command: //center
+[02:52:11] [Async Chat Thread - #10/INFO]: [Not Secure] <Wemmbu> i fixed
+[02:52:15] [Server thread/INFO]: Wemmbu issued server command: //set air
+[02:52:22] [Server thread/INFO]: Mapicc issued server command: //center
+[02:52:38] [Server thread/INFO]: Mapicc lost connection: Disconnected
+[02:52:38] [Server thread/INFO]: Mapicc left the game
+[02:52:40] [Server thread/INFO]: Wemmbu issued server command: //set air
+[02:53:01] [Server thread/INFO]: Wemmbu issued server command: //pos 1
+[02:53:04] [Server thread/INFO]: Wemmbu issued server command: //pos1
+[02:53:07] [Server thread/INFO]: Wemmbu issued server command: //set air
+[02:53:13] [Server thread/INFO]: ClownPierce was slain by Zombie
+[02:53:19] [Server thread/INFO]: Wemmbu issued server command: /difficulty peaceful
+[02:53:19] [Server thread/INFO]: [Wemmbu: The difficulty has been set to Peaceful]
+[02:53:20] [Async Chat Thread - #12/INFO]: [Not Secure] <ClownPierce> gng
+[02:53:33] [Server thread/INFO]: Wemmbu issued server command: //set air
+[02:53:52] [Server thread/INFO]: Wemmbu issued server command: /tpall
+[02:54:04] [Server thread/INFO]: Wemmbu issued server command: /gms
+[02:54:31] [Async Chat Thread - #14/INFO]: [Not Secure] <ClownPierce> wait
+[02:54:39] [Async Chat Thread - #14/INFO]: [Not Secure] <ClownPierce> how you have fire on mace
+[02:54:43] [Server thread/INFO]: Wemmbu issued server command: /give Wemmbu fishing_rod 1
+[02:54:48] [Async Chat Thread - #14/INFO]: [Not Secure] <Wemmbu> fire aspect
+[02:54:57] [Async Chat Thread - #14/INFO]: [Not Secure] <ClownPierce> yea
+[02:54:59] [Async Chat Thread - #14/INFO]: [Not Secure] <ClownPierce> on mace
+[02:55:03] [Async Chat Thread - #14/INFO]: [Not Secure] <Wemmbu> yes
+[02:55:06] [Async Chat Thread - #14/INFO]: [Not Secure] <Wemmbu> u can do tht
+[02:55:27] [User Authenticator #5/INFO]: UUID of player Mapicc is 5737a6e7-7872-3412-9b81-880b447c9081
+[02:55:27] [Server thread/INFO]: Mapicc joined the game
+[02:55:27] [Server thread/INFO]: Mapicc[/127.0.0.1:51820] logged in with entity id 125978 at ([flat]90.31058943788796, 40.0, -11.797440751644551)
+[02:55:27] [Netty Epoll Server IO #2/WARN]: [ViaBackwards] (1.13->1.12.2) Ignoring plugin channel in serverbound REGISTER: EAG|GetDomain
+[02:55:27] [Netty Epoll Server IO #2/WARN]: [ViaBackwards] (1.13->1.12.2) Ignoring plugin channel in serverbound REGISTER: EAG|1.8
+[02:55:27] [Netty Epoll Server IO #2/WARN]: [ViaBackwards] (1.13->1.12.2) Ignoring plugin channel in serverbound REGISTER: EAG|Voice-1.8
+[02:55:27] [Netty Epoll Server IO #2/WARN]: [ViaBackwards] (1.13->1.12.2) Ignoring plugin channel in serverbound REGISTER: EAG|UpdateCert-1.8
+[02:55:27] [Netty Epoll Server IO #2/WARN]: [ViaBackwards] (1.13->1.12.2) Ignoring plugin channel in serverbound REGISTER: EAG|1.8-RPC
+[02:55:27] [Netty Epoll Server IO #2/WARN]: [ViaBackwards] (1.13->1.12.2) Ignoring plugin channel in serverbound REGISTER: EAG|Skins-1.8
+[02:55:27] [Netty Epoll Server IO #2/WARN]: [ViaBackwards] (1.13->1.12.2) Ignoring plugin channel in serverbound REGISTER: EAG|1.8-Ready
+[02:55:27] [Netty Epoll Server IO #2/WARN]: [ViaBackwards] (1.13->1.12.2) Ignoring plugin channel in serverbound REGISTER: EAG|FNAWSEn-1.8
+[02:55:27] [Netty Epoll Server IO #2/WARN]: [ViaBackwards] (1.13->1.12.2) Ignoring plugin channel in serverbound REGISTER: EAG|Capes-1.8
+[02:55:27] [Netty Epoll Server IO #2/WARN]: [ViaBackwards] (1.13->1.12.2) Ignoring serverbound plugin message with channel: EAG|1.8-Ready
+[02:55:30] [Server thread/INFO]: Wemmbu issued server command: /tpall
+[02:55:30] [Server thread/WARN]: Mapicc moved too quickly! -35.810589437887955,0.0,25.29744075164455
+[02:55:38] [Async Chat Thread - #14/INFO]: [Not Secure] <Mapicc> my game crasged
+[02:55:39] [Server thread/INFO]: ClownPierce was smashed by Wemmbu with [Gambit]
+[02:55:43] [Async Chat Thread - #14/INFO]: [Not Secure] <Wemmbu> DAYM
+[02:55:48] [Server thread/INFO]: Mapicc issued server command: /gm s
+[02:55:51] [Async Chat Thread - #14/INFO]: [Not Secure] <Wemmbu> yeah we know
+[02:55:54] [Server thread/INFO]: Wemmbu issued server command: /
+[02:55:57] [Server thread/INFO]: Mapicc issued server command: /gm c
+[02:56:02] [Server thread/INFO]: Wemmbu issued server command: /tpall
+[02:56:03] [Server thread/INFO]: Mapicc issued server command: /m 2
+[02:56:04] [Async Chat Thread - #14/INFO]: [Not Secure] <ClownPierce> tp me back
+[02:56:06] [Async Chat Thread - #14/INFO]: [Not Secure] <Wemmbu> BRB
+[02:56:10] [Server thread/INFO]: Mapicc issued server command: /gm 3
+[02:56:11] [Server thread/INFO]: Wemmbu issued server command: /gof
+[02:56:14] [Server thread/INFO]: Wemmbu issued server command: /god
+[02:56:27] [Async Chat Thread - #14/INFO]: [Not Secure] <ClownPierce> can i get opp?
+[02:56:37] [Server thread/INFO]: Mapicc issued server command: /control
+[02:56:57] [Server thread/INFO]: Mapicc issued server command: /gmc
+[02:56:58] [Async Chat Thread - #14/INFO]: [Not Secure] <Wemmbu> yo im adam
+[02:57:03] [Async Chat Thread - #14/INFO]: [Not Secure] <ClownPierce> nice
+[02:57:10] [Async Chat Thread - #14/INFO]: [Not Secure] <ClownPierce> can i get app tho
+[02:57:12] [Server thread/INFO]: Mapicc issued server command: /gm 3
+[02:57:12] [Async Chat Thread - #14/INFO]: [Not Secure] <Wemmbu> nice?...
+[02:57:18] [Async Chat Thread - #14/INFO]: [Not Secure] <ClownPierce> wallah iwont do smt stupid
+[02:57:25] [Async Chat Thread - #14/INFO]: [Not Secure] <ClownPierce> hamzah better ngl
+[02:57:26] [Server thread/INFO]: Mapicc issued server command: /tp ClownPierce
+[02:57:38] [Async Chat Thread - #14/INFO]: [Not Secure] <Wemmbu> wdym by app?
+[02:57:41] [Server thread/INFO]: Mapicc issued server command: /kill ClownPierce
+[02:57:41] [Server thread/INFO]: ClownPierce died
+[02:57:46] [Async Chat Thread - #14/INFO]: [Not Secure] <ClownPierce> gng
+[02:57:50] [Async Chat Thread - #14/INFO]: [Not Secure] <Mapicc> hey adam
+[02:57:56] [Server thread/INFO]: Mapicc issued server command: /tp ClownPierce Mapicc
+[02:58:06] [Async Chat Thread - #14/INFO]: [Not Secure] <ClownPierce> pvp
+[02:58:07] [Async Chat Thread - #14/INFO]: [Not Secure] <Wemmbu> yo?
+[02:58:09] [Server thread/INFO]: Mapicc issued server command: /invsee
+[02:58:15] [Async Chat Thread - #14/INFO]: [Not Secure] <ClownPierce> wsp
+[02:58:17] [Async Chat Thread - #14/INFO]: [Not Secure] <Mapicc> what u up to
+[02:58:22] [Server thread/INFO]: Mapicc issued server command: /invsee ClownPierce
+[02:58:25] [Async Chat Thread - #14/INFO]: [Not Secure] <ClownPierce> MY MACE
+[02:58:25] [Async Chat Thread - #14/INFO]: [Not Secure] <Wemmbu> im hamzah now
+[02:58:28] [Async Chat Thread - #14/INFO]: [Not Secure] <ClownPierce> pls dady
+[02:58:30] [Async Chat Thread - #15/INFO]: [Not Secure] <ClownPierce> i need it
+[02:58:35] [Async Chat Thread - #15/INFO]: [Not Secure] <Mapicc> yo wasap
+[02:58:35] [Async Chat Thread - #15/INFO]: [Not Secure] <Wemmbu> wgat
+[02:58:45] [Async Chat Thread - #15/INFO]: [Not Secure] <ClownPierce> pls mace
+[02:58:49] [Async Chat Thread - #15/INFO]: [Not Secure] <Wemmbu> ok
+[02:58:50] [Async Chat Thread - #15/INFO]: [Not Secure] <ClownPierce> i droped it
+[02:58:52] [Server thread/INFO]: Wemmbu issued server command: /gmc
+[02:58:55] [Server thread/INFO]: Mapicc issued server command: /gm c
+[02:58:56] [Server thread/INFO]: Wemmbu issued server command: /gms
+[02:59:10] [Async Chat Thread - #15/INFO]: [Not Secure] <Wemmbu> ovo
+[02:59:13] [Server thread/INFO]: Mapicc issued server command: /up 10
+[02:59:15] [Craft Scheduler Thread - 199 - ClearLag/INFO]: [ClearLag] Clearing dropped items and unnecessary entities in 30 seconds!
+[02:59:18] [Async Chat Thread - #15/INFO]: [Not Secure] <ClownPierce> pvp
+[02:59:21] [Async Chat Thread - #15/INFO]: [Not Secure] <ClownPierce> me and adam
+[02:59:28] [Async Chat Thread - #15/INFO]: [Not Secure] <ClownPierce> dont use mouse i cant use mine
+[02:59:35] [Async Chat Thread - #15/INFO]: [Not Secure] <Wemmbu> adam is eating
+[02:59:35] [Craft Scheduler Thread - 201 - ClearLag/INFO]: [ClearLag] Clearing dropped items and unnecessary entities in 10 seconds!
+[02:59:41] [Async Chat Thread - #15/INFO]: [Not Secure] <ClownPierce> so its adam now
+[02:59:44] [Async Chat Thread - #15/INFO]: [Not Secure] <ClownPierce> hamzah
+[02:59:45] [Craft Scheduler Thread - 202 - ClearLag/INFO]: [ClearLag] All dropped items and unnecessary entities have been cleared!
+[02:59:46] [Server thread/INFO]: Mapicc issued server command: /up 10
+[02:59:47] [Async Chat Thread - #15/INFO]: [Not Secure] <Wemmbu> yeah
+[02:59:57] [Async Chat Thread - #15/INFO]: [Not Secure] <ClownPierce> just told adam i said hamzah is better admin
+[02:59:59] [Async Chat Thread - #15/INFO]: [Not Secure] <ClownPierce> W
+[03:00:07] [Async Chat Thread - #15/INFO]: [Not Secure] <Wemmbu> :/
+[03:00:09] [Async Chat Thread - #15/INFO]: [Not Secure] <Wemmbu> lol
+[03:00:16] [Async Chat Thread - #15/INFO]: [Not Secure] <Wemmbu> ok what do u want
+[03:00:31] [Async Chat Thread - #15/INFO]: [Not Secure] <ClownPierce> wait
+[03:00:38] [Async Chat Thread - #15/INFO]: [Not Secure] <Wemmbu> ok
+[03:00:41] [Async Chat Thread - #15/INFO]: [Not Secure] <ClownPierce> fix the fire
+[03:00:42] [Async Chat Thread - #15/INFO]: [Not Secure] <ClownPierce> thing
+[03:00:48] [Async Chat Thread - #15/INFO]: [Not Secure] <Wemmbu> oh yeah ok
+[03:00:49] [Async Chat Thread - #15/INFO]: [Not Secure] <ClownPierce> it takes 3/4 of my screen
+[03:00:53] [Async Chat Thread - #15/INFO]: [Not Secure] <ClownPierce> like now
+[03:02:10] [Server thread/INFO]: Wemmbu was kicked due to keepalive timeout!
+[03:02:10] [Server thread/INFO]: Wemmbu lost connection: Timed out
+[03:02:10] [Server thread/INFO]: Wemmbu left the game
+[03:02:12] [User Authenticator #6/INFO]: UUID of player Wemmbu is b8e46504-274d-3847-ac77-ed94dbe8064b
+[03:02:12] [Server thread/INFO]: Wemmbu joined the game
+[03:02:12] [Server thread/INFO]: Wemmbu[/127.0.0.1:49186] logged in with entity id 126042 at ([flat]89.18194628484567, 40.0, 33.10500469143875)
+[03:02:12] [Netty Epoll Server IO #3/WARN]: [ViaBackwards] (1.13->1.12.2) Ignoring plugin channel in serverbound REGISTER: EAG|GetDomain
+[03:02:12] [Netty Epoll Server IO #3/WARN]: [ViaBackwards] (1.13->1.12.2) Ignoring plugin channel in serverbound REGISTER: EAG|1.8
+[03:02:12] [Netty Epoll Server IO #3/WARN]: [ViaBackwards] (1.13->1.12.2) Ignoring plugin channel in serverbound REGISTER: EAG|Voice-1.8
+[03:02:12] [Netty Epoll Server IO #3/WARN]: [ViaBackwards] (1.13->1.12.2) Ignoring plugin channel in serverbound REGISTER: EAG|UpdateCert-1.8
+[03:02:12] [Netty Epoll Server IO #3/WARN]: [ViaBackwards] (1.13->1.12.2) Ignoring plugin channel in serverbound REGISTER: EAG|1.8-RPC
+[03:02:12] [Netty Epoll Server IO #3/WARN]: [ViaBackwards] (1.13->1.12.2) Ignoring plugin channel in serverbound REGISTER: EAG|Skins-1.8
+[03:02:12] [Netty Epoll Server IO #3/WARN]: [ViaBackwards] (1.13->1.12.2) Ignoring plugin channel in serverbound REGISTER: EAG|1.8-Ready
+[03:02:12] [Netty Epoll Server IO #3/WARN]: [ViaBackwards] (1.13->1.12.2) Ignoring plugin channel in serverbound REGISTER: EAG|FNAWSEn-1.8
+[03:02:12] [Netty Epoll Server IO #3/WARN]: [ViaBackwards] (1.13->1.12.2) Ignoring plugin channel in serverbound REGISTER: EAG|Capes-1.8
+[03:02:12] [Netty Epoll Server IO #3/WARN]: [ViaBackwards] (1.13->1.12.2) Ignoring serverbound plugin message with channel: EAG|1.8-Ready
+[03:02:25] [Async Chat Thread - #16/INFO]: [Not Secure] <Wemmbu> here
+[03:02:28] [Async Chat Thread - #16/INFO]: [Not Secure] <Wemmbu> https://drive.google.com/file/d/1n-EeV4Aifr0Tz8vZ3kS87UTZ2foZ--le/view?usp=sharing
+[03:02:31] [Async Chat Thread - #16/INFO]: [Not Secure] <Wemmbu> download
+[03:02:33] [Async Chat Thread - #16/INFO]: [Not Secure] <ClownPierce> huh
+[03:02:38] [Async Chat Thread - #16/INFO]: [Not Secure] <ClownPierce> how
+[03:02:42] [Server thread/INFO]: Mapicc issued server command: /
+[03:02:43] [Async Chat Thread - #16/INFO]: [Not Secure] <ClownPierce> put it in doc
+[03:03:15] [Server thread/INFO]: Wemmbu lost connection: Timed out
+[03:03:15] [Server thread/INFO]: Wemmbu left the game
+[03:03:41] [Server thread/INFO]: ClownPierce lost connection: Disconnected
+[03:03:41] [Server thread/INFO]: ClownPierce left the game
+[03:03:42] [User Authenticator #7/INFO]: UUID of player Wemmbu is b8e46504-274d-3847-ac77-ed94dbe8064b
+[03:03:42] [Server thread/INFO]: Wemmbu joined the game
+[03:03:42] [Server thread/INFO]: Wemmbu[/127.0.0.1:48960] logged in with entity id 126056 at ([flat]44.71575907642333, 40.0, 69.58073630293495)
+[03:03:42] [Netty Epoll Server IO #0/WARN]: [ViaBackwards] (1.13->1.12.2) Ignoring plugin channel in serverbound REGISTER: EAG|GetDomain
+[03:03:42] [Netty Epoll Server IO #0/WARN]: [ViaBackwards] (1.13->1.12.2) Ignoring plugin channel in serverbound REGISTER: EAG|1.8
+[03:03:42] [Netty Epoll Server IO #0/WARN]: [ViaBackwards] (1.13->1.12.2) Ignoring plugin channel in serverbound REGISTER: EAG|Voice-1.8
+[03:03:42] [Netty Epoll Server IO #0/WARN]: [ViaBackwards] (1.13->1.12.2) Ignoring plugin channel in serverbound REGISTER: EAG|UpdateCert-1.8
+[03:03:42] [Netty Epoll Server IO #0/WARN]: [ViaBackwards] (1.13->1.12.2) Ignoring plugin channel in serverbound REGISTER: EAG|1.8-RPC
+[03:03:42] [Netty Epoll Server IO #0/WARN]: [ViaBackwards] (1.13->1.12.2) Ignoring plugin channel in serverbound REGISTER: EAG|Skins-1.8
+[03:03:42] [Netty Epoll Server IO #0/WARN]: [ViaBackwards] (1.13->1.12.2) Ignoring plugin channel in serverbound REGISTER: EAG|1.8-Ready
+[03:03:42] [Netty Epoll Server IO #0/WARN]: [ViaBackwards] (1.13->1.12.2) Ignoring plugin channel in serverbound REGISTER: EAG|FNAWSEn-1.8
+[03:03:42] [Netty Epoll Server IO #0/WARN]: [ViaBackwards] (1.13->1.12.2) Ignoring plugin channel in serverbound REGISTER: EAG|Capes-1.8
+[03:03:42] [Netty Epoll Server IO #0/WARN]: [ViaBackwards] (1.13->1.12.2) Ignoring serverbound plugin message with channel: EAG|1.8-Ready
+[03:03:44] [Async Chat Thread - #18/INFO]: [Not Secure] <Wemmbu> bk
+[03:03:58] [Async Chat Thread - #18/INFO]: [Not Secure] <Wemmbu> so il put on docs ok
+[03:04:12] [Async Chat Thread - #18/INFO]: [Not Secure] <Wemmbu> ?
+[03:04:54] [Server thread/INFO]: Wemmbu lost connection: Timed out
+[03:04:54] [Server thread/INFO]: Wemmbu left the game
+[03:05:41] [User Authenticator #8/INFO]: UUID of player Wemmbu is b8e46504-274d-3847-ac77-ed94dbe8064b
+[03:05:41] [Server thread/INFO]: Wemmbu joined the game
+[03:05:41] [Server thread/INFO]: Wemmbu[/127.0.0.1:51512] logged in with entity id 126057 at ([flat]44.71575907642333, 40.0, 69.58073630293495)
+[03:05:41] [Netty Epoll Server IO #1/WARN]: [ViaBackwards] (1.13->1.12.2) Ignoring plugin channel in serverbound REGISTER: EAG|GetDomain
+[03:05:41] [Netty Epoll Server IO #1/WARN]: [ViaBackwards] (1.13->1.12.2) Ignoring plugin channel in serverbound REGISTER: EAG|1.8
+[03:05:41] [Netty Epoll Server IO #1/WARN]: [ViaBackwards] (1.13->1.12.2) Ignoring plugin channel in serverbound REGISTER: EAG|Voice-1.8
+[03:05:41] [Netty Epoll Server IO #1/WARN]: [ViaBackwards] (1.13->1.12.2) Ignoring plugin channel in serverbound REGISTER: EAG|UpdateCert-1.8
+[03:05:41] [Netty Epoll Server IO #1/WARN]: [ViaBackwards] (1.13->1.12.2) Ignoring plugin channel in serverbound REGISTER: EAG|1.8-RPC
+[03:05:41] [Netty Epoll Server IO #1/WARN]: [ViaBackwards] (1.13->1.12.2) Ignoring plugin channel in serverbound REGISTER: EAG|Skins-1.8
+[03:05:41] [Netty Epoll Server IO #1/WARN]: [ViaBackwards] (1.13->1.12.2) Ignoring plugin channel in serverbound REGISTER: EAG|1.8-Ready
+[03:05:41] [Netty Epoll Server IO #1/WARN]: [ViaBackwards] (1.13->1.12.2) Ignoring plugin channel in serverbound REGISTER: EAG|FNAWSEn-1.8
+[03:05:41] [Netty Epoll Server IO #1/WARN]: [ViaBackwards] (1.13->1.12.2) Ignoring plugin channel in serverbound REGISTER: EAG|Capes-1.8
+[03:05:41] [Netty Epoll Server IO #1/WARN]: [ViaBackwards] (1.13->1.12.2) Ignoring serverbound plugin message with channel: EAG|1.8-Ready
+[03:05:45] [User Authenticator #8/INFO]: UUID of player ClownPierce is c86e95bc-1ca0-30ec-b497-2ff0db9e2187
+[03:05:45] [Server thread/INFO]: ClownPierce joined the game
+[03:05:45] [Server thread/INFO]: ClownPierce[/127.0.0.1:39044] logged in with entity id 126058 at ([flat]45.497503024124846, 40.0, 61.94017367077275)
+[03:05:45] [Netty Epoll Server IO #2/WARN]: [ViaBackwards] (1.13->1.12.2) Ignoring plugin channel in serverbound REGISTER: EAG|GetDomain
+[03:05:45] [Netty Epoll Server IO #2/WARN]: [ViaBackwards] (1.13->1.12.2) Ignoring plugin channel in serverbound REGISTER: EAG|1.8
+[03:05:45] [Netty Epoll Server IO #2/WARN]: [ViaBackwards] (1.13->1.12.2) Ignoring plugin channel in serverbound REGISTER: EAG|Voice-1.8
+[03:05:45] [Netty Epoll Server IO #2/WARN]: [ViaBackwards] (1.13->1.12.2) Ignoring plugin channel in serverbound REGISTER: EAG|UpdateCert-1.8
+[03:05:45] [Netty Epoll Server IO #2/WARN]: [ViaBackwards] (1.13->1.12.2) Ignoring plugin channel in serverbound REGISTER: EAG|1.8-RPC
+[03:05:45] [Netty Epoll Server IO #2/WARN]: [ViaBackwards] (1.13->1.12.2) Ignoring plugin channel in serverbound REGISTER: EAG|Skins-1.8
+[03:05:45] [Netty Epoll Server IO #2/WARN]: [ViaBackwards] (1.13->1.12.2) Ignoring plugin channel in serverbound REGISTER: EAG|1.8-Ready
+[03:05:45] [Netty Epoll Server IO #2/WARN]: [ViaBackwards] (1.13->1.12.2) Ignoring plugin channel in serverbound REGISTER: EAG|FNAWSEn-1.8
+[03:05:45] [Netty Epoll Server IO #2/WARN]: [ViaBackwards] (1.13->1.12.2) Ignoring plugin channel in serverbound REGISTER: EAG|Capes-1.8
+[03:05:45] [Netty Epoll Server IO #2/WARN]: [ViaBackwards] (1.13->1.12.2) Ignoring serverbound plugin message with channel: EAG|1.8-Ready
+[03:05:59] [Async Chat Thread - #20/INFO]: [Not Secure] <ClownPierce> yo
+[03:06:04] [Async Chat Thread - #20/INFO]: [Not Secure] <ClownPierce> i downloaded it
+[03:06:06] [Async Chat Thread - #20/INFO]: [Not Secure] <ClownPierce> now what
+[03:06:26] [Server thread/INFO]: Mapicc issued server command: /timeset 0
+[03:06:30] [Async Chat Thread - #20/INFO]: [Not Secure] <Wemmbu> press esc options resource packs and inport pack then click it
+[03:06:41] [Server thread/INFO]: Mapicc issued server command: /time set night
+[03:06:59] [Async Chat Thread - #20/INFO]: [Not Secure] <ClownPierce> hit me rq
+[03:07:12] [Async Chat Thread - #20/INFO]: [Not Secure] <ClownPierce> its still pretty high
+[03:07:16] [Async Chat Thread - #20/INFO]: [Not Secure] <Wemmbu> is it
+[03:07:20] [Async Chat Thread - #20/INFO]: [Not Secure] <ClownPierce> yea
+[03:07:35] [Async Chat Thread - #20/INFO]: [Not Secure] <Wemmbu> hite me
+[03:07:43] [Async Chat Thread - #20/INFO]: [Not Secure] <Wemmbu> fire aspect
+[03:07:46] [Server thread/INFO]: Wemmbu issued server command: /ungod
+[03:07:47] [Async Chat Thread - #20/INFO]: [Not Secure] <ClownPierce> turn on
+[03:07:49] [Server thread/INFO]: Mapicc issued server command: /
+[03:08:00] [Async Chat Thread - #20/INFO]: [Not Secure] <ClownPierce> dose it work?
+[03:08:10] [Server thread/INFO]: Mapicc issued server command: /tick freeze
+[03:08:10] [Server thread/INFO]: [Mapicc: The game is frozen]
+[03:08:11] [Async Chat Thread - #20/INFO]: [Not Secure] <Wemmbu> wierd
+[03:08:22] [Server thread/INFO]: The game is frozen
+[03:08:31] [Server thread/INFO]: Wemmbu issued server command: /tick unfreeze
+[03:08:31] [Server thread/INFO]: [Wemmbu: The game is running normally]
+[03:08:38] [Async Chat Thread - #20/INFO]: [Not Secure] <Wemmbu> il fix it
+[03:08:45] [Async Chat Thread - #20/INFO]: [Not Secure] <Mapicc> i was testing smt
+[03:08:49] [Async Chat Thread - #20/INFO]: [Not Secure] <ClownPierce> fix it now or i wont pvp
+[03:09:00] [Async Chat Thread - #20/INFO]: [Not Secure] <Wemmbu> ok sec
+[03:09:05] [Async Chat Thread - #20/INFO]: [Not Secure] <ClownPierce> sword pvp no maces
+[03:09:13] [Async Chat Thread - #20/INFO]: [Not Secure] <ClownPierce> give me op
+[03:09:15] [Craft Scheduler Thread - 245 - ClearLag/INFO]: [ClearLag] Clearing dropped items and unnecessary entities in 30 seconds!
+[03:09:24] [Async Chat Thread - #21/INFO]: [Not Secure] <Mapicc> ask wem
+[03:09:35] [Craft Scheduler Thread - 247 - ClearLag/INFO]: [ClearLag] Clearing dropped items and unnecessary entities in 10 seconds!
+[03:09:40] [Server thread/INFO]: Wemmbu was smashed by ClownPierce
+[03:09:45] [Craft Scheduler Thread - 248 - ClearLag/INFO]: [ClearLag] All dropped items and unnecessary entities have been cleared!
+[03:09:47] [Server thread/INFO]: Mapicc issued server command: /invsee ClownPierce
+[03:10:00] [Server thread/INFO]: Wemmbu issued server command: /tp ClownPierce
+[03:10:06] [Async Chat Thread - #21/INFO]: [Not Secure] <Wemmbu> ok ima put on docs
+[03:10:09] [Async Chat Thread - #21/INFO]: [Not Secure] <Wemmbu> one sec
+[03:10:10] [Async Chat Thread - #21/INFO]: [Not Secure] <ClownPierce> ok
+[03:10:59] [Server thread/INFO]: Mapicc issued server command: /
+[03:11:19] [Server thread/INFO]: Wemmbu was smashed by ClownPierce
+[03:11:26] [Server thread/INFO]: ClownPierce lost connection: Disconnected
+[03:11:26] [Server thread/INFO]: ClownPierce left the game
+[03:11:49] [Server thread/INFO]: Mapicc issued server command: /playerlist
+[03:11:55] [Server thread/INFO]: Mapicc issued server command: /player
+[03:12:06] [Server thread/INFO]: Mapicc issued server command: /playertime
+[03:12:17] [Async Chat Thread - #22/INFO]: [Not Secure] <Wemmbu> back
+[03:12:24] [Async Chat Thread - #22/INFO]: [Not Secure] <Mapicc> he left
+[03:12:30] [Server thread/INFO]: Mapicc issued server command: /
+[03:13:02] [User Authenticator #9/INFO]: UUID of player ClownPierce is c86e95bc-1ca0-30ec-b497-2ff0db9e2187
+[03:13:03] [Server thread/INFO]: ClownPierce joined the game
+[03:13:03] [Server thread/INFO]: ClownPierce[/127.0.0.1:44336] logged in with entity id 126263 at ([flat]22.200476082434793, 40.0, 50.457345500678166)
+[03:13:03] [Netty Epoll Server IO #3/WARN]: [ViaBackwards] (1.13->1.12.2) Ignoring plugin channel in serverbound REGISTER: EAG|GetDomain
+[03:13:03] [Netty Epoll Server IO #3/WARN]: [ViaBackwards] (1.13->1.12.2) Ignoring plugin channel in serverbound REGISTER: EAG|1.8
+[03:13:03] [Netty Epoll Server IO #3/WARN]: [ViaBackwards] (1.13->1.12.2) Ignoring plugin channel in serverbound REGISTER: EAG|Voice-1.8
+[03:13:03] [Netty Epoll Server IO #3/WARN]: [ViaBackwards] (1.13->1.12.2) Ignoring plugin channel in serverbound REGISTER: EAG|UpdateCert-1.8
+[03:13:03] [Netty Epoll Server IO #3/WARN]: [ViaBackwards] (1.13->1.12.2) Ignoring plugin channel in serverbound REGISTER: EAG|1.8-RPC
+[03:13:03] [Netty Epoll Server IO #3/WARN]: [ViaBackwards] (1.13->1.12.2) Ignoring plugin channel in serverbound REGISTER: EAG|Skins-1.8
+[03:13:03] [Netty Epoll Server IO #3/WARN]: [ViaBackwards] (1.13->1.12.2) Ignoring plugin channel in serverbound REGISTER: EAG|1.8-Ready
+[03:13:03] [Netty Epoll Server IO #3/WARN]: [ViaBackwards] (1.13->1.12.2) Ignoring plugin channel in serverbound REGISTER: EAG|FNAWSEn-1.8
+[03:13:03] [Netty Epoll Server IO #3/WARN]: [ViaBackwards] (1.13->1.12.2) Ignoring plugin channel in serverbound REGISTER: EAG|Capes-1.8
+[03:13:03] [Netty Epoll Server IO #3/WARN]: [ViaBackwards] (1.13->1.12.2) Ignoring serverbound plugin message with channel: EAG|1.8-Ready
+[03:13:13] [Server thread/INFO]: Mapicc issued server command: /invsee Wemmbu
+[03:13:14] [Async Chat Thread - #22/INFO]: [Not Secure] <ClownPierce> i gtg
+[03:13:16] [Server thread/INFO]: ClownPierce lost connection: Disconnected
+[03:13:16] [Server thread/INFO]: ClownPierce left the game
+[03:13:29] [Server thread/INFO]: Wemmbu lost connection: Timed out
+[03:13:29] [Server thread/INFO]: Wemmbu left the game
+[03:13:49] [User Authenticator #9/INFO]: UUID of player Wemmbu is b8e46504-274d-3847-ac77-ed94dbe8064b
+[03:13:49] [Server thread/INFO]: Wemmbu joined the game
+[03:13:49] [Server thread/INFO]: Wemmbu[/127.0.0.1:55362] logged in with entity id 126273 at ([flat]0.0, -60.0, 0.0)
+[03:13:49] [Netty Epoll Server IO #0/WARN]: [ViaBackwards] (1.13->1.12.2) Ignoring plugin channel in serverbound REGISTER: EAG|GetDomain
+[03:13:49] [Netty Epoll Server IO #0/WARN]: [ViaBackwards] (1.13->1.12.2) Ignoring plugin channel in serverbound REGISTER: EAG|1.8
+[03:13:49] [Netty Epoll Server IO #0/WARN]: [ViaBackwards] (1.13->1.12.2) Ignoring plugin channel in serverbound REGISTER: EAG|Voice-1.8
+[03:13:49] [Netty Epoll Server IO #0/WARN]: [ViaBackwards] (1.13->1.12.2) Ignoring plugin channel in serverbound REGISTER: EAG|UpdateCert-1.8
+[03:13:49] [Netty Epoll Server IO #0/WARN]: [ViaBackwards] (1.13->1.12.2) Ignoring plugin channel in serverbound REGISTER: EAG|1.8-RPC
+[03:13:49] [Netty Epoll Server IO #0/WARN]: [ViaBackwards] (1.13->1.12.2) Ignoring plugin channel in serverbound REGISTER: EAG|Skins-1.8
+[03:13:49] [Netty Epoll Server IO #0/WARN]: [ViaBackwards] (1.13->1.12.2) Ignoring plugin channel in serverbound REGISTER: EAG|1.8-Ready
+[03:13:49] [Netty Epoll Server IO #0/WARN]: [ViaBackwards] (1.13->1.12.2) Ignoring plugin channel in serverbound REGISTER: EAG|FNAWSEn-1.8
+[03:13:49] [Netty Epoll Server IO #0/WARN]: [ViaBackwards] (1.13->1.12.2) Ignoring plugin channel in serverbound REGISTER: EAG|Capes-1.8
+[03:13:49] [Netty Epoll Server IO #0/WARN]: [ViaBackwards] (1.13->1.12.2) Ignoring serverbound plugin message with channel: EAG|1.8-Ready
+[03:13:50] [Server thread/INFO]: Wemmbu issued server command: /
+[03:13:57] [Server thread/INFO]: Mapicc issued server command: /playerskull
+[03:14:19] [Server thread/INFO]: Mapicc issued server command: /playerskull Wemmbu
+[03:14:54] [Server thread/INFO]: Wemmbu issued server command: /up 110
+[03:15:24] [Server thread/INFO]: Wemmbu issued server command: /tpall
+[03:15:33] [Async Chat Thread - #24/INFO]: [Not Secure] <Mapicc> ?
+[03:15:34] [Async Chat Thread - #24/INFO]: [Not Secure] <Wemmbu> gang
+[03:15:38] [Async Chat Thread - #24/INFO]: [Not Secure] <Mapicc> what
+[03:15:39] [Server thread/INFO]: Wemmbu issued server command: /invsee Mapicc
+[03:15:58] [Server thread/INFO]: Wemmbu issued server command: /skull Mapicc
+[03:16:03] [Async Chat Thread - #24/INFO]: [Not Secure] <Mapicc> i havemn't done anythng wrong
+[03:16:09] [Async Chat Thread - #24/INFO]: [Not Secure] <Mapicc> lol
+[03:16:21] [Server thread/INFO]: Wemmbu issued server command: /skull Mapicc
+[03:16:24] [Server thread/INFO]: Wemmbu issued server command: /hat
+[03:16:30] [Server thread/INFO]: Wemmbu issued server command: /delete
+[03:16:31] [Server thread/INFO]: Mapicc issued server command: /playerweather
+[03:16:32] [Server thread/INFO]: Wemmbu issued server command: /trash
+[03:16:44] [Server thread/INFO]: Wemmbu issued server command: /gms
+[03:16:46] [Server thread/INFO]: Mapicc issued server command: /gms
+[03:16:48] [Server thread/INFO]: Wemmbu issued server command: /gms *
+[03:16:49] [Server thread/INFO]: Mapicc issued server command: /fly
+[03:16:53] [Server thread/INFO]: Wemmbu issued server command: /hat
+[03:16:56] [Server thread/INFO]: Wemmbu issued server command: /head
+[03:17:06] [Server thread/INFO]: Wemmbu issued server command: /fly Mapicc
+[03:17:08] [Server thread/INFO]: Wemmbu issued server command: /fly
+[03:17:14] [Async Chat Thread - #26/INFO]: [Not Secure] <Wemmbu> here
+[03:17:16] [Server thread/INFO]: Wemmbu issued server command: /heal ma
+[03:17:21] [Server thread/INFO]: Wemmbu issued server command: /gmc
+[03:17:22] [Server thread/INFO]: Wemmbu issued server command: /repair all
+[03:17:49] [Server thread/INFO]: Wemmbu issued server command: /gms
+[03:17:59] [Server thread/INFO]: Wemmbu issued server command: /heal Mapicc
+[03:18:05] [User Authenticator #10/INFO]: UUID of player Manepear is 48d5a1b4-fc5f-3b3f-a09a-1f050adee0dc
+[03:18:05] [Server thread/INFO]: Manepear joined the game
+[03:18:05] [Server thread/INFO]: Manepear[/127.0.0.1:56908] logged in with entity id 126307 at ([flat]21.37863447581222, -60.0, -21.03982228452724)
+[03:18:05] [Netty Epoll Server IO #1/WARN]: [ViaBackwards] (1.13->1.12.2) Ignoring plugin channel in serverbound REGISTER: EAG|GetDomain
+[03:18:05] [Netty Epoll Server IO #1/WARN]: [ViaBackwards] (1.13->1.12.2) Ignoring plugin channel in serverbound REGISTER: EAG|1.8
+[03:18:05] [Netty Epoll Server IO #1/WARN]: [ViaBackwards] (1.13->1.12.2) Ignoring plugin channel in serverbound REGISTER: EAG|Voice-1.8
+[03:18:05] [Netty Epoll Server IO #1/WARN]: [ViaBackwards] (1.13->1.12.2) Ignoring plugin channel in serverbound REGISTER: EAG|UpdateCert-1.8
+[03:18:05] [Netty Epoll Server IO #1/WARN]: [ViaBackwards] (1.13->1.12.2) Ignoring plugin channel in serverbound REGISTER: EAG|1.8-RPC
+[03:18:05] [Netty Epoll Server IO #1/WARN]: [ViaBackwards] (1.13->1.12.2) Ignoring plugin channel in serverbound REGISTER: EAG|Skins-1.8
+[03:18:05] [Netty Epoll Server IO #1/WARN]: [ViaBackwards] (1.13->1.12.2) Ignoring plugin channel in serverbound REGISTER: EAG|1.8-Ready
+[03:18:05] [Netty Epoll Server IO #1/WARN]: [ViaBackwards] (1.13->1.12.2) Ignoring plugin channel in serverbound REGISTER: EAG|FNAWSEn-1.8
+[03:18:05] [Netty Epoll Server IO #1/WARN]: [ViaBackwards] (1.13->1.12.2) Ignoring plugin channel in serverbound REGISTER: EAG|Capes-1.8
+[03:18:05] [Netty Epoll Server IO #1/WARN]: [ViaBackwards] (1.13->1.12.2) Ignoring serverbound plugin message with channel: EAG|1.8-Ready
+[03:18:09] [Server thread/INFO]: Wemmbu issued server command: /give * wind
+[03:18:12] [Server thread/INFO]: Wemmbu issued server command: /give * wind_charge
+[03:18:28] [Server thread/INFO]: Mapicc lost connection: Disconnected
+[03:18:28] [Server thread/INFO]: Mapicc left the game
+[03:18:28] [Server thread/INFO]: Wemmbu lost connection: Disconnected
+[03:18:28] [Server thread/INFO]: Wemmbu left the game
+[03:18:28] [Server thread/INFO]: Manepear lost connection: Disconnected
+[03:18:28] [Server thread/INFO]: Manepear left the game
+[03:18:32] [User Authenticator #10/INFO]: UUID of player Wemmbu is b8e46504-274d-3847-ac77-ed94dbe8064b
+[03:18:32] [Server thread/INFO]: Wemmbu joined the game
+[03:18:32] [Server thread/INFO]: Wemmbu[/127.0.0.1:57264] logged in with entity id 126311 at ([flat]50.3874017969275, 40.42010510243004, 53.56105933584806)
+[03:18:32] [Netty Epoll Server IO #2/WARN]: [ViaBackwards] (1.13->1.12.2) Ignoring plugin channel in serverbound REGISTER: EAG|GetDomain
+[03:18:32] [Netty Epoll Server IO #2/WARN]: [ViaBackwards] (1.13->1.12.2) Ignoring plugin channel in serverbound REGISTER: EAG|1.8
+[03:18:32] [Netty Epoll Server IO #2/WARN]: [ViaBackwards] (1.13->1.12.2) Ignoring plugin channel in serverbound REGISTER: EAG|Voice-1.8
+[03:18:32] [Netty Epoll Server IO #2/WARN]: [ViaBackwards] (1.13->1.12.2) Ignoring plugin channel in serverbound REGISTER: EAG|UpdateCert-1.8
+[03:18:32] [Netty Epoll Server IO #2/WARN]: [ViaBackwards] (1.13->1.12.2) Ignoring plugin channel in serverbound REGISTER: EAG|1.8-RPC
+[03:18:32] [Netty Epoll Server IO #2/WARN]: [ViaBackwards] (1.13->1.12.2) Ignoring plugin channel in serverbound REGISTER: EAG|Skins-1.8
+[03:18:32] [Netty Epoll Server IO #2/WARN]: [ViaBackwards] (1.13->1.12.2) Ignoring plugin channel in serverbound REGISTER: EAG|1.8-Ready
+[03:18:32] [Netty Epoll Server IO #2/WARN]: [ViaBackwards] (1.13->1.12.2) Ignoring plugin channel in serverbound REGISTER: EAG|FNAWSEn-1.8
+[03:18:32] [Netty Epoll Server IO #2/WARN]: [ViaBackwards] (1.13->1.12.2) Ignoring plugin channel in serverbound REGISTER: EAG|Capes-1.8
+[03:18:32] [Netty Epoll Server IO #2/WARN]: [ViaBackwards] (1.13->1.12.2) Ignoring serverbound plugin message with channel: EAG|1.8-Ready
+[03:18:35] [User Authenticator #10/INFO]: UUID of player Manepear is 48d5a1b4-fc5f-3b3f-a09a-1f050adee0dc
+[03:18:35] [Server thread/INFO]: Manepear joined the game
+[03:18:35] [Server thread/INFO]: Manepear[/127.0.0.1:51136] logged in with entity id 126312 at ([flat]20.393875762626838, -60.0, -20.49218604264445)
+[03:18:35] [Netty Epoll Server IO #3/WARN]: [ViaBackwards] (1.13->1.12.2) Ignoring plugin channel in serverbound REGISTER: EAG|GetDomain
+[03:18:35] [Netty Epoll Server IO #3/WARN]: [ViaBackwards] (1.13->1.12.2) Ignoring plugin channel in serverbound REGISTER: EAG|1.8
+[03:18:35] [Netty Epoll Server IO #3/WARN]: [ViaBackwards] (1.13->1.12.2) Ignoring plugin channel in serverbound REGISTER: EAG|Voice-1.8
+[03:18:35] [Netty Epoll Server IO #3/WARN]: [ViaBackwards] (1.13->1.12.2) Ignoring plugin channel in serverbound REGISTER: EAG|UpdateCert-1.8
+[03:18:35] [Netty Epoll Server IO #3/WARN]: [ViaBackwards] (1.13->1.12.2) Ignoring plugin channel in serverbound REGISTER: EAG|1.8-RPC
+[03:18:35] [Netty Epoll Server IO #3/WARN]: [ViaBackwards] (1.13->1.12.2) Ignoring plugin channel in serverbound REGISTER: EAG|Skins-1.8
+[03:18:35] [Netty Epoll Server IO #3/WARN]: [ViaBackwards] (1.13->1.12.2) Ignoring plugin channel in serverbound REGISTER: EAG|1.8-Ready
+[03:18:35] [Netty Epoll Server IO #3/WARN]: [ViaBackwards] (1.13->1.12.2) Ignoring plugin channel in serverbound REGISTER: EAG|FNAWSEn-1.8
+[03:18:35] [Netty Epoll Server IO #3/WARN]: [ViaBackwards] (1.13->1.12.2) Ignoring plugin channel in serverbound REGISTER: EAG|Capes-1.8
+[03:18:35] [Netty Epoll Server IO #3/WARN]: [ViaBackwards] (1.13->1.12.2) Ignoring serverbound plugin message with channel: EAG|1.8-Ready
+[03:18:59] [Async Chat Thread - #28/INFO]: [Not Secure] <Manepear> tp pls
+[03:19:14] [Server thread/INFO]: Wemmbu lost connection: Timed out
+[03:19:14] [Server thread/INFO]: Wemmbu left the game
+[03:19:15] [Craft Scheduler Thread - 292 - ClearLag/INFO]: [ClearLag] Clearing dropped items and unnecessary entities in 30 seconds!
+[03:19:18] [User Authenticator #10/INFO]: UUID of player Wemmbu is b8e46504-274d-3847-ac77-ed94dbe8064b
+[03:19:18] [Server thread/INFO]: Wemmbu joined the game
+[03:19:18] [Server thread/INFO]: Wemmbu[/127.0.0.1:47216] logged in with entity id 126341 at ([flat]50.3874017969275, 40.0, 53.56105933584806)
+[03:19:18] [Netty Epoll Server IO #0/WARN]: [ViaBackwards] (1.13->1.12.2) Ignoring plugin channel in serverbound REGISTER: EAG|GetDomain
+[03:19:18] [Netty Epoll Server IO #0/WARN]: [ViaBackwards] (1.13->1.12.2) Ignoring plugin channel in serverbound REGISTER: EAG|1.8
+[03:19:18] [Netty Epoll Server IO #0/WARN]: [ViaBackwards] (1.13->1.12.2) Ignoring plugin channel in serverbound REGISTER: EAG|Voice-1.8
+[03:19:18] [Netty Epoll Server IO #0/WARN]: [ViaBackwards] (1.13->1.12.2) Ignoring plugin channel in serverbound REGISTER: EAG|UpdateCert-1.8
+[03:19:18] [Netty Epoll Server IO #0/WARN]: [ViaBackwards] (1.13->1.12.2) Ignoring plugin channel in serverbound REGISTER: EAG|1.8-RPC
+[03:19:18] [Netty Epoll Server IO #0/WARN]: [ViaBackwards] (1.13->1.12.2) Ignoring plugin channel in serverbound REGISTER: EAG|Skins-1.8
+[03:19:18] [Netty Epoll Server IO #0/WARN]: [ViaBackwards] (1.13->1.12.2) Ignoring plugin channel in serverbound REGISTER: EAG|1.8-Ready
+[03:19:18] [Netty Epoll Server IO #0/WARN]: [ViaBackwards] (1.13->1.12.2) Ignoring plugin channel in serverbound REGISTER: EAG|FNAWSEn-1.8
+[03:19:18] [Netty Epoll Server IO #0/WARN]: [ViaBackwards] (1.13->1.12.2) Ignoring plugin channel in serverbound REGISTER: EAG|Capes-1.8
+[03:19:18] [Netty Epoll Server IO #0/WARN]: [ViaBackwards] (1.13->1.12.2) Ignoring serverbound plugin message with channel: EAG|1.8-Ready
+[03:19:22] [Async Chat Thread - #28/INFO]: [Not Secure] <Manepear> wem
+[03:19:23] [Server thread/INFO]: Wemmbu issued server command: /tpall
+[03:19:27] [Async Chat Thread - #28/INFO]: [Not Secure] <Manepear> thx
+[03:19:30] [Server thread/INFO]: Manepear was smashed by Wemmbu with [Gambit]
+[03:19:33] [Server thread/INFO]: Wemmbu issued server command: /tpall
+[03:19:35] [Server thread/INFO]: Wemmbu issued server command: /'
+[03:19:35] [Craft Scheduler Thread - 292 - ClearLag/INFO]: [ClearLag] Clearing dropped items and unnecessary entities in 10 seconds!
+[03:19:43] [Server thread/INFO]: Wemmbu issued server command: /s
+[03:19:45] [Server thread/INFO]: Wemmbu issued server command: /tpall
+[03:19:45] [Craft Scheduler Thread - 291 - ClearLag/INFO]: [ClearLag] All dropped items and unnecessary entities have been cleared!
+[03:19:47] [Async Chat Thread - #28/INFO]: [Not Secure] <Manepear> put the spawn point here
+[03:20:00] [User Authenticator #10/INFO]: UUID of player Mapicc is 5737a6e7-7872-3412-9b81-880b447c9081
+[03:20:00] [Server thread/INFO]: Mapicc joined the game
+[03:20:01] [Server thread/INFO]: Mapicc[/127.0.0.1:47376] logged in with entity id 126351 at ([flat]58.4819517444855, 40.0, 55.26144339023714)
+[03:20:01] [Netty Epoll Server IO #1/WARN]: [ViaBackwards] (1.13->1.12.2) Ignoring plugin channel in serverbound REGISTER: EAG|GetDomain
+[03:20:01] [Netty Epoll Server IO #1/WARN]: [ViaBackwards] (1.13->1.12.2) Ignoring plugin channel in serverbound REGISTER: EAG|1.8
+[03:20:01] [Netty Epoll Server IO #1/WARN]: [ViaBackwards] (1.13->1.12.2) Ignoring plugin channel in serverbound REGISTER: EAG|Voice-1.8
+[03:20:01] [Netty Epoll Server IO #1/WARN]: [ViaBackwards] (1.13->1.12.2) Ignoring plugin channel in serverbound REGISTER: EAG|UpdateCert-1.8
+[03:20:01] [Netty Epoll Server IO #1/WARN]: [ViaBackwards] (1.13->1.12.2) Ignoring plugin channel in serverbound REGISTER: EAG|1.8-RPC
+[03:20:01] [Netty Epoll Server IO #1/WARN]: [ViaBackwards] (1.13->1.12.2) Ignoring plugin channel in serverbound REGISTER: EAG|Skins-1.8
+[03:20:01] [Netty Epoll Server IO #1/WARN]: [ViaBackwards] (1.13->1.12.2) Ignoring plugin channel in serverbound REGISTER: EAG|1.8-Ready
+[03:20:01] [Netty Epoll Server IO #1/WARN]: [ViaBackwards] (1.13->1.12.2) Ignoring plugin channel in serverbound REGISTER: EAG|FNAWSEn-1.8
+[03:20:01] [Netty Epoll Server IO #1/WARN]: [ViaBackwards] (1.13->1.12.2) Ignoring plugin channel in serverbound REGISTER: EAG|Capes-1.8
+[03:20:01] [Netty Epoll Server IO #1/WARN]: [ViaBackwards] (1.13->1.12.2) Ignoring serverbound plugin message with channel: EAG|1.8-Ready
+[03:20:04] [Server thread/INFO]: Wemmbu issued server command: /mv spawn
+[03:20:08] [Server thread/INFO]: Wemmbu issued server command: /tp Manepear
+[03:20:11] [Server thread/INFO]: Wemmbu issued server command: /spawnpoint
+[03:20:11] [Server thread/INFO]: [Wemmbu: Set spawn point to 35, 40, 73 [0.0] in minecraft:flat for Wemmbu]
+[03:21:07] [Async Chat Thread - #30/INFO]: [Not Secure] <Manepear> bye for now
+[03:21:10] [Server thread/INFO]: Mapicc was smashed by Wemmbu
+[03:21:13] [Server thread/INFO]: Manepear lost connection: Disconnected
+[03:21:13] [Server thread/INFO]: Manepear left the game
+[03:21:22] [Server thread/INFO]: Wemmbu issued server command: /tpall
+[03:21:23] [Server thread/INFO]: Mapicc issued server command: /tp
+[03:23:30] [Server thread/INFO]: Wemmbu lost connection: Disconnected
+[03:23:30] [Server thread/INFO]: Wemmbu left the game
+[03:23:30] [Server thread/INFO]: Mapicc lost connection: Disconnected
+[03:23:30] [Server thread/INFO]: Mapicc left the game
+[03:23:32] [User Authenticator #11/INFO]: UUID of player Wemmbu is b8e46504-274d-3847-ac77-ed94dbe8064b
+[03:23:32] [Server thread/INFO]: Wemmbu joined the game
+[03:23:32] [Server thread/INFO]: Wemmbu[/127.0.0.1:51474] logged in with entity id 126485 at ([flat]28.645574504825696, 43.4279169738186, 77.86060349357132)
+[03:23:32] [Netty Epoll Server IO #2/WARN]: [ViaBackwards] (1.13->1.12.2) Ignoring plugin channel in serverbound REGISTER: EAG|GetDomain
+[03:23:32] [Netty Epoll Server IO #2/WARN]: [ViaBackwards] (1.13->1.12.2) Ignoring plugin channel in serverbound REGISTER: EAG|1.8
+[03:23:32] [Netty Epoll Server IO #2/WARN]: [ViaBackwards] (1.13->1.12.2) Ignoring plugin channel in serverbound REGISTER: EAG|Voice-1.8
+[03:23:32] [Netty Epoll Server IO #2/WARN]: [ViaBackwards] (1.13->1.12.2) Ignoring plugin channel in serverbound REGISTER: EAG|UpdateCert-1.8
+[03:23:32] [Netty Epoll Server IO #2/WARN]: [ViaBackwards] (1.13->1.12.2) Ignoring plugin channel in serverbound REGISTER: EAG|1.8-RPC
+[03:23:32] [Netty Epoll Server IO #2/WARN]: [ViaBackwards] (1.13->1.12.2) Ignoring plugin channel in serverbound REGISTER: EAG|Skins-1.8
+[03:23:32] [Netty Epoll Server IO #2/WARN]: [ViaBackwards] (1.13->1.12.2) Ignoring plugin channel in serverbound REGISTER: EAG|1.8-Ready
+[03:23:32] [Netty Epoll Server IO #2/WARN]: [ViaBackwards] (1.13->1.12.2) Ignoring plugin channel in serverbound REGISTER: EAG|FNAWSEn-1.8
+[03:23:32] [Netty Epoll Server IO #2/WARN]: [ViaBackwards] (1.13->1.12.2) Ignoring plugin channel in serverbound REGISTER: EAG|Capes-1.8
+[03:23:32] [Netty Epoll Server IO #2/WARN]: [ViaBackwards] (1.13->1.12.2) Ignoring serverbound plugin message with channel: EAG|1.8-Ready
+[03:23:38] [User Authenticator #11/INFO]: UUID of player Mapicc is 5737a6e7-7872-3412-9b81-880b447c9081
+[03:23:38] [Server thread/INFO]: Mapicc joined the game
+[03:23:38] [Server thread/INFO]: Mapicc[/127.0.0.1:54720] logged in with entity id 126487 at ([flat]28.751832091283585, 40.24127009561676, 79.66552780552749)
+[03:23:38] [Netty Epoll Server IO #3/WARN]: [ViaBackwards] (1.13->1.12.2) Ignoring plugin channel in serverbound REGISTER: EAG|GetDomain
+[03:23:38] [Netty Epoll Server IO #3/WARN]: [ViaBackwards] (1.13->1.12.2) Ignoring plugin channel in serverbound REGISTER: EAG|1.8
+[03:23:38] [Netty Epoll Server IO #3/WARN]: [ViaBackwards] (1.13->1.12.2) Ignoring plugin channel in serverbound REGISTER: EAG|Voice-1.8
+[03:23:38] [Netty Epoll Server IO #3/WARN]: [ViaBackwards] (1.13->1.12.2) Ignoring plugin channel in serverbound REGISTER: EAG|UpdateCert-1.8
+[03:23:38] [Netty Epoll Server IO #3/WARN]: [ViaBackwards] (1.13->1.12.2) Ignoring plugin channel in serverbound REGISTER: EAG|1.8-RPC
+[03:23:38] [Netty Epoll Server IO #3/WARN]: [ViaBackwards] (1.13->1.12.2) Ignoring plugin channel in serverbound REGISTER: EAG|Skins-1.8
+[03:23:38] [Netty Epoll Server IO #3/WARN]: [ViaBackwards] (1.13->1.12.2) Ignoring plugin channel in serverbound REGISTER: EAG|1.8-Ready
+[03:23:38] [Netty Epoll Server IO #3/WARN]: [ViaBackwards] (1.13->1.12.2) Ignoring plugin channel in serverbound REGISTER: EAG|FNAWSEn-1.8
+[03:23:38] [Netty Epoll Server IO #3/WARN]: [ViaBackwards] (1.13->1.12.2) Ignoring plugin channel in serverbound REGISTER: EAG|Capes-1.8
+[03:23:38] [Netty Epoll Server IO #3/WARN]: [ViaBackwards] (1.13->1.12.2) Ignoring serverbound plugin message with channel: EAG|1.8-Ready
+[03:23:47] [Server thread/INFO]: Mapicc was smashed by Wemmbu
+[03:23:49] [Async Chat Thread - #32/INFO]: [Not Secure] <Wemmbu> yay
+[03:23:51] [Server thread/INFO]: Wemmbu issued server command: /anvil
+[03:23:59] [Async Chat Thread - #32/INFO]: [Not Secure] <Mapicc> lol
+[03:24:03] [Server thread/INFO]: Mapicc issued server command: /tp Wemmbu
+[03:24:17] [Server thread/INFO]: Mapicc issued server command: /up 10
+[03:24:17] [Server thread/WARN]: Mapicc moved too quickly! 0.4030838642803758,10.0,-0.449715688254571
+[03:24:26] [Server thread/INFO]: Mapicc issued server command: /up 20
+[03:24:26] [Server thread/WARN]: Mapicc moved too quickly! -0.33055108202793804,20.0,-0.10821035530643996
+[03:24:35] [Server thread/INFO]: Mapicc issued server command: /op 20
+[03:24:35] [Server thread/INFO]: [Mapicc: Made 20 a server operator]
+[03:24:42] [Server thread/INFO]: Mapicc issued server command: /un op 20
+[03:24:50] [Server thread/INFO]: Mapicc issued server command: /up 20
+[03:24:50] [Async Chat Thread - #32/INFO]: [Not Secure] <Wemmbu> why did u op 20
+[03:24:53] [Server thread/INFO]: Wemmbu issued server command: /deop 20
+[03:24:53] [Server thread/INFO]: [Wemmbu: Made 20 no longer a server operator]
+[03:24:58] [Server thread/INFO]: Wemmbu issued server command: /deop Mapicc
+[03:24:58] [Server thread/INFO]: [Wemmbu: Made Mapicc no longer a server operator]
+[03:25:01] [Async Chat Thread - #32/INFO]: [Not Secure] <Mapicc> that was mb
+[03:25:10] [Async Chat Thread - #32/INFO]: [Not Secure] <Wemmbu> ol
+[03:25:12] [Async Chat Thread - #32/INFO]: [Not Secure] <Wemmbu> ok
+[03:25:13] [Server thread/INFO]: Wemmbu issued server command: /tpall
+[03:25:13] [Server thread/WARN]: Mapicc moved too quickly! -0.08279799497063678,-20.0,2.8078227410009333
+[03:25:16] [Async Chat Thread - #32/INFO]: [Not Secure] <Mapicc> i meant to do up 20
+[03:28:00] [Server thread/INFO]: Wemmbu issued server command: /fly
+[03:28:22] [Server thread/INFO]: Wemmbu issued server command: /tpall
+[03:28:27] [Server thread/INFO]: Wemmbu lost connection: Disconnected
+[03:28:27] [Server thread/INFO]: Wemmbu left the game
+[03:28:30] [User Authenticator #12/INFO]: UUID of player Wemmbu is b8e46504-274d-3847-ac77-ed94dbe8064b
+[03:28:30] [Server thread/INFO]: Wemmbu joined the game
+[03:28:30] [Server thread/INFO]: Wemmbu[/127.0.0.1:37536] logged in with entity id 126556 at ([flat]9.321369723112708, 41.85823768395357, -5.703309518490292)
+[03:28:30] [Netty Epoll Server IO #0/WARN]: [ViaBackwards] (1.13->1.12.2) Ignoring plugin channel in serverbound REGISTER: EAG|GetDomain
+[03:28:30] [Netty Epoll Server IO #0/WARN]: [ViaBackwards] (1.13->1.12.2) Ignoring plugin channel in serverbound REGISTER: EAG|1.8
+[03:28:30] [Netty Epoll Server IO #0/WARN]: [ViaBackwards] (1.13->1.12.2) Ignoring plugin channel in serverbound REGISTER: EAG|Voice-1.8
+[03:28:30] [Netty Epoll Server IO #0/WARN]: [ViaBackwards] (1.13->1.12.2) Ignoring plugin channel in serverbound REGISTER: EAG|UpdateCert-1.8
+[03:28:30] [Netty Epoll Server IO #0/WARN]: [ViaBackwards] (1.13->1.12.2) Ignoring plugin channel in serverbound REGISTER: EAG|1.8-RPC
+[03:28:30] [Netty Epoll Server IO #0/WARN]: [ViaBackwards] (1.13->1.12.2) Ignoring plugin channel in serverbound REGISTER: EAG|Skins-1.8
+[03:28:30] [Netty Epoll Server IO #0/WARN]: [ViaBackwards] (1.13->1.12.2) Ignoring plugin channel in serverbound REGISTER: EAG|1.8-Ready
+[03:28:30] [Netty Epoll Server IO #0/WARN]: [ViaBackwards] (1.13->1.12.2) Ignoring plugin channel in serverbound REGISTER: EAG|FNAWSEn-1.8
+[03:28:30] [Netty Epoll Server IO #0/WARN]: [ViaBackwards] (1.13->1.12.2) Ignoring plugin channel in serverbound REGISTER: EAG|Capes-1.8
+[03:28:30] [Netty Epoll Server IO #0/WARN]: [ViaBackwards] (1.13->1.12.2) Ignoring serverbound plugin message with channel: EAG|1.8-Ready
+[03:28:49] [Async Chat Thread - #34/INFO]: [Not Secure] <Wemmbu> who is the best in this whole servere
+[03:28:53] [Async Chat Thread - #34/INFO]: [Not Secure] <Mapicc> me
+[03:29:00] [Server thread/INFO]: Wemmbu issued server command: /
+[03:29:15] [Craft Scheduler Thread - 337 - ClearLag/INFO]: [ClearLag] Clearing dropped items and unnecessary entities in 30 seconds!
+[03:29:20] [Async Chat Thread - #34/INFO]: [Not Secure] <Wemmbu> BITCH
+[03:29:23] [Async Chat Thread - #34/INFO]: [Not Secure] <Mapicc> ?s
+[03:29:24] [Server thread/INFO]: Mapicc has reached the goal [Postmortal]
+[03:29:35] [Craft Scheduler Thread - 339 - ClearLag/INFO]: [ClearLag] Clearing dropped items and unnecessary entities in 10 seconds!
+[03:29:45] [Craft Scheduler Thread - 340 - ClearLag/INFO]: [ClearLag] All dropped items and unnecessary entities have been cleared!
+[03:29:54] [Server thread/INFO]: Mapicc issued server command: /
+[03:29:59] [Server thread/INFO]: Wemmbu issued server command: /tpall
+[03:30:44] [Server thread/INFO]: Wemmbu issued server command: /give Wemmbu elytra 1
+[03:31:50] [Server thread/INFO]: Wemmbu issued server command: /give * wind_charge 200
+[03:32:16] [Server thread/INFO]: Mapicc was smashed by Wemmbu with [Gambit]
+[03:32:22] [Async Chat Thread - #36/INFO]: [Not Secure] <Mapicc> ok bud
+[03:32:23] [Async Chat Thread - #36/INFO]: [Not Secure] <Wemmbu> WHOS BETTER
+[03:32:25] [Server thread/INFO]: Wemmbu issued server command: /tpall
+[03:32:31] [Async Chat Thread - #36/INFO]: [Not Secure] <Mapicc> still me
+[03:32:37] [Async Chat Thread - #36/INFO]: [Not Secure] <Wemmbu> elytra mace is so hard
+[03:32:40] [Server thread/INFO]: Mapicc was smashed by Wemmbu with [Gambit]
+[03:32:44] [Server thread/INFO]: Wemmbu issued server command: /tpall
+[03:32:47] [Async Chat Thread - #36/INFO]: [Not Secure] <Mapicc> so am i
+[03:33:27] [Server thread/INFO]: Wemmbu lost connection: Disconnected
+[03:33:27] [Server thread/INFO]: Wemmbu left the game
+[03:33:52] [Server thread/INFO]: Mapicc issued server command: /gmc
+[03:33:52] [Server thread/INFO]: [Essentials] Mapicc was denied access to command.
+[03:35:01] [Server thread/INFO]: Mapicc issued server command: /
