@@ -1,0 +1,10 @@
+{
+  "uuid" : "f100fc6b-cbb3-3482-9d35-4696bd30e3fc",
+  "name" : "Lettuce",
+  "wins" : 0,
+  "losses" : 0,
+  "requests" : true,
+  "rating" : null,
+  "matches" : [ ],
+  "partyRequests" : true
+}

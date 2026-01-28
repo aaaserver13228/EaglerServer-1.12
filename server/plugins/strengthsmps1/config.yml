@@ -1,0 +1,38 @@
+# ░██████╗████████╗██████╗░███████╗███╗░░██╗░██████╗░████████╗██╗░░██╗░░░░░░░██████╗███╗░░░███╗██████╗░
+# ██╔════╝╚══██╔══╝██╔══██╗██╔════╝████╗░██║██╔════╝░╚══██╔══╝██║░░██║░░░░░░██╔════╝████╗░████║██╔══██╗
+# ╚█████╗░░░░██║░░░██████╔╝█████╗░░██╔██╗██║██║░░██╗░░░░██║░░░███████║█████╗╚█████╗░██╔████╔██║██████╔╝
+# ░╚═══██╗░░░██║░░░██╔══██╗██╔══╝░░██║╚████║██║░░╚██╗░░░██║░░░██╔══██║╚════╝░╚═══██╗██║╚██╔╝██║██╔═══╝░
+# ██████╔╝░░░██║░░░██║░░██║███████╗██║░╚███║╚██████╔╝░░░██║░░░██║░░██║░░░░░░██████╔╝██║░╚═╝░██║██║░░░░░
+# ╚═════╝░░░░╚═╝░░░╚═╝░░╚═╝╚══════╝╚═╝░░╚══╝░╚═════╝░░░░╚═╝░░░╚═╝░░╚═╝░░░░░░╚═════╝░╚═╝░░░░░╚═╝╚═╝░░░░░
+#                  [S1]                                          [Configuration]
+
+strength:
+  default-strength: 1
+
+  max-strength: 5
+
+  min-strength: -5
+
+  drop-on-natural-death: true
+
+# Recipe Configuration
+# IMPORTANT: YOU MAY HAVE TO RESTART THE SERVER FOR RECIPE CHANGES TO TAKE EFFECT
+# Pattern uses 3x3 grid:
+#   [top-left]    [top]      [top-right]
+#   [left]        [center]   [right]
+#   [bottom-left] [bottom]   [bottom-right]
+# Use "AIR" for empty slots
+
+recipe:
+
+  # Strength Item Recipe (3x3 crafting grid)
+  strength:
+    top-left: "ENCHANTED_GOLDEN_APPLE"
+    top: "NETHERITE_INGOT"
+    top-right: "ENCHANTED_GOLDEN_APPLE"
+    left: "NETHERITE_INGOT"
+    center: "NETHER_STAR"
+    right: "NETHERITE_INGOT"
+    bottom-left: "ENCHANTED_GOLDEN_APPLE"
+    bottom: "NETHERITE_INGOT"
+    bottom-right: "ENCHANTED_GOLDEN_APPLE"

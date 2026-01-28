@@ -1,0 +1,38 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 127.0.0.1
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 1768925044442
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1769193950246
+  login: 1769193286370
+money: '0'
+last-account-name: flamefrags
+lastlocation:
+  world: e4bde043-c096-417f-8703-eba4ca45a689
+  world-name: unstable
+  x: -124.44352781532271
+  y: -4.983018245938042
+  z: -147.30000001192093
+  yaw: -104.101806640625
+  pitch: 19.04997444152832
+logoutlocation:
+  world: e4bde043-c096-417f-8703-eba4ca45a689
+  world-name: unstable
+  x: -155.50435774107953
+  y: 6.0
+  z: -101.62237035464784
+  yaw: -111.30108642578125
+  pitch: 58.04998779296875

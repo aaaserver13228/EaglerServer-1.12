@@ -11,20 +11,28 @@ powertoolsenabled: true
 accepting-pay: true
 baltop-exempt: false
 timestamps:
-  lastteleport: 0
+  lastteleport: 1768581704735
   lastheal: 0
   mute: 0
   jail: 0
   onlinejail: 0
-  logout: 1767963607194
-  login: 1767963356554
+  logout: 1769012032141
+  login: 1769011854187
 money: '0'
 last-account-name: ItzRealMe
 logoutlocation:
   world: 939e0731-e4ae-4ea6-b8f9-2c0fda63c37a
   world-name: world
-  x: 18.424084261169785
+  x: 408.64621844954866
+  y: 68.0
+  z: 281.015478566855
+  yaw: -36.14996337890625
+  pitch: 17.40003204345703
+lastlocation:
+  world: 939e0731-e4ae-4ea6-b8f9-2c0fda63c37a
+  world-name: world
+  x: -2.78361240339774
   y: 87.0
-  z: -2.4890155377632963
-  yaw: -59.099952697753906
-  pitch: 11.700002670288086
+  z: -74.06327818814849
+  yaw: 33.14997863769531
+  pitch: 9.900007247924805

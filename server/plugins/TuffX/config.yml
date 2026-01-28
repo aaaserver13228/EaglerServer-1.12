@@ -5,7 +5,10 @@ debug-mode: false
 enabled-worlds:
     - 'world'
     - 'flat'
-    - 'unstable'
+    - 'stable
+    - 'unstable1'
+    - 'world_nether'
+    - 'testing'
 
 #the amount of threads for the chunk processor to use - using more threads processes chunks faster, but increases CPU usage
 #-1 is automatic
@@ -17,4 +20,4 @@ cache-size: 512
 cache-expiration: 5
 
 # Kick outdated clients that (generally) not compatible with this version of TuffX
-kick-outdated-clients: true
+kick-outdated-clients: false

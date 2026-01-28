@@ -1,0 +1,38 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 127.0.0.1
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 0
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1769105056035
+  login: 1769105036600
+money: '0'
+last-account-name: Reggie11
+lastlocation:
+  world: e4bde043-c096-417f-8703-eba4ca45a689
+  world-name: unstable
+  x: -63.83123460691793
+  y: 71.0
+  z: -63.973912910026044
+  yaw: -30.0023193359375
+  pitch: 3.0000650882720947
+logoutlocation:
+  world: 9d502ec0-3401-4f98-88ae-72617b0023ea
+  world-name: unstable1
+  x: 1.9988857822286075
+  y: 6.0
+  z: -9.456619682973152
+  yaw: 21.148778915405273
+  pitch: 27.29999542236328

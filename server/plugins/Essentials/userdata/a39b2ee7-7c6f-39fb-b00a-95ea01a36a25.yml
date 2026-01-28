@@ -16,23 +16,23 @@ timestamps:
   mute: 0
   jail: 0
   onlinejail: 0
-  logout: 1767978757165
-  login: 1767978747968
+  logout: 1768922398712
+  login: 1768921645687
 money: '0'
 last-account-name: Lomady
 lastlocation:
   world: 4d3cc596-fb86-498d-a082-3cffb86ab0d8
   world-name: flat
-  x: 0.0
-  y: -63.0
-  z: 0.0
-  yaw: 0.0
-  pitch: 0.0
+  x: 65.55409856268152
+  y: -60.0
+  z: 52.51621316864667
+  yaw: -163.4998779296875
+  pitch: 48.89995574951172
 logoutlocation:
   world: 4d3cc596-fb86-498d-a082-3cffb86ab0d8
   world-name: flat
-  x: -0.6023028403386961
+  x: 74.9134637902091
   y: 40.0
-  z: 31.36359679637721
-  yaw: -126.750244140625
-  pitch: 20.700008392333984
+  z: 39.984572248770476
+  yaw: -47.999847412109375
+  pitch: -27.90000343322754

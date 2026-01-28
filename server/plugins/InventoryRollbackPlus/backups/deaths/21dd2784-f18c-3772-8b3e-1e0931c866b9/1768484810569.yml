@@ -1,0 +1,12 @@
+xp: 0.0
+health: 0.0
+hunger: 15
+saturation: 0.0
+location:
+  world: world
+  x: 79.0
+  y: 65.0
+  z: -95.6
+logType: DEATH
+version: v1_21_R5
+deathReason: ENTITY_ATTACK (That1UchihaYT)

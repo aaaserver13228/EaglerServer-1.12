@@ -1,0 +1,10 @@
+{
+  "uuid" : "b8e46504-274d-3847-ac77-ed94dbe8064b",
+  "name" : "Wemmbu",
+  "wins" : 0,
+  "losses" : 0,
+  "requests" : true,
+  "rating" : null,
+  "matches" : [ ],
+  "partyRequests" : true
+}

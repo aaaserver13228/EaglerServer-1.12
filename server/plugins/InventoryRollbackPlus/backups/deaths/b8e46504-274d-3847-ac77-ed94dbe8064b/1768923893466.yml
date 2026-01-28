@@ -1,0 +1,12 @@
+xp: 518.0
+health: 0.0
+hunger: 20
+saturation: 20.0
+location:
+  world: unstable
+  x: -49.1
+  y: 80.0
+  z: -67.3
+logType: DEATH
+version: v1_21_R5
+deathReason: SUICIDE

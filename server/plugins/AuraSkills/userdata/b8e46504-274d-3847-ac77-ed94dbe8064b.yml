@@ -1,0 +1,44 @@
+uuid: b8e46504-274d-3847-ac77-ed94dbe8064b
+skills:
+  auraskills/alchemy:
+    level: 2
+    xp: 200.0
+  auraskills/agility:
+    level: 3
+    xp: 172.7946400000001
+  auraskills/farming:
+    level: 1
+    xp: 21.25
+  auraskills/fishing:
+    level: 0
+    xp: 0.0
+  auraskills/archery:
+    level: 0
+    xp: 14.0
+  auraskills/fighting:
+    level: 2
+    xp: 242.69999999999987
+  auraskills/mining:
+    level: 4
+    xp: 425.7900000000108
+  auraskills/defense:
+    level: 3
+    xp: 184.88638339042686
+  auraskills/foraging:
+    level: 2
+    xp: 412.02000000000027
+  auraskills/excavation:
+    level: 2
+    xp: 110.98000000000037
+  auraskills/enchanting:
+    level: 0
+    xp: 0.0
+mana: 28.0
+action_bar:
+  idle: true
+stat_modifiers:
+  '0':
+    name: mining-stamina
+    stat: auraskills/toughness
+    operation: ADD
+    value: 1.0

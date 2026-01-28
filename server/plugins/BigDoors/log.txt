@@ -1,0 +1,392 @@
+[21-01-2026 12:04:50] Initializing BigDoors build:
+Release:              true
+Commit:               master: 2d797d12590ac6f6c6b1250cae2d461bf9afc3c5 dirty:true (2025-12-12T14:47:20Z)
+Actions Build number: 7
+Actions Build id:     20412286518
+Build sequence num.:  -1
+
+
+[21-01-2026 12:05:54] Running in an invalid environment: 'ViaRewind'. This can be bypassed in the config if you are feeling adventurous (unsafeMode).
+[21-01-2026 12:11:19] Initializing BigDoors build:
+Release:              true
+Commit:               master: 2d797d12590ac6f6c6b1250cae2d461bf9afc3c5 dirty:true (2025-12-12T14:47:20Z)
+Actions Build number: 7
+Actions Build id:     20412286518
+Build sequence num.:  -1
+
+
+[21-01-2026 12:12:09] Running in an invalid environment: 'ViaRewind'. This can be bypassed in the config if you are feeling adventurous (unsafeMode).
+[21-01-2026 12:18:17] Initializing BigDoors build:
+Release:              true
+Commit:               master: 2d797d12590ac6f6c6b1250cae2d461bf9afc3c5 dirty:true (2025-12-12T14:47:20Z)
+Actions Build number: 7
+Actions Build id:     20412286518
+Build sequence num.:  -1
+
+
+[21-01-2026 12:19:07] Running in an invalid environment: 'ViaRewind'. This can be bypassed in the config if you are feeling adventurous (unsafeMode).
+[21-01-2026 12:21:36] Initializing BigDoors build:
+Release:              true
+Commit:               master: 2d797d12590ac6f6c6b1250cae2d461bf9afc3c5 dirty:true (2025-12-12T14:47:20Z)
+Actions Build number: 7
+Actions Build id:     20412286518
+Build sequence num.:  -1
+
+
+[21-01-2026 12:22:22] Running in an invalid environment: 'ViaRewind'. This can be bypassed in the config if you are feeling adventurous (unsafeMode).
+[21-01-2026 12:34:09] Initializing BigDoors build:
+Release:              true
+Commit:               master: 2d797d12590ac6f6c6b1250cae2d461bf9afc3c5 dirty:true (2025-12-12T14:47:20Z)
+Actions Build number: 7
+Actions Build id:     20412286518
+Build sequence num.:  -1
+
+
+[21-01-2026 12:34:57] Running in an invalid environment: 'ViaRewind'. This can be bypassed in the config if you are feeling adventurous (unsafeMode).
+[21-01-2026 13:36:39] Initializing BigDoors build:
+Release:              true
+Commit:               master: 2d797d12590ac6f6c6b1250cae2d461bf9afc3c5 dirty:true (2025-12-12T14:47:20Z)
+Actions Build number: 7
+Actions Build id:     20412286518
+Build sequence num.:  -1
+[21-01-2026 13:37:26] ╔═══════════════════════════════════════════════════════╗
+[21-01-2026 13:37:26] ║                                                       ║
+[21-01-2026 13:37:26] ║                    !!  WARNING  !!                    ║
+[21-01-2026 13:37:26] ║                                                       ║
+[21-01-2026 13:37:26] ║                                                       ║
+[21-01-2026 13:37:26] ║            You have enabled "unsafe mode"!            ║
+[21-01-2026 13:37:26] ║                                                       ║
+[21-01-2026 13:37:26] ║   THIS IS NOT SUPPORTED! USE THIS AT YOUR OWN RISK!   ║
+[21-01-2026 13:37:26] ║                                                       ║
+[21-01-2026 13:37:26] ╚═══════════════════════════════════════════════════════╝
+[21-01-2026 13:37:26] Starting BigDoors version: 0.1.8.65
+[21-01-2026 13:37:28] Successfully hooked into "WorldGuard"!
+[21-01-2026 13:37:28] New file created at plugins/BigDoors/doorDB.db
+[21-01-2026 14:16:17] Could not determine opening direction for door: "ParrotX2". Owned by "1ac60049-6f05-3e8c-91b8-0ec93922d8db" (0)
+Max = (30;50;3), min = (30;41;-3)
+Eng = (30;41;-3), locked = false, open = false
+blockCount = 70, hash = -709386764097!
+[21-01-2026 14:18:26] Updating openDirection of door 2 "ParrotX2" to CLOCKWISE. If this is undesired, change it via the GUI.
+[21-01-2026 14:25:22] Updating openDirection of door 3 "ParrotX" to CLOCKWISE. If this is undesired, change it via the GUI.
+[21-01-2026 14:38:18] Initializing BigDoors build:
+Release:              true
+Commit:               master: 2d797d12590ac6f6c6b1250cae2d461bf9afc3c5 dirty:true (2025-12-12T14:47:20Z)
+Actions Build number: 7
+Actions Build id:     20412286518
+Build sequence num.:  -1
+[21-01-2026 14:39:06] ╔═══════════════════════════════════════════════════════╗
+[21-01-2026 14:39:06] ║                                                       ║
+[21-01-2026 14:39:06] ║                    !!  WARNING  !!                    ║
+[21-01-2026 14:39:06] ║                                                       ║
+[21-01-2026 14:39:06] ║                                                       ║
+[21-01-2026 14:39:06] ║            You have enabled "unsafe mode"!            ║
+[21-01-2026 14:39:06] ║                                                       ║
+[21-01-2026 14:39:06] ║   THIS IS NOT SUPPORTED! USE THIS AT YOUR OWN RISK!   ║
+[21-01-2026 14:39:06] ║                                                       ║
+[21-01-2026 14:39:06] ╚═══════════════════════════════════════════════════════╝
+[21-01-2026 14:39:06] Starting BigDoors version: 0.1.8.65
+[21-01-2026 14:39:08] Successfully hooked into "WorldGuard"!
+[22-01-2026 14:15:44] Initializing BigDoors build:
+Release:              true
+Commit:               master: 2d797d12590ac6f6c6b1250cae2d461bf9afc3c5 dirty:true (2025-12-12T14:47:20Z)
+Actions Build number: 7
+Actions Build id:     20412286518
+Build sequence num.:  -1
+[22-01-2026 14:16:32] ╔═══════════════════════════════════════════════════════╗
+[22-01-2026 14:16:32] ║                                                       ║
+[22-01-2026 14:16:32] ║                    !!  WARNING  !!                    ║
+[22-01-2026 14:16:32] ║                                                       ║
+[22-01-2026 14:16:32] ║                                                       ║
+[22-01-2026 14:16:32] ║            You have enabled "unsafe mode"!            ║
+[22-01-2026 14:16:32] ║                                                       ║
+[22-01-2026 14:16:32] ║   THIS IS NOT SUPPORTED! USE THIS AT YOUR OWN RISK!   ║
+[22-01-2026 14:16:32] ║                                                       ║
+[22-01-2026 14:16:32] ╚═══════════════════════════════════════════════════════╝
+[22-01-2026 14:16:32] Starting BigDoors version: 0.1.8.65
+[22-01-2026 14:16:33] Successfully hooked into "WorldGuard"!
+[22-01-2026 17:33:17] Initializing BigDoors build:
+Release:              true
+Commit:               master: 2d797d12590ac6f6c6b1250cae2d461bf9afc3c5 dirty:true (2025-12-12T14:47:20Z)
+Actions Build number: 7
+Actions Build id:     20412286518
+Build sequence num.:  -1
+[22-01-2026 17:34:06] ╔═══════════════════════════════════════════════════════╗
+[22-01-2026 17:34:06] ║                                                       ║
+[22-01-2026 17:34:06] ║                    !!  WARNING  !!                    ║
+[22-01-2026 17:34:06] ║                                                       ║
+[22-01-2026 17:34:06] ║                                                       ║
+[22-01-2026 17:34:06] ║            You have enabled "unsafe mode"!            ║
+[22-01-2026 17:34:06] ║                                                       ║
+[22-01-2026 17:34:06] ║   THIS IS NOT SUPPORTED! USE THIS AT YOUR OWN RISK!   ║
+[22-01-2026 17:34:06] ║                                                       ║
+[22-01-2026 17:34:06] ╚═══════════════════════════════════════════════════════╝
+[22-01-2026 17:34:06] Starting BigDoors version: 0.1.8.65
+[22-01-2026 17:34:08] Successfully hooked into "WorldGuard"!
+[22-01-2026 17:57:43] Initializing BigDoors build:
+Release:              true
+Commit:               master: 2d797d12590ac6f6c6b1250cae2d461bf9afc3c5 dirty:true (2025-12-12T14:47:20Z)
+Actions Build number: 7
+Actions Build id:     20412286518
+Build sequence num.:  -1
+[22-01-2026 17:58:32] ╔═══════════════════════════════════════════════════════╗
+[22-01-2026 17:58:32] ║                                                       ║
+[22-01-2026 17:58:33] ║                    !!  WARNING  !!                    ║
+[22-01-2026 17:58:33] ║                                                       ║
+[22-01-2026 17:58:33] ║                                                       ║
+[22-01-2026 17:58:33] ║            You have enabled "unsafe mode"!            ║
+[22-01-2026 17:58:33] ║                                                       ║
+[22-01-2026 17:58:33] ║   THIS IS NOT SUPPORTED! USE THIS AT YOUR OWN RISK!   ║
+[22-01-2026 17:58:33] ║                                                       ║
+[22-01-2026 17:58:33] ╚═══════════════════════════════════════════════════════╝
+[22-01-2026 17:58:33] Starting BigDoors version: 0.1.8.65
+[22-01-2026 17:58:34] Successfully hooked into "WorldGuard"!
+[23-01-2026 12:04:43] Initializing BigDoors build:
+Release:              true
+Commit:               master: 2d797d12590ac6f6c6b1250cae2d461bf9afc3c5 dirty:true (2025-12-12T14:47:20Z)
+Actions Build number: 7
+Actions Build id:     20412286518
+Build sequence num.:  -1
+[23-01-2026 12:05:34] ╔═══════════════════════════════════════════════════════╗
+[23-01-2026 12:05:34] ║                                                       ║
+[23-01-2026 12:05:34] ║                    !!  WARNING  !!                    ║
+[23-01-2026 12:05:34] ║                                                       ║
+[23-01-2026 12:05:34] ║                                                       ║
+[23-01-2026 12:05:34] ║            You have enabled "unsafe mode"!            ║
+[23-01-2026 12:05:34] ║                                                       ║
+[23-01-2026 12:05:34] ║   THIS IS NOT SUPPORTED! USE THIS AT YOUR OWN RISK!   ║
+[23-01-2026 12:05:34] ║                                                       ║
+[23-01-2026 12:05:34] ╚═══════════════════════════════════════════════════════╝
+[23-01-2026 12:05:34] Starting BigDoors version: 0.1.8.65
+[23-01-2026 12:05:36] Successfully hooked into "WorldGuard"!
+[23-01-2026 12:28:52] Could not determine opening direction for door: "ParrotX". Owned by "1ac60049-6f05-3e8c-91b8-0ec93922d8db" (2)
+Max = (30;48;9), min = (30;42;4)
+Eng = (30;42;9), locked = false, open = false
+blockCount = 42, hash = -708292050753!
+[23-01-2026 12:28:52] Could not determine opening direction for door: "ParrotX2". Owned by "1ac60049-6f05-3e8c-91b8-0ec93922d8db" (2)
+Max = (30;48;3), min = (30;42;-2)
+Eng = (30;42;-2), locked = false, open = false
+blockCount = 42, hash = -708292050753!
+[23-01-2026 12:28:54] Could not determine opening direction for door: "ParrotX2". Owned by "1ac60049-6f05-3e8c-91b8-0ec93922d8db" (2)
+Max = (30;48;3), min = (30;42;-2)
+Eng = (30;42;-2), locked = false, open = false
+blockCount = 42, hash = -708292050753!
+[23-01-2026 12:28:54] Could not determine opening direction for door: "ParrotX". Owned by "1ac60049-6f05-3e8c-91b8-0ec93922d8db" (2)
+Max = (30;48;9), min = (30;42;4)
+Eng = (30;42;9), locked = false, open = false
+blockCount = 42, hash = -708292050753!
+[23-01-2026 12:29:00] Could not determine opening direction for door: "ParrotX". Owned by "1ac60049-6f05-3e8c-91b8-0ec93922d8db" (2)
+Max = (30;48;9), min = (30;42;4)
+Eng = (30;42;9), locked = false, open = false
+blockCount = 42, hash = -708292050753!
+[23-01-2026 12:29:05] Could not determine opening direction for door: "ParrotX2". Owned by "1ac60049-6f05-3e8c-91b8-0ec93922d8db" (2)
+Max = (30;48;3), min = (30;42;-2)
+Eng = (30;42;-2), locked = false, open = false
+blockCount = 42, hash = -708292050753!
+[23-01-2026 12:29:08] Could not determine opening direction for door: "ParrotX". Owned by "1ac60049-6f05-3e8c-91b8-0ec93922d8db" (2)
+Max = (30;48;9), min = (30;42;4)
+Eng = (30;42;9), locked = false, open = false
+blockCount = 42, hash = -708292050753!
+[23-01-2026 12:29:09] Could not determine opening direction for door: "ParrotX". Owned by "1ac60049-6f05-3e8c-91b8-0ec93922d8db" (2)
+Max = (30;48;9), min = (30;42;4)
+Eng = (30;42;9), locked = false, open = false
+blockCount = 42, hash = -708292050753!
+[23-01-2026 12:29:09] Could not determine opening direction for door: "ParrotX2". Owned by "1ac60049-6f05-3e8c-91b8-0ec93922d8db" (2)
+Max = (30;48;3), min = (30;42;-2)
+Eng = (30;42;-2), locked = false, open = false
+blockCount = 42, hash = -708292050753!
+[23-01-2026 12:29:10] Could not determine opening direction for door: "ParrotX2". Owned by "1ac60049-6f05-3e8c-91b8-0ec93922d8db" (2)
+Max = (30;48;3), min = (30;42;-2)
+Eng = (30;42;-2), locked = false, open = false
+blockCount = 42, hash = -708292050753!
+[23-01-2026 12:29:10] Could not determine opening direction for door: "ParrotX". Owned by "1ac60049-6f05-3e8c-91b8-0ec93922d8db" (2)
+Max = (30;48;9), min = (30;42;4)
+Eng = (30;42;9), locked = false, open = false
+blockCount = 42, hash = -708292050753!
+[23-01-2026 12:31:53] Could not determine opening direction for door: "ParrotX". Owned by "1ac60049-6f05-3e8c-91b8-0ec93922d8db" (0)
+Max = (30;48;9), min = (30;42;4)
+Eng = (30;42;9), locked = false, open = false
+blockCount = 42, hash = -708292050753!
+[23-01-2026 12:32:05] Could not determine opening direction for door: "ParrotX". Owned by "1ac60049-6f05-3e8c-91b8-0ec93922d8db" (2)
+Max = (30;48;9), min = (30;42;4)
+Eng = (30;42;9), locked = false, open = false
+blockCount = 42, hash = -708292050753!
+[23-01-2026 12:32:05] Could not determine opening direction for door: "ParrotX2". Owned by "1ac60049-6f05-3e8c-91b8-0ec93922d8db" (2)
+Max = (30;48;3), min = (30;42;-2)
+Eng = (30;42;-2), locked = false, open = false
+blockCount = 42, hash = -708292050753!
+[23-01-2026 12:52:22] Could not determine opening direction for door: "ParrotX2". Owned by "1ac60049-6f05-3e8c-91b8-0ec93922d8db" (2)
+Max = (30;48;3), min = (30;42;-2)
+Eng = (30;42;-2), locked = false, open = false
+blockCount = 42, hash = -708292050753!
+[23-01-2026 12:52:22] Could not determine opening direction for door: "ParrotX". Owned by "1ac60049-6f05-3e8c-91b8-0ec93922d8db" (2)
+Max = (30;48;9), min = (30;42;4)
+Eng = (30;42;9), locked = false, open = false
+blockCount = 42, hash = -708292050753!
+[23-01-2026 12:54:48] Could not determine opening direction for door: "ParrotX". Owned by "1ac60049-6f05-3e8c-91b8-0ec93922d8db" (2)
+Max = (30;48;9), min = (30;42;4)
+Eng = (30;42;9), locked = false, open = false
+blockCount = 42, hash = -708292050753!
+[23-01-2026 12:54:48] Could not determine opening direction for door: "ParrotX2". Owned by "1ac60049-6f05-3e8c-91b8-0ec93922d8db" (2)
+Max = (30;48;3), min = (30;42;-2)
+Eng = (30;42;-2), locked = false, open = false
+blockCount = 42, hash = -708292050753!
+[23-01-2026 12:54:50] Could not determine opening direction for door: "ParrotX2". Owned by "1ac60049-6f05-3e8c-91b8-0ec93922d8db" (2)
+Max = (30;48;3), min = (30;42;-2)
+Eng = (30;42;-2), locked = false, open = false
+blockCount = 42, hash = -708292050753!
+[23-01-2026 12:54:50] Could not determine opening direction for door: "ParrotX". Owned by "1ac60049-6f05-3e8c-91b8-0ec93922d8db" (2)
+Max = (30;48;9), min = (30;42;4)
+Eng = (30;42;9), locked = false, open = false
+blockCount = 42, hash = -708292050753!
+[23-01-2026 13:11:40] Could not determine opening direction for door: "ParrotX". Owned by "1ac60049-6f05-3e8c-91b8-0ec93922d8db" (2)
+Max = (30;48;9), min = (30;42;4)
+Eng = (30;42;9), locked = false, open = false
+blockCount = 42, hash = -708292050753!
+[23-01-2026 13:11:40] Could not determine opening direction for door: "ParrotX2". Owned by "1ac60049-6f05-3e8c-91b8-0ec93922d8db" (2)
+Max = (30;48;3), min = (30;42;-2)
+Eng = (30;42;-2), locked = false, open = false
+blockCount = 42, hash = -708292050753!
+[23-01-2026 13:11:43] Could not determine opening direction for door: "ParrotX2". Owned by "1ac60049-6f05-3e8c-91b8-0ec93922d8db" (2)
+Max = (30;48;3), min = (30;42;-2)
+Eng = (30;42;-2), locked = false, open = false
+blockCount = 42, hash = -708292050753!
+[23-01-2026 13:11:43] Could not determine opening direction for door: "ParrotX". Owned by "1ac60049-6f05-3e8c-91b8-0ec93922d8db" (2)
+Max = (30;48;9), min = (30;42;4)
+Eng = (30;42;9), locked = false, open = false
+blockCount = 42, hash = -708292050753!
+[23-01-2026 13:15:38] Could not determine opening direction for door: "ParrotX". Owned by "1ac60049-6f05-3e8c-91b8-0ec93922d8db" (2)
+Max = (30;48;9), min = (30;42;4)
+Eng = (30;42;9), locked = false, open = false
+blockCount = 42, hash = -708292050753!
+[23-01-2026 13:15:38] Could not determine opening direction for door: "ParrotX2". Owned by "1ac60049-6f05-3e8c-91b8-0ec93922d8db" (2)
+Max = (30;48;3), min = (30;42;-2)
+Eng = (30;42;-2), locked = false, open = false
+blockCount = 42, hash = -708292050753!
+[23-01-2026 13:15:40] Could not determine opening direction for door: "ParrotX2". Owned by "1ac60049-6f05-3e8c-91b8-0ec93922d8db" (2)
+Max = (30;48;3), min = (30;42;-2)
+Eng = (30;42;-2), locked = false, open = false
+blockCount = 42, hash = -708292050753!
+[23-01-2026 13:15:40] Could not determine opening direction for door: "ParrotX". Owned by "1ac60049-6f05-3e8c-91b8-0ec93922d8db" (2)
+Max = (30;48;9), min = (30;42;4)
+Eng = (30;42;9), locked = false, open = false
+blockCount = 42, hash = -708292050753!
+[23-01-2026 13:15:49] Could not determine opening direction for door: "ParrotX". Owned by "1ac60049-6f05-3e8c-91b8-0ec93922d8db" (2)
+Max = (30;48;9), min = (30;42;4)
+Eng = (30;42;9), locked = false, open = false
+blockCount = 42, hash = -708292050753!
+[23-01-2026 13:15:49] Could not determine opening direction for door: "ParrotX2". Owned by "1ac60049-6f05-3e8c-91b8-0ec93922d8db" (2)
+Max = (30;48;3), min = (30;42;-2)
+Eng = (30;42;-2), locked = false, open = false
+blockCount = 42, hash = -708292050753!
+[23-01-2026 13:16:03] Could not determine opening direction for door: "ParrotX2". Owned by "1ac60049-6f05-3e8c-91b8-0ec93922d8db" (2)
+Max = (30;48;3), min = (30;42;-2)
+Eng = (30;42;-2), locked = false, open = false
+blockCount = 42, hash = -708292050753!
+[23-01-2026 13:16:03] Could not determine opening direction for door: "ParrotX". Owned by "1ac60049-6f05-3e8c-91b8-0ec93922d8db" (2)
+Max = (30;48;9), min = (30;42;4)
+Eng = (30;42;9), locked = false, open = false
+blockCount = 42, hash = -708292050753!
+[23-01-2026 13:44:53] Could not determine opening direction for door: "ParrotX". Owned by "1ac60049-6f05-3e8c-91b8-0ec93922d8db" (2)
+Max = (30;48;9), min = (30;42;4)
+Eng = (30;42;9), locked = false, open = false
+blockCount = 42, hash = -708292050753!
+[23-01-2026 13:44:53] Could not determine opening direction for door: "ParrotX2". Owned by "1ac60049-6f05-3e8c-91b8-0ec93922d8db" (2)
+Max = (30;48;3), min = (30;42;-2)
+Eng = (30;42;-2), locked = false, open = false
+blockCount = 42, hash = -708292050753!
+[23-01-2026 13:44:56] Could not determine opening direction for door: "ParrotX2". Owned by "1ac60049-6f05-3e8c-91b8-0ec93922d8db" (2)
+Max = (30;48;3), min = (30;42;-2)
+Eng = (30;42;-2), locked = false, open = false
+blockCount = 42, hash = -708292050753!
+[23-01-2026 13:44:56] Could not determine opening direction for door: "ParrotX". Owned by "1ac60049-6f05-3e8c-91b8-0ec93922d8db" (2)
+Max = (30;48;9), min = (30;42;4)
+Eng = (30;42;9), locked = false, open = false
+blockCount = 42, hash = -708292050753!
+[23-01-2026 13:45:10] Could not determine opening direction for door: "ParrotX". Owned by "1ac60049-6f05-3e8c-91b8-0ec93922d8db" (2)
+Max = (30;48;9), min = (30;42;4)
+Eng = (30;42;9), locked = false, open = false
+blockCount = 42, hash = -708292050753!
+[23-01-2026 13:45:10] Could not determine opening direction for door: "ParrotX2". Owned by "1ac60049-6f05-3e8c-91b8-0ec93922d8db" (2)
+Max = (30;48;3), min = (30;42;-2)
+Eng = (30;42;-2), locked = false, open = false
+blockCount = 42, hash = -708292050753!
+[23-01-2026 13:45:11] Could not determine opening direction for door: "ParrotX2". Owned by "1ac60049-6f05-3e8c-91b8-0ec93922d8db" (2)
+Max = (30;48;3), min = (30;42;-2)
+Eng = (30;42;-2), locked = false, open = false
+blockCount = 42, hash = -708292050753!
+[23-01-2026 13:45:11] Could not determine opening direction for door: "ParrotX". Owned by "1ac60049-6f05-3e8c-91b8-0ec93922d8db" (2)
+Max = (30;48;9), min = (30;42;4)
+Eng = (30;42;9), locked = false, open = false
+blockCount = 42, hash = -708292050753!
+[23-01-2026 15:36:45] Initializing BigDoors build:
+Release:              true
+Commit:               master: 2d797d12590ac6f6c6b1250cae2d461bf9afc3c5 dirty:true (2025-12-12T14:47:20Z)
+Actions Build number: 7
+Actions Build id:     20412286518
+Build sequence num.:  -1
+[23-01-2026 15:37:26] ╔═══════════════════════════════════════════════════════╗
+[23-01-2026 15:37:26] ║                                                       ║
+[23-01-2026 15:37:26] ║                    !!  WARNING  !!                    ║
+[23-01-2026 15:37:26] ║                                                       ║
+[23-01-2026 15:37:26] ║                                                       ║
+[23-01-2026 15:37:26] ║            You have enabled "unsafe mode"!            ║
+[23-01-2026 15:37:26] ║                                                       ║
+[23-01-2026 15:37:26] ║   THIS IS NOT SUPPORTED! USE THIS AT YOUR OWN RISK!   ║
+[23-01-2026 15:37:26] ║                                                       ║
+[23-01-2026 15:37:26] ╚═══════════════════════════════════════════════════════╝
+[23-01-2026 15:37:26] Starting BigDoors version: 0.1.8.65
+[23-01-2026 15:37:28] Successfully hooked into "WorldGuard"!
+[23-01-2026 16:40:04] Initializing BigDoors build:
+Release:              true
+Commit:               master: 2d797d12590ac6f6c6b1250cae2d461bf9afc3c5 dirty:true (2025-12-12T14:47:20Z)
+Actions Build number: 7
+Actions Build id:     20412286518
+Build sequence num.:  -1
+[23-01-2026 16:40:52] ╔═══════════════════════════════════════════════════════╗
+[23-01-2026 16:40:52] ║                                                       ║
+[23-01-2026 16:40:52] ║                    !!  WARNING  !!                    ║
+[23-01-2026 16:40:52] ║                                                       ║
+[23-01-2026 16:40:52] ║                                                       ║
+[23-01-2026 16:40:52] ║            You have enabled "unsafe mode"!            ║
+[23-01-2026 16:40:52] ║                                                       ║
+[23-01-2026 16:40:52] ║   THIS IS NOT SUPPORTED! USE THIS AT YOUR OWN RISK!   ║
+[23-01-2026 16:40:52] ║                                                       ║
+[23-01-2026 16:40:52] ╚═══════════════════════════════════════════════════════╝
+[23-01-2026 16:40:52] Starting BigDoors version: 0.1.8.65
+[23-01-2026 16:40:54] Successfully hooked into "WorldGuard"!
+[23-01-2026 17:15:38] Initializing BigDoors build:
+Release:              true
+Commit:               master: 2d797d12590ac6f6c6b1250cae2d461bf9afc3c5 dirty:true (2025-12-12T14:47:20Z)
+Actions Build number: 7
+Actions Build id:     20412286518
+Build sequence num.:  -1
+[23-01-2026 17:16:32] ╔═══════════════════════════════════════════════════════╗
+[23-01-2026 17:16:32] ║                                                       ║
+[23-01-2026 17:16:32] ║                    !!  WARNING  !!                    ║
+[23-01-2026 17:16:32] ║                                                       ║
+[23-01-2026 17:16:32] ║                                                       ║
+[23-01-2026 17:16:32] ║            You have enabled "unsafe mode"!            ║
+[23-01-2026 17:16:32] ║                                                       ║
+[23-01-2026 17:16:32] ║   THIS IS NOT SUPPORTED! USE THIS AT YOUR OWN RISK!   ║
+[23-01-2026 17:16:32] ║                                                       ║
+[23-01-2026 17:16:32] ╚═══════════════════════════════════════════════════════╝
+[23-01-2026 17:16:32] Starting BigDoors version: 0.1.8.65
+[23-01-2026 17:16:34] Successfully hooked into "WorldGuard"!
+[23-01-2026 19:29:52] Initializing BigDoors build:
+Release:              true
+Commit:               master: 2d797d12590ac6f6c6b1250cae2d461bf9afc3c5 dirty:true (2025-12-12T14:47:20Z)
+Actions Build number: 7
+Actions Build id:     20412286518
+Build sequence num.:  -1
+[23-01-2026 19:30:40] ╔═══════════════════════════════════════════════════════╗
+[23-01-2026 19:30:40] ║                                                       ║
+[23-01-2026 19:30:40] ║                    !!  WARNING  !!                    ║
+[23-01-2026 19:30:41] ║                                                       ║
+[23-01-2026 19:30:41] ║                                                       ║
+[23-01-2026 19:30:41] ║            You have enabled "unsafe mode"!            ║
+[23-01-2026 19:30:41] ║                                                       ║
+[23-01-2026 19:30:41] ║   THIS IS NOT SUPPORTED! USE THIS AT YOUR OWN RISK!   ║
+[23-01-2026 19:30:41] ║                                                       ║
+[23-01-2026 19:30:41] ╚═══════════════════════════════════════════════════════╝
+[23-01-2026 19:30:41] Starting BigDoors version: 0.1.8.65
+[23-01-2026 19:30:43] Successfully hooked into "WorldGuard"!

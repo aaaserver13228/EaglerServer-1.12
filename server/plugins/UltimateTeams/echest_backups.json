@@ -1,0 +1,78 @@
+{
+  "1-1": [
+    {
+      "teamId": 1,
+      "chestNumber": 1,
+      "timestamp": 1769177180325,
+      "serializedContents": "",
+      "rows": 3
+    },
+    {
+      "teamId": 1,
+      "chestNumber": 1,
+      "timestamp": 1769190476581,
+      "serializedContents": "",
+      "rows": 3
+    },
+    {
+      "teamId": 1,
+      "chestNumber": 1,
+      "timestamp": 1769192276628,
+      "serializedContents": "",
+      "rows": 3
+    },
+    {
+      "teamId": 1,
+      "chestNumber": 1,
+      "timestamp": 1769194076629,
+      "serializedContents": "",
+      "rows": 3
+    },
+    {
+      "teamId": 1,
+      "chestNumber": 1,
+      "timestamp": 1769195876678,
+      "serializedContents": "",
+      "rows": 3
+    }
+  ],
+  "2-1": [
+    {
+      "teamId": 2,
+      "chestNumber": 1,
+      "timestamp": 1769192276628,
+      "serializedContents": "",
+      "rows": 3
+    },
+    {
+      "teamId": 2,
+      "chestNumber": 1,
+      "timestamp": 1769194076629,
+      "serializedContents": "",
+      "rows": 3
+    },
+    {
+      "teamId": 2,
+      "chestNumber": 1,
+      "timestamp": 1769195876678,
+      "serializedContents": "",
+      "rows": 3
+    }
+  ],
+  "3-1": [
+    {
+      "teamId": 3,
+      "chestNumber": 1,
+      "timestamp": 1769194076629,
+      "serializedContents": "",
+      "rows": 3
+    },
+    {
+      "teamId": 3,
+      "chestNumber": 1,
+      "timestamp": 1769195876678,
+      "serializedContents": "",
+      "rows": 3
+    }
+  ]
+}

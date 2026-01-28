@@ -1,0 +1,45 @@
+combat-log:
+  timer-duration: 15 # Duration of the combat timer in seconds
+  elytra-disabled-in-combat: true # If true, Elytra usage is disabled while in combat
+  teleporting-disabled-in-combat: false # If true, teleporting in any way is disabled while in combat
+  explosion-set-in-combat: true #If true endcrystals and block explosions set players affected in combat
+  stop-riptiding: false #Stops players from using Riptide
+  cooldown: 10000 # Cooldown for riptide in sec*100
+  punishment-damage: 5.0 # the damage as a punishment for doing restricted actions. 0 = off
+  kill_when_log: false
+  mending-disabled-in-combat: true
+  timer-display: actionbar # "actionbar" oder "bossbar"
+  combat-log:
+    enderpearl:
+      # This option enables combat logging when a player uses an Ender Pearl while on land.
+      set-combat-on-land: true
+
+      # This option ensures that combat logging is triggered even if the player is not already in combat when they use an Ender Pearl.
+      only-if-already-in-combat: false
+
+  ignored-worlds: # List of worlds where the combat timer is ignored
+    - "ffa"
+
+  blocked-commands: #Commands blocked in combat
+    - tpa
+
+  combat-zone:
+    enabled: true # A zone to set players in combat
+    radius: 10 # Zone range
+
+  messages:
+    combat-log: "&c{player} has combat logged!" # Message broadcasted when a player logs out during combat
+    elytra-use-denied: "&dYou can't use elytra in combat" # Message sent when Elytra usage is denied in combat
+    action-bar-timer: "&c{timeLeft}/{maxTime}" # Action bar message showing the remaining combat time
+    bossbar-title: "&cIn Combat: {timeLeft}s"
+    teleporting-denied: "§dYou can't teleport in combat" # Message sent when a player tries to teleport in combat
+    blocked-command: "§cYou can't use this command in combat" #Message sent when a player tries to execute a command in combat
+    region-entry-denied: "§cYou can't enter this region in combat"
+
+anti-kill-abuse:
+  enabled: true
+  max-kills: 5              # more than 5 kills = Abuse
+  remove-kill-after: 60     # kill removed from list in seconds
+  punish-commands:
+    - "kick {killer} Kill-Abuse detected!"
+    - "ban {killer}"        # Example command, can be everything

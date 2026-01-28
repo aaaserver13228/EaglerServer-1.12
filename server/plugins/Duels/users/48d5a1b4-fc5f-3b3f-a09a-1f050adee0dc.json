@@ -1,0 +1,10 @@
+{
+  "uuid" : "48d5a1b4-fc5f-3b3f-a09a-1f050adee0dc",
+  "name" : "Manepear",
+  "wins" : 0,
+  "losses" : 0,
+  "requests" : true,
+  "rating" : null,
+  "matches" : [ ],
+  "partyRequests" : true
+}

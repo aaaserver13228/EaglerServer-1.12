@@ -1,0 +1,12 @@
+xp: 0.0
+health: 0.0
+hunger: 20
+saturation: 0.0
+location:
+  world: nick
+  x: -0.4
+  y: -59.9
+  z: 1.3
+logType: DEATH
+version: v1_21_R5
+deathReason: ENTITY_ATTACK (Zombie)

@@ -16,8 +16,8 @@ timestamps:
   mute: 0
   jail: 0
   onlinejail: 0
-  logout: 1767962091794
-  login: 1767961818089
+  logout: 1768918679364
+  login: 1768918587219
 money: '0'
 last-account-name: Yareth_dude
 lastlocation:
@@ -31,8 +31,8 @@ lastlocation:
 logoutlocation:
   world: 939e0731-e4ae-4ea6-b8f9-2c0fda63c37a
   world-name: world
-  x: -29.28593877682003
-  y: 91.0
-  z: -115.30000001192093
-  yaw: 16.049591064453125
-  pitch: 9.450003623962402
+  x: 71.1479752559423
+  y: 56.0
+  z: -81.7050991280751
+  yaw: 98.0997314453125
+  pitch: 60.150028228759766

@@ -1,0 +1,38 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 127.0.0.1
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 0
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1768925187955
+  login: 1768924126964
+money: '0'
+last-account-name: gooner_boy_
+lastlocation:
+  world: 939e0731-e4ae-4ea6-b8f9-2c0fda63c37a
+  world-name: world
+  x: 12.701310839499406
+  y: 3.0
+  z: 232.5493111472521
+  yaw: 82.64974975585938
+  pitch: 40.50001907348633
+logoutlocation:
+  world: 91d62b16-b001-4979-8c10-7f38aa20ad95
+  world-name: bending
+  x: 23.79336470381378
+  y: -60.0
+  z: -12.759117244278613
+  yaw: -163.49996948242188
+  pitch: -85.95000457763672

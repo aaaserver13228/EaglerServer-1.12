@@ -1,0 +1,165 @@
+default:
+  enterMessage: ''
+  route: []
+  allowPlayerExit: true
+  slowDown: true
+  banking:
+    strength: 0.0
+    smoothness: 10.0
+  destination: ''
+  blockTypes: ''
+  blockOffset: unset
+  speedLimit: 0.4
+  soundEnabled: true
+  displayName: ''
+  killMessage: ''
+  collisionDamage: 1.0
+  wait:
+    distance: 0.0
+    delay: 0.0
+    acceleration: 0.0
+    deceleration: 0.0
+    predict: true
+  spawnItemDrops: true
+  blockBreakTypes: []
+  paperPlayerViewDistance: -1
+  keepChunksLoaded: false
+  allowPlayerEnter: true
+  allowPlayerTake: false
+  suffocation: true
+  routeIndex: 0
+  invincible: false
+  pickUp: false
+  collision:
+    players: DEFAULT
+    misc: PUSH
+    train: LINK
+    block: DEFAULT
+  onlyOwnersCanEnter: false
+  requirePoweredMinecart: false
+  gravity: 1.0
+  driveSound: ''
+  exitOffset:
+    ==: Vector
+    x: 0.0
+    y: 0.0
+    z: 0.0
+  exitYawLocked: false
+  exitYaw: 0.0
+  exitPitchLocked: false
+  exitPitch: 0.0
+  allowManualMovement: false
+  allowMobManualMovement: false
+  friction: 1.0
+  name: train#
+  realtimePhysics: false
+admin:
+  enterMessage: ''
+  route: []
+  allowPlayerExit: true
+  slowDown: true
+  banking:
+    strength: 0.0
+    smoothness: 10.0
+  destination: ''
+  blockTypes: ''
+  blockOffset: unset
+  speedLimit: 0.4
+  soundEnabled: true
+  displayName: ''
+  killMessage: ''
+  collisionDamage: 1.0
+  wait:
+    distance: 0.0
+    delay: 0.0
+    acceleration: 0.0
+    deceleration: 0.0
+    predict: true
+  spawnItemDrops: true
+  blockBreakTypes: []
+  paperPlayerViewDistance: -1
+  keepChunksLoaded: false
+  allowPlayerEnter: true
+  allowPlayerTake: false
+  suffocation: true
+  routeIndex: 0
+  invincible: false
+  pickUp: false
+  collision:
+    players: DEFAULT
+    misc: PUSH
+    train: LINK
+    block: DEFAULT
+  onlyOwnersCanEnter: false
+  requirePoweredMinecart: false
+  gravity: 1.0
+  driveSound: ''
+  exitOffset:
+    ==: Vector
+    x: 0.0
+    y: 0.0
+    z: 0.0
+  exitYawLocked: false
+  exitYaw: 0.0
+  exitPitchLocked: false
+  exitPitch: 0.0
+  allowManualMovement: false
+  allowMobManualMovement: false
+  friction: 1.0
+  name: train#
+  realtimePhysics: false
+spawner:
+  enterMessage: ''
+  route: []
+  allowPlayerExit: true
+  slowDown: true
+  banking:
+    strength: 0.0
+    smoothness: 10.0
+  destination: ''
+  blockTypes: ''
+  blockOffset: unset
+  speedLimit: 0.4
+  soundEnabled: true
+  displayName: ''
+  killMessage: ''
+  collisionDamage: 1.0
+  wait:
+    distance: 0.0
+    delay: 0.0
+    acceleration: 0.0
+    deceleration: 0.0
+    predict: true
+  spawnItemDrops: true
+  blockBreakTypes: []
+  paperPlayerViewDistance: -1
+  keepChunksLoaded: false
+  allowPlayerEnter: true
+  allowPlayerTake: false
+  suffocation: true
+  routeIndex: 0
+  invincible: false
+  pickUp: false
+  collision:
+    players: DEFAULT
+    misc: PUSH
+    train: LINK
+    block: DEFAULT
+  onlyOwnersCanEnter: false
+  requirePoweredMinecart: false
+  gravity: 1.0
+  driveSound: ''
+  exitOffset:
+    ==: Vector
+    x: 0.0
+    y: 0.0
+    z: 0.0
+  exitYawLocked: false
+  exitYaw: 0.0
+  exitPitchLocked: false
+  exitPitch: 0.0
+  allowManualMovement: false
+  allowMobManualMovement: false
+  friction: 1.0
+  name: train#
+  realtimePhysics: false
